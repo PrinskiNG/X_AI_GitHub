@@ -1,0 +1,101 @@
+name: Run Grok Auto Task
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # daily at 00:00 UTC (adjust as needed)
+
+jobs:
+  run-grok-task:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install system deps for Playwright
+        run: |
+          set -eux
+          sudo apt-get update -y
+          # common libs required for Playwright/Chromium
+          sudo apt-get install -y libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libxss1 libasound2 libgbm1 libgtk-3-0 ca-certificates
+
+      - name: Install Python deps & Playwright browsers
+        run: |
+          set -eux
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt || true
+          else
+            pip install requests playwright || true
+          fi
+          # Install browsers for Playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Network & DNS checks (diagnose OpenRouter DNS issues)
+        run: |
+          set -eux
+          sudo apt-get update -y
+          sudo apt-get install -y dnsutils curl
+          echo "=== DNS: api.openrouter.ai ==="
+          dig +short api.openrouter.ai || true
+          echo "=== DNS: openrouter.ai ==="
+          dig +short openrouter.ai || true
+          echo "=== curl openrouter.ai (HEAD) ==="
+          curl -vI https://openrouter.ai/ || true
+          echo "=== curl api.openrouter.ai (HEAD) ==="
+          curl -vI https://api.openrouter.ai/ || true
+          echo "=== python getaddrinfo test ==="
+          python3 - <<'PY'
+import socket
+for host in ("api.openrouter.ai","openrouter.ai"):
+    try:
+        addrs = socket.getaddrinfo(host, 443)
+        print(host, "->", len(addrs), "addrs")
+    except Exception as e:
+        print(host, "ERR", e)
+PY
+
+      - name: Run grok_auto_task.py (with endpoint fallback and optional proxy)
+        env:
+          # required secrets
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          SUPER_GROK_COOKIES: ${{ secrets.SUPER_GROK_COOKIES }}
+          PAT_FOR_SECRETS: ${{ secrets.PAT_FOR_SECRETS }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          # optional/overridable settings
+          # prefer openrouter.ai first, then api.openrouter.ai
+          OPENROUTER_ENDPOINTS: ${{ secrets.OPENROUTER_ENDPOINTS || 'https://openrouter.ai/api/v1/chat/completions,https://api.openrouter.ai/v1/chat/completions' }}
+          OPENROUTER_MODEL: ${{ secrets.OPENROUTER_MODEL || 'anthropic/claude-sonnet-4-6' }}
+          KIMI_TEMPERATURE: ${{ secrets.KIMI_TEMPERATURE || '1.0' }}
+          # If you have a corporate proxy that solves DNS, set HTTPS_PROXY in repo secrets
+          HTTPS_PROXY: ${{ secrets.HTTPS_PROXY || '' }}
+        run: |
+          set -eux
+          export PYTHONUTF8=1
+          echo "OPENROUTER_ENDPOINTS=$OPENROUTER_ENDPOINTS"
+          echo "OPENROUTER_MODEL=$OPENROUTER_MODEL"
+          echo "KIMI_TEMPERATURE=$KIMI_TEMPERATURE"
+          # Ensure debug dir exists
+          mkdir -p debug_outputs
+          # Run the Grok task (script will save logs and debug outputs)
+          python3 grok_auto_task.py || true
+          echo "=== After script run: listing debug_outputs ==="
+          ls -la debug_outputs || true
+          if [ -f debug_outputs/summary.json ]; then
+            echo "=== content of debug_outputs/summary.json ==="
+            cat debug_outputs/summary.json || true
+          fi
+
+      - name: Upload debug outputs (always)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: grok-debug-outputs
+          path: debug_outputs/
