@@ -1,0 +1,122 @@
+{
+  "Scobleizer": {
+    "total": 10,
+    "max_l": 5,
+    "latest": "0311"
+  },
+  "bentossell": {
+    "total": 10,
+    "max_l": 2,
+    "latest": "0311"
+  },
+  "HuggingFace": {
+    "total": 10,
+    "max_l": 368,
+    "latest": "0310"
+  },
+  "MistralAI": {
+    "total": 10,
+    "max_l": 3886,
+    "latest": "0311"
+  },
+  "Perplexity_AI": {
+    "total": 10,
+    "max_l": 701,
+    "latest": "0311"
+  },
+  "GroqInc": {
+    "total": 10,
+    "max_l": 2417,
+    "latest": "0218"
+  },
+  "Cohere": {
+    "total": 10,
+    "max_l": 205,
+    "latest": "0304"
+  },
+  "TogetherCompute": {
+    "total": 10,
+    "max_l": 22,
+    "latest": "0311"
+  },
+  "runwayml": {
+    "total": 10,
+    "max_l": 401,
+    "latest": "0311"
+  },
+  "Midjourney": {
+    "total": 10,
+    "max_l": 20,
+    "latest": "0311"
+  },
+  "StabilityAI": {
+    "total": 10,
+    "max_l": 1347,
+    "latest": "0210"
+  },
+  "Scale_AI": {
+    "total": 10,
+    "max_l": 531,
+    "latest": "0309"
+  },
+  "CerebrasSystems": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "tenstorrent": {
+    "total": 10,
+    "max_l": 62,
+    "latest": "0311"
+  },
+  "weights_biases": {
+    "total": 10,
+    "max_l": 22,
+    "latest": "0311"
+  },
+  "langchainai": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "llama_index": {
+    "total": 10,
+    "max_l": 313,
+    "latest": "0311"
+  },
+  "supabase": {
+    "total": 10,
+    "max_l": 99,
+    "latest": "0311"
+  },
+  "vllm_project": {
+    "total": 10,
+    "max_l": 952,
+    "latest": "0311"
+  },
+  "huggingface_hub": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "nvidia": {
+    "total": 10,
+    "max_l": 4519,
+    "latest": "0311"
+  },
+  "AMD": {
+    "total": 10,
+    "max_l": 156,
+    "latest": "0311"
+  },
+  "Intel": {
+    "total": 10,
+    "max_l": 88,
+    "latest": "0311"
+  },
+  "SKhynix": {
+    "total": 10,
+    "max_l": 64,
+    "latest": "0311"
+  }
+}

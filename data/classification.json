@@ -1,4 +1,29 @@
 {
-  "date": "2026-03-11",
-  "classification": {}
+  "date": "2026-03-12",
+  "classification": {
+    "Scobleizer": "B",
+    "bentossell": "B",
+    "HuggingFace": "B",
+    "MistralAI": "A",
+    "Perplexity_AI": "B",
+    "GroqInc": "B",
+    "Cohere": "B",
+    "TogetherCompute": "B",
+    "runwayml": "B",
+    "Midjourney": "B",
+    "StabilityAI": "B",
+    "Scale_AI": "B",
+    "CerebrasSystems": "inactive",
+    "tenstorrent": "B",
+    "weights_biases": "B",
+    "langchainai": "inactive",
+    "llama_index": "B",
+    "supabase": "B",
+    "vllm_project": "B",
+    "huggingface_hub": "inactive",
+    "nvidia": "A",
+    "AMD": "B",
+    "Intel": "B",
+    "SKhynix": "B"
+  }
 }
