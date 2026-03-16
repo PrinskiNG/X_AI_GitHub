@@ -1,0 +1,126 @@
+{"a": "elonmusk", "l": 983, "t": "0315", "s": "Elon Musk posts a simple welcome message.", "tag": "raw"}
+{"a": "elonmusk", "l": 300, "t": "0315", "s": "Elon Musk reacts with a laughing emoji.", "tag": "raw"}
+{"a": "elonmusk", "l": 83114, "t": "0315", "s": "Elon Musk responds with shrug and laugh emojis to a cozy poster image.", "tag": "raw"}
+{"a": "sama", "l": 11910, "t": "0307", "s": "Sam Altman praises GPT-5.4 for coding knowledge work and its enjoyable personality.", "tag": "raw"}
+{"a": "sama", "l": 3191, "t": "0307", "s": "Sam Altman thanks Jensen for expanding Nvidia capacity for OpenAI at AWS.", "tag": "raw"}
+{"a": "sama", "l": 1928, "t": "0307", "s": "Sam Altman reacts emotionally to a user review of GPT-5.4.", "tag": "raw"}
+{"a": "karpathy", "l": 25, "t": "0315", "s": "Andrej Karpathy thanks for a blog post exported to markdown for his autoresearch loop.", "tag": "raw"}
+{"a": "karpathy", "l": 21, "t": "0315", "s": "Andrej Karpathy clarifies job exposure visualization was misinterpreted.", "tag": "raw"}
+{"a": "karpathy", "l": 61, "t": "0315", "s": "Andrej Karpathy explains a vibe-coded BLS dataset project taken down due to misinterpretation.", "tag": "raw"}
+{"a": "demishassabis", "l": 6380, "t": "0315", "s": "Demis Hassabis praises AlphaFold use in designing custom mRNA cancer vaccine for a dog.", "tag": "raw"}
+{"a": "demishassabis", "l": 2272, "t": "0313", "s": "Demis Hassabis celebrates AlphaEvolve improving Ramsey number bounds in AI maths.", "tag": "raw"}
+{"a": "demishassabis", "l": 122, "t": "0312", "s": "Demis Hassabis links to more on AlphaGo and Move 37.", "tag": "raw"}
+{"a": "darioamodei", "l": 6649, "t": "0126", "s": "Dario Amodei shares essay on AI risks to security economies and democracy.", "tag": "raw"}
+{"a": "darioamodei", "l": 2340, "t": "0126", "s": "Dario Amodei links new essay as companion to Machines of Loving Grace.", "tag": "raw"}
+{"a": "darioamodei", "l": 15274, "t": "0126", "s": "Dario Amodei publishes essay on powerful AI risks and defenses.", "tag": "raw"}
+{"a": "OpenAI", "l": 5471, "t": "0309", "s": "OpenAI acquires Promptfoo to strengthen agentic security testing keeping it open source.", "tag": "raw"}
+{"a": "OpenAI", "l": 2641, "t": "0306", "s": "OpenAI releases Codex Security application security agent in research preview.", "tag": "raw"}
+{"a": "OpenAI", "l": 2819, "t": "0305", "s": "OpenAI publishes Chain-of-Thought controllability evaluation for GPT-5.4.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 381, "t": "0311", "s": "Anthropic announces hiring for the new Anthropic Institute.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 343, "t": "0311", "s": "Anthropic details leadership and staff for the Anthropic Institute.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 386, "t": "0311", "s": "Anthropic explains the Institute will research powerful AI challenges.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 42, "t": "0312", "s": "Google DeepMind shares podcast links celebrating 10 years of AlphaGo.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 515, "t": "0312", "s": "Google DeepMind discusses building AI for scientific discovery in AlphaGo podcast.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 362, "t": "0312", "s": "Google DeepMind announces The AI Exchange at Platform 37 for public exploration.", "tag": "raw"}
+{"a": "xAI", "l": 552, "t": "0304", "s": "xAI announces employing thousands of workers from Memphis area.", "tag": "raw"}
+{"a": "xAI", "l": 892, "t": "0304", "s": "xAI will build water recycling plant protecting Memphis Aquifer.", "tag": "raw"}
+{"a": "xAI", "l": 287, "t": "0304", "s": "xAI plans new substations for regional electric grid stability.", "tag": "raw"}
+{"a": "AIatMeta", "l": 25, "t": "0312", "s": "AI at Meta details CHMv2 open source for forest mapping and carbon decisions.", "tag": "raw"}
+{"a": "AIatMeta", "l": 633, "t": "0312", "s": "AI at Meta announces Canopy Height Maps v2 using DINOv3 for global forests.", "tag": "raw"}
+{"a": "AIatMeta", "l": 387, "t": "0311", "s": "AI at Meta describes MTIA silicon evolution for next-gen AI scaling.", "tag": "raw"}
+{"a": "GoogleAI", "l": 496, "t": "0313", "s": "Google AI summarizes weekly updates on Maps Workspace Gemini and research.", "tag": "raw"}
+{"a": "GoogleAI", "l": 3, "t": "0313", "s": "Google AI comments on pickleball players practicing at night.", "tag": "raw"}
+{"a": "GoogleAI", "l": 73, "t": "0313", "s": "Google AI links to Gemini transforming Google Maps features.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 17, "t": "0312", "s": "Microsoft Research introduces AgentRx for debugging autonomous AI agents.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 11, "t": "0311", "s": "Microsoft Research promotes podcast on machine intelligence and climate future.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 12, "t": "0310", "s": "Microsoft Research discusses AI as teammates in future of work.", "tag": "raw"}
+{"a": "gregbrockman", "l": 3, "t": "0308", "s": "Greg Brockman posts Smash!!!", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "Greg Brockman shares multiple heart emojis.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "Greg Brockman expresses enjoyment about cakes.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 0, "t": "0315", "s": "Gary Marcus clarifies it is not a chatbot referencing his NYT oped.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 3, "t": "0315", "s": "Gary Marcus affirms Alpha Fold usefulness as positive AI example.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 24, "t": "0315", "s": "Gary Marcus insists on rereading his specific argument daily.", "tag": "raw"}
+{"a": "rowancheung", "l": 13, "t": "0312", "s": "Rowan Cheung promotes newsletter and links Nature paper source.", "tag": "raw"}
+{"a": "rowancheung", "l": 359, "t": "0312", "s": "Rowan Cheung describes paper-thin robot mimicking muscles for tight spaces.", "tag": "raw"}
+{"a": "rowancheung", "l": 56, "t": "0311", "s": "Rowan Cheung shares newsletter with SWARM Biotactics source.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Carrie discusses snapping turtle and horseshoe crab behavior without container.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Carrie mentions getting item from Saharah.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "Carrie comments on girl having class of a groundhog.", "tag": "raw"}
+{"a": "bindureddy", "l": 1, "t": "0315", "s": "Bindu Reddy laughs calling someone very pessimistic.", "tag": "raw"}
+{"a": "bindureddy", "l": 358, "t": "0315", "s": "Bindu Reddy predicts self-training AI models leading to ASI in 12 months.", "tag": "raw"}
+{"a": "bindureddy", "l": 319, "t": "0314", "s": "Bindu Reddy states white collar automation next frontier is blue collar robotics.", "tag": "raw"}
+{"a": "dotey", "l": 10, "t": "0315", "s": "Baoyu praises using AI to block spam accounts on X.", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0315", "s": "Baoyu notes his translation tool and post origins.", "tag": "raw"}
+{"a": "dotey", "l": 309, "t": "0315", "s": "Baoyu shares author experience on building AI Agent business opportunities.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0315", "s": "Orange AI clarifies local implementation and dismisses conceptual debate.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0315", "s": "Orange AI suggests chatting with AI about API definition.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0315", "s": "Orange AI questions why not.", "tag": "raw"}
+{"a": "vista8", "l": 9, "t": "0315", "s": "Vista8 praises content focusing on value over AI generation in self-education.", "tag": "raw"}
+{"a": "vista8", "l": 0, "t": "0315", "s": "Vista8 notes mostly for fun until tech improves.", "tag": "raw"}
+{"a": "vista8", "l": 30, "t": "0315", "s": "Vista8 summarizes NYT article on Meta AI chase struggles internal conflicts and model plans.", "tag": "raw"}
+{"a": "Sxsyer", "l": 0, "t": "0315", "s": "Mr. Yang agrees on AI iteration speed shifting film bottlenecks to taste.", "tag": "raw"}
+{"a": "Sxsyer", "l": 0, "t": "0315", "s": "Mr. Yang bets systems thinking taste and iteration as new moats.", "tag": "raw"}
+{"a": "Sxsyer", "l": 0, "t": "0315", "s": "Mr. Yang praises AI moderation for spam removal suggesting precision benchmarks.", "tag": "raw"}
+{"a": "Scobleizer", "l": 3, "t": "0315", "s": "Scobleizer confirms attendance at an event.", "tag": "raw"}
+{"a": "Scobleizer", "l": 0, "t": "0315", "s": "Scobleizer suggests accessing his lists via the front door link on X.", "tag": "raw"}
+{"a": "Scobleizer", "l": 1, "t": "0315", "s": "Scobleizer promotes his superior AI from levangielabs.com that reads 50,000 posts daily for key AI community insights.", "tag": "raw"}
+{"a": "bentossell", "l": 1, "t": "0315", "s": "Ben Tossell mentions agent-browser by Vercel.", "tag": "raw"}
+{"a": "bentossell", "l": 2, "t": "0315", "s": "Ben Tossell offers congratulations.", "tag": "raw"}
+{"a": "bentossell", "l": 2, "t": "0313", "s": "Ben Tossell agrees with a prior statement.", "tag": "raw"}
+{"a": "HuggingFace", "l": 37, "t": "0313", "s": "Hugging Face shares link to Builders program details.", "tag": "raw"}
+{"a": "HuggingFace", "l": 236, "t": "0313", "s": "Hugging Face launches global applications for Builders program inviting open AI community leaders worldwide.", "tag": "raw"}
+{"a": "HuggingFace", "l": 185, "t": "0312", "s": "Hugging Face sponsors Gemini hackathon with Cerebral Valley in Paris this weekend.", "tag": "raw"}
+{"a": "MistralAI", "l": 482, "t": "0312", "s": "Mistral AI announces first flagship AI Now Summit in Paris on May 28 focused on enterprise AI transformation.", "tag": "raw"}
+{"a": "MistralAI", "l": 15, "t": "0311", "s": "Mistral AI uses hashtags for GTC 2026.", "tag": "raw"}
+{"a": "MistralAI", "l": 18, "t": "0311", "s": "Mistral AI shares link to NVIDIA GTC events and meetings.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1769, "t": "0313", "s": "Perplexity adds NVIDIA’s Nemotron 3 Super to its platforms including Agent API and Computer.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 4218, "t": "0313", "s": "Perplexity launches Computer on mobile with cross-device sync for iOS, coming to Android.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 2687, "t": "0312", "s": "Perplexity releases Computer for Pro subscribers with advanced models, skills, and connectors.", "tag": "raw"}
+{"a": "GroqInc", "l": 307, "t": "0218", "s": "Groq wishes Happy Ramadan.", "tag": "raw"}
+{"a": "GroqInc", "l": 6, "t": "0216", "s": "Groq shares link about expanding GroqCloud to meet demand.", "tag": "raw"}
+{"a": "GroqInc", "l": 32, "t": "0216", "s": "Groq announces UK data center live with Equinix for low-latency inference in Europe.", "tag": "raw"}
+{"a": "Cohere", "l": 24, "t": "0312", "s": "Cohere invites to NVIDIA GTC booth for AI sovereignty discussions.", "tag": "raw"}
+{"a": "Cohere", "l": 69, "t": "0304", "s": "Cohere announces multi-year partnership with Aston Martin F1 as Official Generative AI Partner.", "tag": "raw"}
+{"a": "Cohere", "l": 0, "t": "0220", "s": "Cohere directs partner applications to form.", "tag": "raw"}
+{"a": "TogetherCompute", "l": 11, "t": "0313", "s": "Together AI promotes sessions at NVIDIA GTC with DecagonAI and cursor_ai.", "tag": "raw"}
+{"a": "TogetherCompute", "l": 23, "t": "0313", "s": "Together AI shares resources and code for Open Deep Research v2.", "tag": "raw"}
+{"a": "TogetherCompute", "l": 15, "t": "0313", "s": "Together AI links to Open Deep Research v2 app.", "tag": "raw"}
+{"a": "runwayml", "l": 14, "t": "0313", "s": "Runway shares API guide to create custom Characters.", "tag": "raw"}
+{"a": "runwayml", "l": 475, "t": "0313", "s": "Runway explains creating real-time video agents via API with custom Characters.", "tag": "raw"}
+{"a": "runwayml", "l": 6, "t": "0312", "s": "Runway links to responsible AI Characters building article.", "tag": "raw"}
+{"a": "Midjourney", "l": 24, "t": "0311", "s": "Midjourney hosts Weekly Office Hours on March 11.", "tag": "raw"}
+{"a": "Midjourney", "l": 3, "t": "0302", "s": "Midjourney recommends its website for image generation.", "tag": "raw"}
+{"a": "Midjourney", "l": 1, "t": "0302", "s": "Midjourney responds no to a request.", "tag": "raw"}
+{"a": "StabilityAI", "l": 21, "t": "0210", "s": "Stability AI supports Safer Internet Day 2026 and online safety initiatives.", "tag": "raw"}
+{"a": "StabilityAI", "l": 303, "t": "1119", "s": "Stability AI partners with Warner Music for ethical AI music tools.", "tag": "raw"}
+{"a": "StabilityAI", "l": 0, "t": "1030", "s": "Stability AI posts a ghost emoji.", "tag": "raw"}
+{"a": "Scale_AI", "l": 48, "t": "0309", "s": "Scale AI launches Scale Labs for research on data, evaluation, safety, and post-training.", "tag": "raw"}
+{"a": "Scale_AI", "l": 18, "t": "0304", "s": "Scale AI shares SWE-Atlas QnA dataset and leaderboard.", "tag": "raw"}
+{"a": "Scale_AI", "l": 529, "t": "0304", "s": "Scale AI introduces SWE-Atlas evolving SWE-Bench Pro for interactive software engineering evaluation.", "tag": "raw"}
+{"a": "tenstorrent", "l": 39, "t": "0313", "s": "Tenstorrent runs Doom on TT-Ascalon RISC-V CPU.", "tag": "raw"}
+{"a": "tenstorrent", "l": 8, "t": "0313", "s": "Tenstorrent links to TT-QuietBox 2 waitlist.", "tag": "raw"}
+{"a": "tenstorrent", "l": 119, "t": "0313", "s": "Tenstorrent unveils TT-QuietBox 2 whisper-quiet AI workstation for local 120B models.", "tag": "raw"}
+{"a": "weights_biases", "l": 2, "t": "0311", "s": "Weights & Biases references Andrej Karpathy's old loss functions Tumblr as holy grail.", "tag": "raw"}
+{"a": "weights_biases", "l": 2, "t": "0305", "s": "Weights & Biases quotes a fine-tuning LoRA rank sweep post.", "tag": "raw"}
+{"a": "weights_biases", "l": 9, "t": "0305", "s": "Weights & Biases shares daily anxiety levels meme versus realizing it's not that deep.", "tag": "raw"}
+{"a": "llama_index", "l": 47, "t": "0313", "s": "LlamaIndex compares Skills versus MCP tools for AI agents and recommends MCP for fast-changing domains.", "tag": "raw"}
+{"a": "llama_index", "l": 84, "t": "0312", "s": "LlamaIndex explains agentic OCR with multimodal models, visual grounding, and self-correction for high accuracy.", "tag": "raw"}
+{"a": "llama_index", "l": 108, "t": "0311", "s": "LlamaIndex releases semtools v3.0.0 with unified CLI, JSON output, smaller binary, and workspace flag.", "tag": "raw"}
+{"a": "supabase", "l": 29, "t": "0315", "s": "Supabase hosts webinar on AI-generated backends and policy reviews with agency leaders.", "tag": "raw"}
+{"a": "supabase", "l": 59, "t": "0314", "s": "Supabase demonstrates SQL querying of real-time Ethereum data via Infura foreign data wrapper.", "tag": "raw"}
+{"a": "supabase", "l": 19, "t": "0313", "s": "Supabase announces Austin TX builders hangout with Dreambase.", "tag": "raw"}
+{"a": "vllm_project", "l": 95, "t": "0315", "s": "vLLM shows easy integration of OpenClaw with any model via OpenAI-compatible API.", "tag": "raw"}
+{"a": "vllm_project", "l": 345, "t": "0311", "s": "vLLM adds day-0 support for NVIDIA Nemotron 3 Super with major performance gains.", "tag": "raw"}
+{"a": "vllm_project", "l": 145, "t": "0309", "s": "vLLM powers fully local OpenClaw AI assistant on NVIDIA Jetson.", "tag": "raw"}
+{"a": "nvidia", "l": 40, "t": "0315", "s": "NVIDIA discusses inference optimization flexibility across Hopper and Blackwell architectures.", "tag": "raw"}
+{"a": "nvidia", "l": 187, "t": "0315", "s": "NVIDIA highlights rapid Kimi K2.5 model optimization on Blackwell by multiple providers.", "tag": "raw"}
+{"a": "nvidia", "l": 262, "t": "0315", "s": "NVIDIA promotes Claws autonomous AI agents at GTC with safety discussions.", "tag": "raw"}
+{"a": "AMD", "l": 61, "t": "0315", "s": "AMD celebrates VFX nominees at 98th Oscars and supports cinematic innovation.", "tag": "raw"}
+{"a": "AMD", "l": 49, "t": "0313", "s": "AMD reacts with emojis to a prior post.", "tag": "raw"}
+{"a": "AMD", "l": 1500, "t": "0313", "s": "AMD shares article link.", "tag": "raw"}
+{"a": "Intel", "l": 0, "t": "0313", "s": "Intel mentions gaming performance boost from Core Ultra 200S Plus.", "tag": "raw"}
+{"a": "Intel", "l": 46, "t": "0312", "s": "Intel highlights low-latency agentic AI support at Embedded World 2026.", "tag": "raw"}
+{"a": "Intel", "l": 20, "t": "0311", "s": "Intel appreciates a user post about Core Ultra and Xeon.", "tag": "raw"}
+{"a": "SKhynix", "l": 9, "t": "0312", "s": "SK hynix appoints Joondeok Park as VP of DRAM Marketing for 2026 AI memory leadership.", "tag": "raw"}
+{"a": "SKhynix", "l": 7, "t": "0311", "s": "SK hynix wins CDP Korea Awards for climate and water security achievements.", "tag": "raw"}
+{"a": "SKhynix", "l": 56, "t": "0310", "s": "SK hynix develops 1c LPDDR6 DRAM for on-device AI with superior speed and efficiency.", "tag": "raw"}
