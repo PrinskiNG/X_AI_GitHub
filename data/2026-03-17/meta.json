@@ -1,0 +1,142 @@
+{
+  "Scobleizer": {
+    "total": 3,
+    "max_l": 7,
+    "latest": "0316"
+  },
+  "bentossell": {
+    "total": 3,
+    "max_l": 0,
+    "latest": "0316"
+  },
+  "HuggingFace": {
+    "total": 3,
+    "max_l": 241,
+    "latest": "0313"
+  },
+  "MistralAI": {
+    "total": 3,
+    "max_l": 2194,
+    "latest": "0316"
+  },
+  "Perplexity_AI": {
+    "total": 3,
+    "max_l": 1392,
+    "latest": "0316"
+  },
+  "GroqInc": {
+    "total": 3,
+    "max_l": 307,
+    "latest": "0218"
+  },
+  "Cohere": {
+    "total": 3,
+    "max_l": 69,
+    "latest": "0316"
+  },
+  "TogetherCompute": {
+    "total": 3,
+    "max_l": 22,
+    "latest": "0313"
+  },
+  "runwayml": {
+    "total": 3,
+    "max_l": 476,
+    "latest": "0313"
+  },
+  "Midjourney": {
+    "total": 1,
+    "max_l": 26,
+    "latest": "0311"
+  },
+  "StabilityAI": {
+    "total": 2,
+    "max_l": 303,
+    "latest": "0210"
+  },
+  "Scale_AI": {
+    "total": 3,
+    "max_l": 528,
+    "latest": "0309"
+  },
+  "CerebrasSystems": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "tenstorrent": {
+    "total": 3,
+    "max_l": 120,
+    "latest": "0313"
+  },
+  "weights_biases": {
+    "total": 3,
+    "max_l": 9,
+    "latest": "0311"
+  },
+  "langchainai": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "llama_index": {
+    "total": 3,
+    "max_l": 84,
+    "latest": "0316"
+  },
+  "supabase": {
+    "total": 3,
+    "max_l": 70,
+    "latest": "0316"
+  },
+  "vllm_project": {
+    "total": 3,
+    "max_l": 75,
+    "latest": "0316"
+  },
+  "huggingface_hub": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "nvidia": {
+    "total": 3,
+    "max_l": 413,
+    "latest": "0316"
+  },
+  "AMD": {
+    "total": 3,
+    "max_l": 15,
+    "latest": "0316"
+  },
+  "Intel": {
+    "total": 3,
+    "max_l": 32,
+    "latest": "0316"
+  },
+  "SKhynix": {
+    "total": 3,
+    "max_l": 55,
+    "latest": "0316"
+  },
+  "aipubcast": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "lexfridman": {
+    "total": 3,
+    "max_l": 7743,
+    "latest": "0311"
+  },
+  "hubermanlab": {
+    "total": 3,
+    "max_l": 1196,
+    "latest": "0316"
+  },
+  "swyx": {
+    "total": 3,
+    "max_l": 22,
+    "latest": "0316"
+  }
+}

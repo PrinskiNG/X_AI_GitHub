@@ -1,0 +1,69 @@
+{"a": "Scobleizer", "l": 2, "t": "0316", "s": "Scoble reacts to an event announcement at GTC and invites a meetup while attending all week.", "tag": "raw"}
+{"a": "Scobleizer", "l": 1, "t": "0316", "s": "Scoble praises a detailed summary of today's announcements at the event.", "tag": "raw"}
+{"a": "Scobleizer", "l": 7, "t": "0316", "s": "Scoble explains fast-following as a viable strategy for strong companies like NVIDIA, highlighting its leadership at GTC amid AI competition.", "tag": "raw"}
+{"a": "bentossell", "l": 0, "t": "0316", "s": "Ben Tossell details explanations for Codex including local/remote setups, sandboxes, diffs, automations, and best practices for workflows.", "tag": "raw"}
+{"a": "bentossell", "l": 0, "t": "0316", "s": "Ben Tossell notes he has yet to try it but plans to soon.", "tag": "raw"}
+{"a": "bentossell", "l": 0, "t": "0316", "s": "Ben Tossell responds with relief and thanks.", "tag": "raw"}
+{"a": "HuggingFace", "l": 40, "t": "0313", "s": "Hugging Face shares details on their Builders program via a Notion link.", "tag": "raw"}
+{"a": "HuggingFace", "l": 241, "t": "0313", "s": "Hugging Face launches global applications for the Builders program, inviting passionate individuals to lead open AI community initiatives.", "tag": "raw"}
+{"a": "HuggingFace", "l": 187, "t": "0312", "s": "Hugging Face sponsors the Gemini hackathon with Cerebral Valley, encouraging attendance this weekend.", "tag": "raw"}
+{"a": "MistralAI", "l": 122, "t": "0316", "s": "Mistral AI highlights their first project with NVIDIA as founding member of the Nemotron Coalition for open frontier models.", "tag": "raw"}
+{"a": "MistralAI", "l": 2194, "t": "0316", "s": "Mistral AI announces strategic partnership with NVIDIA to co-develop frontier open-source AI models combining their architecture with NVIDIA's infrastructure.", "tag": "raw"}
+{"a": "MistralAI", "l": 489, "t": "0312", "s": "Mistral AI introduces the AI Now Summit event in Paris on May 28 focusing on AI transformation and open source strategies.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 60, "t": "0316", "s": "Perplexity promotes trying Computer in Comet at their site.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1392, "t": "0316", "s": "Perplexity announces Computer now takes full control of Comet for tasks via browser agent without connectors.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1035, "t": "0316", "s": "Perplexity releases Computer on Android for cross-device task management.", "tag": "raw"}
+{"a": "GroqInc", "l": 307, "t": "0218", "s": "Groq Inc wishes Happy Ramadan.", "tag": "raw"}
+{"a": "GroqInc", "l": 6, "t": "0216", "s": "Groq Inc shares link to learn more about GroqCloud expansion.", "tag": "raw"}
+{"a": "GroqInc", "l": 32, "t": "0216", "s": "Groq Inc announces GroqCloud scaling with new UK data center for low-latency inference in Europe.", "tag": "raw"}
+{"a": "Cohere", "l": 42, "t": "0316", "s": "Cohere announces building NVIDIA-native models and optimized North platform at GTC for secure enterprise AI.", "tag": "raw"}
+{"a": "Cohere", "l": 24, "t": "0312", "s": "Cohere invites to GTC booth to discuss AI sovereignty and enterprise empowerment.", "tag": "raw"}
+{"a": "Cohere", "l": 69, "t": "0304", "s": "Cohere announces multi-year partnership with Aston Martin F1 as Official Generative AI Partner.", "tag": "raw"}
+{"a": "TogetherCompute", "l": 11, "t": "0313", "s": "Together AI promotes upcoming sessions at NVIDIA GTC with partners on cloud infrastructure for AI innovation.", "tag": "raw"}
+{"a": "TogetherCompute", "l": 22, "t": "0313", "s": "Together AI shares resources and GitHub for Open Deep Research v2.", "tag": "raw"}
+{"a": "TogetherCompute", "l": 15, "t": "0313", "s": "Together AI links to try the Open Deep Research v2 app.", "tag": "raw"}
+{"a": "runwayml", "l": 15, "t": "0313", "s": "Runway provides link to get started creating own Characters via API.", "tag": "raw"}
+{"a": "runwayml", "l": 476, "t": "0313", "s": "Runway demonstrates creating custom Characters using their API for real-time video agents in apps.", "tag": "raw"}
+{"a": "runwayml", "l": 6, "t": "0312", "s": "Runway shares link to learn about building interactive AI characters responsibly.", "tag": "raw"}
+{"a": "Midjourney", "l": 26, "t": "0311", "s": "Midjourney announces Weekly Office Hours on March 11 with a Spaces link.", "tag": "raw"}
+{"a": "StabilityAI", "l": 21, "t": "0210", "s": "Stability AI supports Safer Internet Day 2026, promoting online safety and digital wellbeing amid AI integration.", "tag": "raw"}
+{"a": "StabilityAI", "l": 303, "t": "1119", "s": "Stability AI announces partnership with Warner Music for professional AI tools to empower artists ethically.", "tag": "raw"}
+{"a": "Scale_AI", "l": 48, "t": "0309", "s": "Scale AI introduces ScaleAILabs as new home for their AI research focused on data, evaluation, and safety.", "tag": "raw"}
+{"a": "Scale_AI", "l": 18, "t": "0304", "s": "Scale AI shares full dataset and leaderboard for SWE-Atlas QnA evaluation.", "tag": "raw"}
+{"a": "Scale_AI", "l": 528, "t": "0304", "s": "Scale AI launches SWE-Atlas as evolution of SWE-Bench Pro for better agent evaluation in software development workflows.", "tag": "raw"}
+{"a": "tenstorrent", "l": 41, "t": "0313", "s": "Tenstorrent shares video of running Doom on their TT-Ascalon RISC-V CPU.", "tag": "raw"}
+{"a": "tenstorrent", "l": 8, "t": "0313", "s": "Tenstorrent promotes TT-QuietBox 2 with waitlist link for local AI workloads.", "tag": "raw"}
+{"a": "tenstorrent", "l": 120, "t": "0313", "s": "Tenstorrent introduces TT-QuietBox 2, a whisper-quiet desktop AI system for running up to 120B models locally.", "tag": "raw"}
+{"a": "weights_biases", "l": 2, "t": "0311", "s": "Weights & Biases account shares a humorous old Tumblr post on loss functions as the holy grail.", "tag": "raw"}
+{"a": "weights_biases", "l": 2, "t": "0305", "s": "Weights & Biases quotes a post on LoRA rank sweep for fine-tuning VLMs with a link.", "tag": "raw"}
+{"a": "weights_biases", "l": 9, "t": "0305", "s": "Weights & Biases posts meme comparing daily anxiety levels to realizing it's not that deep, with images.", "tag": "raw"}
+{"a": "llama_index", "l": 18, "t": "0316", "s": "LlamaIndex explains how agentic AI enhances document extraction with reasoning, visual grounding, and dynamic processing via LlamaParse.", "tag": "raw"}
+{"a": "llama_index", "l": 49, "t": "0313", "s": "LlamaIndex compares Skills and MCP tools for AI agents, recommending based on domain evolution speed.", "tag": "raw"}
+{"a": "llama_index", "l": 84, "t": "0312", "s": "LlamaIndex describes agentic OCR as reasoning-based parsing with self-correction, offering free credits for LlamaParse.", "tag": "raw"}
+{"a": "supabase", "l": 13, "t": "0316", "s": "Supabase promotes AI, PowerSync hackathon with prizes including Supabase credits.", "tag": "raw"}
+{"a": "supabase", "l": 17, "t": "0316", "s": "Supabase announces meetup with dreambase.ai in Austin today.", "tag": "raw"}
+{"a": "supabase", "l": 70, "t": "0315", "s": "Supabase hosts webinar on AI-generated backend policies, schema, and RLS strategies.", "tag": "raw"}
+{"a": "vllm_project", "l": 50, "t": "0316", "s": "vLLM highlights P-EAGLE innovation from Amazon and NVIDIA for faster speculative decoding with parallel token generation.", "tag": "raw"}
+{"a": "vllm_project", "l": 75, "t": "0316", "s": "vLLM shares photo of their presence at GTC 2026.", "tag": "raw"}
+{"a": "vllm_project", "l": 1, "t": "0316", "s": "vLLM comments positively on community work advancing sparse attention efficiency.", "tag": "raw"}
+{"a": "nvidia", "l": 360, "t": "0316", "s": "NVIDIA announces Jensen Huang delivering live keynote at GTC from SAP Center.", "tag": "raw"}
+{"a": "nvidia", "l": 413, "t": "0316", "s": "NVIDIA promotes GTC Live event featuring industry leaders ahead of Jensen's keynote.", "tag": "raw"}
+{"a": "nvidia", "l": 69, "t": "0315", "s": "NVIDIA discusses innovation flexibility on Hopper and Blackwell platforms for AI inference providers.", "tag": "raw"}
+{"a": "AMD", "l": 15, "t": "0316", "s": "AMD congratulates Kimi Antonelli on Formula One victory, noting their data powering his drive.", "tag": "raw"}
+{"a": "AMD", "l": 8, "t": "0316", "s": "AMD reacts positively to something cool.", "tag": "raw"}
+{"a": "AMD", "l": 13, "t": "0316", "s": "AMD responds with fire emoji to a post.", "tag": "raw"}
+{"a": "Intel", "l": 0, "t": "0316", "s": "Intel praises someone's amazing job performance.", "tag": "raw"}
+{"a": "Intel", "l": 32, "t": "0316", "s": "Intel showcases demos at Embedded World 2026 demonstrating processors powering physical and agentic AI.", "tag": "raw"}
+{"a": "Intel", "l": 0, "t": "0316", "s": "Intel highlights performance of devices with Intel Core Ultra.", "tag": "raw"}
+{"a": "SKhynix", "l": 55, "t": "0316", "s": "SK hynix introduces new Vice President Kyoungchul Jang leading 3D memory revolution for AI era.", "tag": "raw"}
+{"a": "SKhynix", "l": 9, "t": "0312", "s": "SK hynix welcomes Joondeok Park as Vice President of DRAM Marketing for AI memory supercycle.", "tag": "raw"}
+{"a": "SKhynix", "l": 7, "t": "0311", "s": "SK hynix celebrates awards for climate and water security under PRISM framework toward Net Zero.", "tag": "raw"}
+{"a": "lexfridman", "l": 339, "t": "0311", "s": "Shared links for conversation with Jeff Kaplan on YouTube, Spotify, and Lex Fridman podcast.", "tag": "raw"}
+{"a": "lexfridman", "l": 7743, "t": "0311", "s": "Lex Fridman shares conversation with Jeff Kaplan on Blizzard games, career, and new game The Legend of California, with full timestamps and highlights.", "tag": "raw"}
+{"a": "lexfridman", "l": 458, "t": "0304", "s": "Lex Fridman announces German dubbed version of conversation with Peter Steinberger using ElevenLabs AI, available on X and YouTube with audio track selection.", "tag": "raw"}
+{"a": "hubermanlab", "l": 6, "t": "0316", "s": "Huberman thanks a user and praises Dr. Richard Davidson as a wonderful guest teaching valuable tools in the meditation episode.", "tag": "raw"}
+{"a": "hubermanlab", "l": 1196, "t": "0316", "s": "Huberman explains meditation goal is not clearing mind but sitting with stress without reacting, like lactate for the mind to build strength.", "tag": "raw"}
+{"a": "hubermanlab", "l": 17, "t": "0316", "s": "The meditative state involves sitting with stress rather than achieving peace.", "tag": "raw"}
+{"a": "swyx", "l": 0, "t": "0316", "s": "This image added 1 billion to the SemiAnalysis market cap.", "tag": "raw"}
+{"a": "swyx", "l": 22, "t": "0316", "s": "swyx calls the AIE EU keynote speakers announcement the most drop the mic ever, with koding agents enabling easter eggs.", "tag": "raw"}
+{"a": "swyx", "l": 1, "t": "0316", "s": "The claw is law.", "tag": "raw"}
