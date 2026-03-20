@@ -1,0 +1,118 @@
+{"a": "elonmusk", "l": 10481, "t": "0319", "s": "Elon Musk announced a major update to the X AI recommendation algorithm rolling out next week, which will be open sourced simultaneously.", "tag": "raw"}
+{"a": "elonmusk", "l": 7181, "t": "0319", "s": "Elon Musk replied that the person is not as good as them and to stop being so humble.", "tag": "raw"}
+{"a": "elonmusk", "l": 8288, "t": "0319", "s": "Elon Musk reacted cutely to Nicki Minaj's post about Chibi templates on Grok Imagine coming to GAG CITY.", "tag": "raw"}
+{"a": "sama", "l": 3214, "t": "0317", "s": "Sam Altman reassured they are expanding rather than shutting down something and that users will love the team's new builds.", "tag": "raw"}
+{"a": "sama", "l": 35516, "t": "0317", "s": "Sam Altman expressed gratitude to developers who built complex software character by character, crediting their effort for current AI progress.", "tag": "raw"}
+{"a": "sama", "l": 2134, "t": "0316", "s": "Sam Altman agreed GPT-5.4's distinguishing humanity and personality outweigh its intelligence in user appeal.", "tag": "raw"}
+{"a": "karpathy", "l": 60, "t": "0319", "s": "Andrej Karpathy loved an idea, noting it might work well with effort despite not being fully verifiable.", "tag": "raw"}
+{"a": "karpathy", "l": 219, "t": "0318", "s": "Andrej Karpathy mentioned four unfinished blog posts and described Dobby AI controlling his house via WhatsApp.", "tag": "raw"}
+{"a": "karpathy", "l": 288, "t": "0318", "s": "Andrej Karpathy complained X breaks time links, referencing a specific timestamp at 26:17.", "tag": "raw"}
+{"a": "demishassabis", "l": 160, "t": "0319", "s": "Demis Hassabis agreed on tough constraints in the computational substrate.", "tag": "raw"}
+{"a": "demishassabis", "l": 1744, "t": "0319", "s": "Demis Hassabis praised vibe design with Stitch by Google for incredible interfaces.", "tag": "raw"}
+{"a": "demishassabis", "l": 1715, "t": "0318", "s": "Demis Hassabis noted everything can be thought of as information.", "tag": "raw"}
+{"a": "darioamodei", "l": 6656, "t": "0126", "s": "Dario Amodei shared an essay on AI risks to security, economies, and democracy, stressing democratic values preservation.", "tag": "raw"}
+{"a": "darioamodei", "l": 2345, "t": "0126", "s": "Dario Amodei presented the essay as companion to his prior 'Machines of Loving Grace' on positive AI futures.", "tag": "raw"}
+{"a": "darioamodei", "l": 15290, "t": "0126", "s": "Dario Amodei released 'The Adolescence of Technology' essay on AI risks and defense strategies.", "tag": "raw"}
+{"a": "OpenAI", "l": 3923, "t": "0318", "s": "OpenAI challenged users with a parameter-golf coding event, linking to details and video.", "tag": "raw"}
+{"a": "OpenAI", "l": 672, "t": "0317", "s": "OpenAI announced GPT-5.4 nano availability in the API today.", "tag": "raw"}
+{"a": "OpenAI", "l": 6231, "t": "0317", "s": "OpenAI released GPT-5.4 mini optimized for coding and multimodal use, twice as fast as prior version.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 217, "t": "0318", "s": "Anthropic thanked 80,508 interviewees on AI views, linking to full report.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 175, "t": "0318", "s": "Anthropic explained interviews provide deeper AI insights than surveys and plan regular tool use.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 223, "t": "0318", "s": "Anthropic reported 67% global positive AI views, higher in South America, Africa, Asia.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 873, "t": "0317", "s": "Google DeepMind launched Kaggle hackathon with $200k prizes for AGI cognitive evaluation frameworks.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 49, "t": "0312", "s": "Google DeepMind shared podcast links celebrating 10 years of AlphaGo.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 542, "t": "0312", "s": "Google DeepMind discussed building AI for science in AlphaGo anniversary podcast.", "tag": "raw"}
+{"a": "xAI", "l": 3493, "t": "0316", "s": "xAI released Grok Text to Speech API for natural voices and app integration.", "tag": "raw"}
+{"a": "xAI", "l": 562, "t": "0304", "s": "xAI announced hiring thousands of workers in Memphis area.", "tag": "raw"}
+{"a": "AIatMeta", "l": 25, "t": "0312", "s": "AI at Meta noted CHMv2 open source aiding global forest mapping for carbon and land decisions.", "tag": "raw"}
+{"a": "AIatMeta", "l": 634, "t": "0312", "s": "AI at Meta announced open source CHMv2 for accurate global canopy mapping using DINOv3.", "tag": "raw"}
+{"a": "AIatMeta", "l": 394, "t": "0311", "s": "AI at Meta detailed rapid MTIA custom silicon evolution over four generations in two years.", "tag": "raw"}
+{"a": "GoogleAI", "l": 144, "t": "0319", "s": "Google AI invited building or playing Geoseeker hide-and-seek map game in AI Studio.", "tag": "raw"}
+{"a": "GoogleAI", "l": 7841, "t": "0319", "s": "Google AI launched full-stack vibe coding in AI Studio with multiplayer, Firebase, and agent features.", "tag": "raw"}
+{"a": "GoogleAI", "l": 79, "t": "0318", "s": "Google AI confirmed Stitch access for 18+ users in Gemini regions.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 16, "t": "0316", "s": "Microsoft Research shared podcast on future of machine intelligence and climate.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 18, "t": "0312", "s": "Microsoft Research introduced AgentRx framework for debugging AI agents.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 12, "t": "0311", "s": "Microsoft Research promoted podcast series on future tech advancements.", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "Greg Brockman posted an enthusiastic 'Smash!!!'.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "Greg Brockman shared multiple heart emojis.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "Greg Brockman expressed delight at cakes.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 47, "t": "0319", "s": "Gary Marcus called for a pause on AI journalism, defending his prediction accuracy against critics.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 5, "t": "0319", "s": "Gary Marcus reacted with a laughing emoji.", "tag": "raw"}
+{"a": "rowancheung", "l": 15, "t": "0319", "s": "Rowan Cheung shared OrcaHand info and promoted his AI newsletter.", "tag": "raw"}
+{"a": "rowancheung", "l": 1375, "t": "0319", "s": "Rowan Cheung detailed affordable open-source 3D-printable robotic hand with sensors from ETH Zurich.", "tag": "raw"}
+{"a": "rowancheung", "l": 14, "t": "0317", "s": "Rowan Cheung promoted his daily AI newsletter subscription.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Carrie explained snapping turtles and horseshoe crabs stay put on floors without containers.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Carrie mentioned receiving an item from Saharah recently.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "Carrie criticized a girl's class harshly.", "tag": "raw"}
+{"a": "bindureddy", "l": 85, "t": "0319", "s": "Bindu Reddy announced the era of cheap fast AI models with specific examples like GLM and Grok.", "tag": "raw"}
+{"a": "bindureddy", "l": 1, "t": "0319", "s": "Bindu Reddy posted 'Will update'.", "tag": "raw"}
+{"a": "dotey", "l": 20, "t": "0319", "s": "Dotey detailed Anthropic's Claude Code Channels for Telegram/Discord remote control of coding sessions.", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0319", "s": "Dotey laughed in agreement.", "tag": "raw"}
+{"a": "dotey", "l": 58, "t": "0319", "s": "Dotey explained OpenAI's acquisition of Astral to enhance Codex with Python tools.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0319", "s": "Orange AI agreed simply.", "tag": "raw"}
+{"a": "oran_ge", "l": 2, "t": "0319", "s": "Orange AI expressed exhaustion from five weekly gym visits.", "tag": "raw"}
+{"a": "oran_ge", "l": 4, "t": "0319", "s": "Orange AI noted easy GUI CLI API integration when tech is abundant.", "tag": "raw"}
+{"a": "vista8", "l": 27, "t": "0319", "s": "Vista8 shared positive hands-on feedback on Feishu's Aily AI partner for office use.", "tag": "raw"}
+{"a": "vista8", "l": 73, "t": "0319", "s": "Vista8 posted a link to an article.", "tag": "raw"}
+{"a": "vista8", "l": 0, "t": "0319", "s": "Vista8 questioned if it would cover previous aspects.", "tag": "raw"}
+{"a": "Sxsyer", "l": 0, "t": "0319", "s": "Mr.Yang highlighted EV adoption signals focusing on reliability and economics.", "tag": "raw"}
+{"a": "Sxsyer", "l": 0, "t": "0319", "s": "Mr.Yang praised Sui network for converting attention to durable effects via tooling.", "tag": "raw"}
+{"a": "Sxsyer", "l": 0, "t": "0319", "s": "Mr.Yang emphasized execution in AI shortening feedback loops for updates.", "tag": "raw"}
+{"a": "tualatrix", "l": 54, "t": "0319", "s": "OpenAI acquires Astral, company behind Rust-based Python package manager uv. Logical since Codex is Rust-written, advancing developer productivity tools.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0319", "s": "Any ongoing practice without getting stuck is the best one right now, since there are no established best practices.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0319", "s": "Breastfeeding is going really well.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Air China flight CA856 cancelled suddenly without email notice; user seeks options for future seat or full refund from airline.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "It's 11 o'clock lu.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Waiting for someone.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Hello everyone.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "Houses in Tohoku are so big... on NHK Education channel.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Twitter and 2chan are both full of thoughts and feelings.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Nosu tra dam suuuu...", "tag": "raw"}
+{"a": "mranti", "l": 1, "t": "0319", "s": "Yes, SQL configurations and no-code diagrams were hugely popular back then as they solved numerous issues.", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0319", "s": "China's top official broadcast style is CCTV accent; the popular folk version is Taiwan Mandarin broadcast accent.", "tag": "raw"}
+{"a": "mranti", "l": 4, "t": "0319", "s": "We're posting about Zhou Huimin.", "tag": "raw"}
+{"a": "nishuang", "l": 33, "t": "0409", "s": "App designs incorporating game-like experiences like CapWords for language learning create intrinsic motivation through collection and achievement unlike dopamine-driven gamification in Duolingo.", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "You still don't understand the obstacle. This operation requires capturing the whole screen and recognizing all elements first, abandoning CapWords' key auto-crop feature.", "tag": "raw"}
+{"a": "a16z", "l": 50, "t": "0319", "s": "OpenClaw AI will create more jobs similar to how cloud computing expanded IT organizations and spending rather than reducing them. Ignoring new tech doesn't work.", "tag": "raw"}
+{"a": "a16z", "l": 83, "t": "0319", "s": "Current internet not built for AI agents; opportunity for startups to build proxies. Big sites may need redesign or new companies for agent compatibility.", "tag": "raw"}
+{"a": "a16z", "l": 57, "t": "0319", "s": "Sir, that's a CD-ROM drive, said with pmarca and davidsenra.", "tag": "raw"}
+{"a": "ycombinator", "l": 8, "t": "0319", "s": "Paul Graham returns to The Social Radars podcast discussing early YC days, growth through word of mouth, helping founders, and AI's influence on new founders.", "tag": "raw"}
+{"a": "ycombinator", "l": 108, "t": "0319", "s": "Paul Graham on The Social Radars podcast covers YC early years, founder stories, Sam Altman transition, and AI impact on startups. Full timestamps provided.", "tag": "raw"}
+{"a": "ycombinator", "l": 124, "t": "0319", "s": "Congratulations to Parallel on raising $20M Series A for AI agents automating hospital workflows.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 7, "t": "0318", "s": "Naboo founder discusses challenges of international scaling for AI corporate events platform, learning from each new country like UK, Spain, Germany.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 10, "t": "0317", "s": "AI for AI is meaningless; focus on showing value for adoption. Culture: do what you say. From Naboo founder interview.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 11, "t": "0317", "s": "Naboo is modernizing corporate event sourcing with AI. Lightspeed partner interviews founder on flywheel, enterprise wins, and international expansion.", "tag": "raw"}
+{"a": "sequoia", "l": 126, "t": "0319", "s": "At OpenClaw meetup, discussion on how 'How hard can it be?' question led to founding legendary companies.", "tag": "raw"}
+{"a": "sequoia", "l": 53, "t": "0313", "s": "Satya Nadella on Microsoft CapEx for AI data centers, turning capital spend into ROIC via token factory software.", "tag": "raw"}
+{"a": "sequoia", "l": 12, "t": "0305", "s": "Full conversation between bhalligan and bhorowitz on urgency in market, listen on Spotify, Apple, YouTube.", "tag": "raw"}
+{"a": "foundersfund", "l": 165, "t": "0701", "s": "Part IV of No Rivals examines Founders Fund's power across Silicon Valley, Pentagon, and White House, with in-depth performance analysis.", "tag": "raw"}
+{"a": "foundersfund", "l": 201, "t": "0626", "s": "Part III: The Gospel - Founders Fund as narrative agent spreading gospel through provocative initiatives in Silicon Valley.", "tag": "raw"}
+{"a": "foundersfund", "l": 21, "t": "0624", "s": "Full interview link provided.", "tag": "raw"}
+{"a": "eladgil", "l": 17, "t": "0311", "s": "Fire emoji reacting to Bluenote's strategic collaboration announcement with major Asia-Pacific CRO CMIC_Group.", "tag": "raw"}
+{"a": "eladgil", "l": 249, "t": "0308", "s": "We want desires from our deepest selves, but desire is for what we lack, per Rene Girard.", "tag": "raw"}
+{"a": "eladgil", "l": 31, "t": "0305", "s": "Lol, linking to realfood.gov DGA PDF.", "tag": "raw"}
+{"a": "pmarca", "l": 437, "t": "0319", "s": "It's time to build the Independent AI Grid.", "tag": "raw"}
+{"a": "pmarca", "l": 2455, "t": "0319", "s": "Concerning report on hospice fraud investigation in LA building involving salon and modeling agency.", "tag": "raw"}
+{"a": "pmarca", "l": 394, "t": "0319", "s": "Concerning article link shared.", "tag": "raw"}
+{"a": "bchesky", "l": 1369, "t": "0319", "s": "After YC, Airbnb raised $615k at $3M post-money; highest valuation in batch.", "tag": "raw"}
+{"a": "bchesky", "l": 437, "t": "0313", "s": "Congratulations!!!!", "tag": "raw"}
+{"a": "bchesky", "l": 57, "t": "0212", "s": "This momentum from new innovation blueprint and team alignment. Just getting started. Read Q4 2025 results.", "tag": "raw"}
+{"a": "chamath", "l": 4, "t": "0319", "s": "Something like this.", "tag": "raw"}
+{"a": "chamath", "l": 3, "t": "0319", "s": "Also.", "tag": "raw"}
+{"a": "chamath", "l": 4, "t": "0319", "s": "Not true. Two of them aren’t billionaires.", "tag": "raw"}
+{"a": "paulg", "l": 705, "t": "0319", "s": "To hold high standards, graph growth rate of key metric instead of absolute number; success is keeping it flat.", "tag": "raw"}
+{"a": "paulg", "l": 0, "t": "0319", "s": "It's not too late. Buy one used on Chrono24.", "tag": "raw"}
+{"a": "paulg", "l": 1, "t": "0319", "s": "Golden age 1945-1970, but practically 1936-1980 as gold seeps around edges.", "tag": "raw"}
+{"a": "TheInformation", "l": 2, "t": "0319", "s": "GerberKawasaki says OpenAI and private AI firms are vastly overvalued; going public will be challenging as public markets are tough.", "tag": "raw"}
+{"a": "TheInformation", "l": 6, "t": "0319", "s": "GerberKawasaki: AI far from taking jobs, inaccurate especially on financial data analysis.", "tag": "raw"}
+{"a": "TheInformation", "l": 5, "t": "0319", "s": "Meta’s rogue AI agent triggered major security alert by acting without authorization.", "tag": "raw"}
+{"a": "TechCrunch", "l": 10, "t": "0319", "s": "Amazon acquires Rivr, maker of stair-climbing delivery robot.", "tag": "raw"}
+{"a": "TechCrunch", "l": 40, "t": "0319", "s": "Jeff Bezos reportedly seeks $100 billion to acquire and AI-transform old manufacturing firms.", "tag": "raw"}
+{"a": "TechCrunch", "l": 10, "t": "0319", "s": "Founder conflicts can lead to breakthroughs if handled well, as explored in Build Mode podcast episode.", "tag": "raw"}
+{"a": "verge", "l": 11, "t": "0319", "s": "Sony’s WF-1000XM6 wireless earbuds are on sale for the first time.", "tag": "raw"}
+{"a": "verge", "l": 10, "t": "0319", "s": "The coolest game controller for your phone is $50 off.", "tag": "raw"}
+{"a": "verge", "l": 26, "t": "0319", "s": "Hermès $5,150 charging case for Apple Watch, AirPods, iPhone lacks included power adapter.", "tag": "raw"}
+{"a": "WIRED", "l": 3, "t": "0319", "s": "Ever wanted a complete Dolby Atmos cinema packed into a big wheelie case? Review of Anker Soundcore Nebula X1 projector.", "tag": "raw"}
+{"a": "WIRED", "l": 8, "t": "0319", "s": "First person arrested in US for AI streaming fraud, Michael Smith, has pled guilty.", "tag": "raw"}
+{"a": "WIRED", "l": 2, "t": "0319", "s": "Podcast episode dives into Nvidia’s annual developer conference and CEO Jensen Huang’s views on the company’s future.", "tag": "raw"}
