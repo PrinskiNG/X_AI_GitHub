@@ -1,0 +1,242 @@
+{
+  "Scobleizer": {
+    "total": 3,
+    "max_l": 1,
+    "latest": "0320"
+  },
+  "bentossell": {
+    "total": 3,
+    "max_l": 13,
+    "latest": "0320"
+  },
+  "HuggingFace": {
+    "total": 3,
+    "max_l": 245,
+    "latest": "0313"
+  },
+  "MistralAI": {
+    "total": 3,
+    "max_l": 2553,
+    "latest": "0317"
+  },
+  "Perplexity_AI": {
+    "total": 3,
+    "max_l": 168,
+    "latest": "0319"
+  },
+  "GroqInc": {
+    "total": 3,
+    "max_l": 314,
+    "latest": "0218"
+  },
+  "Cohere": {
+    "total": 3,
+    "max_l": 63,
+    "latest": "0320"
+  },
+  "TogetherCompute": {
+    "total": 3,
+    "max_l": 2,
+    "latest": "0319"
+  },
+  "runwayml": {
+    "total": 3,
+    "max_l": 144,
+    "latest": "0320"
+  },
+  "Midjourney": {
+    "total": 3,
+    "max_l": 9,
+    "latest": "0319"
+  },
+  "StabilityAI": {
+    "total": 2,
+    "max_l": 303,
+    "latest": "0210"
+  },
+  "Scale_AI": {
+    "total": 3,
+    "max_l": 113,
+    "latest": "0320"
+  },
+  "CerebrasSystems": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "tenstorrent": {
+    "total": 3,
+    "max_l": 43,
+    "latest": "0319"
+  },
+  "weights_biases": {
+    "total": 3,
+    "max_l": 2,
+    "latest": "0320"
+  },
+  "langchainai": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "llama_index": {
+    "total": 3,
+    "max_l": 372,
+    "latest": "0320"
+  },
+  "supabase": {
+    "total": 3,
+    "max_l": 94,
+    "latest": "0320"
+  },
+  "vllm_project": {
+    "total": 3,
+    "max_l": 59,
+    "latest": "0320"
+  },
+  "huggingface_hub": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "nvidia": {
+    "total": 3,
+    "max_l": 95,
+    "latest": "0320"
+  },
+  "AMD": {
+    "total": 3,
+    "max_l": 122,
+    "latest": "0320"
+  },
+  "Intel": {
+    "total": 3,
+    "max_l": 74,
+    "latest": "0320"
+  },
+  "SKhynix": {
+    "total": 3,
+    "max_l": 44,
+    "latest": "0320"
+  },
+  "tsmc": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "magicleap": {
+    "total": 3,
+    "max_l": 15,
+    "latest": "0316"
+  },
+  "NathieVR": {
+    "total": 3,
+    "max_l": 29,
+    "latest": "0320"
+  },
+  "PalmerLuckey": {
+    "total": 3,
+    "max_l": 8267,
+    "latest": "0320"
+  },
+  "ID_AA_Carmack": {
+    "total": 3,
+    "max_l": 548,
+    "latest": "0319"
+  },
+  "boz": {
+    "total": 3,
+    "max_l": 0,
+    "latest": "0305"
+  },
+  "rabovitz": {
+    "total": 3,
+    "max_l": 0,
+    "latest": "0319"
+  },
+  "htcvive": {
+    "total": 3,
+    "max_l": 26,
+    "latest": "0319"
+  },
+  "XREAL_Global": {
+    "total": 3,
+    "max_l": 15,
+    "latest": "0320"
+  },
+  "RayBan": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "MetaQuestVR": {
+    "total": 3,
+    "max_l": 73,
+    "latest": "0320"
+  },
+  "PatrickMoorhead": {
+    "total": 3,
+    "max_l": 3,
+    "latest": "0320"
+  },
+  "jeffdean": {
+    "total": 3,
+    "max_l": 726,
+    "latest": "0320"
+  },
+  "chrmanning": {
+    "total": 3,
+    "max_l": 685,
+    "latest": "0314"
+  },
+  "hardmaru": {
+    "total": 3,
+    "max_l": 63,
+    "latest": "0319"
+  },
+  "goodfellow_ian": {
+    "total": 3,
+    "max_l": 1065,
+    "latest": "0313"
+  },
+  "feifeili": {
+    "total": 1,
+    "max_l": 3,
+    "latest": "1130"
+  },
+  "_akhaliq": {
+    "total": 2,
+    "max_l": 19,
+    "latest": "0320"
+  },
+  "promptengineer": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AI_News_Tech": {
+    "total": 3,
+    "max_l": 0,
+    "latest": "0130"
+  },
+  "siliconvalley": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "aithread": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "aibreakdown": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "aiexplained": {
+    "total": 3,
+    "max_l": 8,
+    "latest": "0917"
+  }
+}
