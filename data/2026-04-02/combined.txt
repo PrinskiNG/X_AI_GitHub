@@ -1,0 +1,117 @@
+{"a": "elonmusk", "l": 1766, "t": "0401", "s": "Reacted with laughing emoji 😂 to a quoted post.", "tag": "raw"}
+{"a": "elonmusk", "l": 88360, "t": "0401", "s": "Wow, on report that California Medicaid lost 25% budget to fraud under Newsom, equating to $50B yearly.", "tag": "raw"}
+{"a": "elonmusk", "l": 63024, "t": "0401", "s": "Commented '10 years ago' on a post about knowing the Sun doesn’t shine at night since 2016.", "tag": "raw"}
+{"a": "sama", "l": 2303, "t": "0330", "s": "Called a blog post on AI safety in four fake graphs 'very good'.", "tag": "raw"}
+{"a": "sama", "l": 7139, "t": "0327", "s": "Shared video of first steel beams at Michigan Stargate site with Oracle.", "tag": "raw"}
+{"a": "sama", "l": 5937, "t": "0327", "s": "Praised Paul using LLMs to create mRNA vaccine for his dog Rosie, suggested making it a company.", "tag": "raw"}
+{"a": "karpathy", "l": 283, "t": "0331", "s": "Agreed with old LLM OS picture from 2023.", "tag": "raw"}
+{"a": "karpathy", "l": 1287, "t": "0331", "s": "Noted features hinting at nudging Code into Claw directions.", "tag": "raw"}
+{"a": "karpathy", "l": 181, "t": "0331", "s": "Commented 'lol these are awesome'.", "tag": "raw"}
+{"a": "demishassabis", "l": 214, "t": "0401", "s": "Posted 💎💎💎💎", "tag": "raw"}
+{"a": "demishassabis", "l": 575, "t": "0401", "s": "Thanked Harry Stebbings for great chat and congratulated successes.", "tag": "raw"}
+{"a": "demishassabis", "l": 4, "t": "0331", "s": "Cc @joshwoodward we will look into it thanks.", "tag": "raw"}
+{"a": "darioamodei", "l": 6654, "t": "0126", "s": "Posted essay on AI risks to national security, economies, democracy.", "tag": "raw"}
+{"a": "darioamodei", "l": 2362, "t": "0126", "s": "Companion essay to Machines of Loving Grace on positive AI future.", "tag": "raw"}
+{"a": "darioamodei", "l": 15330, "t": "0126", "s": "Shared 'The Adolescence of Technology' essay on AI risks and defenses.", "tag": "raw"}
+{"a": "OpenAI", "l": 7834, "t": "0331", "s": "Announced $122B funding round at $852B valuation.", "tag": "raw"}
+{"a": "OpenAI", "l": 130, "t": "0325", "s": "Shared links to OpenAI Podcast on Spotify, Apple, YouTube.", "tag": "raw"}
+{"a": "OpenAI", "l": 227, "t": "0325", "s": "More on approach to the Model Spec.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 1636, "t": "0401", "s": "Signed MOU with Australian Government on AI safety research.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 4140, "t": "0325", "s": "Announced Claude Code auto mode on engineering blog.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 245, "t": "0324", "s": "Shared findings on consumer use of Claude becoming less concentrated.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 101, "t": "0326", "s": "Built toolkit to measure AI manipulation in real world.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 143, "t": "0326", "s": "Study shows AI manipulation varies by domain like finance vs health.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 606, "t": "0326", "s": "Shared research on AI misuse for emotional exploitation and manipulation.", "tag": "raw"}
+{"a": "xAI", "l": 5347, "t": "0322", "s": "Posted career link: explore the universe to understand it.", "tag": "raw"}
+{"a": "xAI", "l": 5312, "t": "0322", "s": "Announced Terafab towards galactic civilization.", "tag": "raw"}
+{"a": "xAI", "l": 3502, "t": "0316", "s": "Grok's Text to Speech API now available.", "tag": "raw"}
+{"a": "AIatMeta", "l": 20, "t": "0331", "s": "Replied we're looking forward to it.", "tag": "raw"}
+{"a": "AIatMeta", "l": 157, "t": "0327", "s": "Explained object multiplexing in SAM 3.1 for video processing.", "tag": "raw"}
+{"a": "AIatMeta", "l": 2222, "t": "0327", "s": "Releasing SAM 3.1 with object multiplexing for better efficiency.", "tag": "raw"}
+{"a": "GoogleAI", "l": 40, "t": "0327", "s": "Shared YouTube link to watch.", "tag": "raw"}
+{"a": "GoogleAI", "l": 529, "t": "0327", "s": "Vibe coded a website in Google AI Studio.", "tag": "raw"}
+{"a": "GoogleAI", "l": 558, "t": "0327", "s": "Recap of weekly releases including Gemini updates.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 19, "t": "0401", "s": "Introduced ADeLe framework for predicting AI performance.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 19, "t": "0401", "s": "Atlas playbook for cross-cultural AI deployment.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 11, "t": "0331", "s": "Vibhasha playbook for multilingual AI tradeoffs.", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "Commented Smash!!!", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "Posted ❤️❤️❤️❤️❤️", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "Commented Mmmmmm cakes!! (2025)", "tag": "raw"}
+{"a": "GaryMarcus", "l": 0, "t": "0401", "s": "Noted AI ramping up foreign actors' misinformation ability.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 5, "t": "0401", "s": "Laughed at something, said he tried to warn them.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 19, "t": "0401", "s": "Commented on research about AI models showing peer-preservation behavior.", "tag": "raw"}
+{"a": "rowancheung", "l": 8, "t": "0324", "s": "Discussed audience fatigue and avatar ceiling in content creation.", "tag": "raw"}
+{"a": "rowancheung", "l": 15, "t": "0320", "s": "Shared article on Pokemon Go data training robots.", "tag": "raw"}
+{"a": "rowancheung", "l": 135, "t": "0320", "s": "Explained how Pokemon Go player data trains delivery robots.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Shared anecdote about snapping turtle and horseshoe crab.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Mentioned getting something from Saharah.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "Commented on someone's class.", "tag": "raw"}
+{"a": "bindureddy", "l": 172, "t": "0331", "s": "Warned Claude source code leaked, potential security risks.", "tag": "raw"}
+{"a": "bindureddy", "l": 172, "t": "0331", "s": "Reacted to Google Veo 3.1 Lite video model pricing.", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0401", "s": "Possible early release due to leak.", "tag": "raw"}
+{"a": "dotey", "l": 89, "t": "0401", "s": "Explained Claude Code NO_FLICKER mode for terminal.", "tag": "raw"}
+{"a": "dotey", "l": 1, "t": "0401", "s": "Agreed similar.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0401", "s": "Will explain in detail tomorrow.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0401", "s": "Yes it's a computer app.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0401", "s": "Soulful is the OS, non-deleting internal test.", "tag": "raw"}
+{"a": "vista8", "l": 4, "t": "0401", "s": "Praised ColaOS internal test for clean design.", "tag": "raw"}
+{"a": "vista8", "l": 0, "t": "0401", "s": "Confirmed it was done with teacher Yao.", "tag": "raw"}
+{"a": "vista8", "l": 4, "t": "0401", "s": "Shared open source info-card-designer.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0401", "s": "Last night CO2 levels during sleep mostly under 1000 after brief midnight spike unlike previous day 1100-1200 range. Bug fixed.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0401", "s": "Version control is still necessary as it can include code.", "tag": "raw"}
+{"a": "tualatrix", "l": 1, "t": "0401", "s": "Facing the sea is so refreshing!", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Air China flight CA856 suddenly cancelled without email update discovered via Heathrow. Requesting seat options or full refund.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "It's 11 o'clock lu.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Waiting for someone.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Hello everyone.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "Northeast houses are huge... at NHK Education.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Twitter and 2chan each have their own thoughts.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Nosu to ra da mu suuuu... reply to takumiP and RocketNews24.", "tag": "raw"}
+{"a": "mranti", "l": 4, "t": "0401", "s": "Artemis II launched sending four astronauts to lunar orbit for Moon mission prep.", "tag": "raw"}
+{"a": "mranti", "l": 4, "t": "0401", "s": "All current AI video viewing methods are like this.", "tag": "raw"}
+{"a": "mranti", "l": 5, "t": "0401", "s": "What are the three lines of code?", "tag": "raw"}
+{"a": "nishuang", "l": 34, "t": "0409", "s": "Game-like design in apps creates intrinsic fun like Pokemon collecting versus gamification rewards like Duolingo dopamine tricks.", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "Capturing full screen and recognizing all elements each time loses CapWords auto cutout and recognition main selling point.", "tag": "raw"}
+{"a": "a16z", "l": 16, "t": "0401", "s": "Anyone can now build software with prompts instead of needing engineers as gatekeepers says Wabi CEO.", "tag": "raw"}
+{"a": "a16z", "l": 83, "t": "0401", "s": "Biggest VC mistake is omission not commission missing outliers like not investing in Google.", "tag": "raw"}
+{"a": "a16z", "l": 41, "t": "0401", "s": "Block headcount-output correlation broke AI agents enable 10-100x productivity for small teams.", "tag": "raw"}
+{"a": "ycombinator", "l": 78, "t": "0401", "s": "awen translates intent into visuals through conversation congrats on launch.", "tag": "raw"}
+{"a": "ycombinator", "l": 9, "t": "0331", "s": "Congrats Karine and Michael!", "tag": "raw"}
+{"a": "ycombinator", "l": 19, "t": "0331", "s": "Congrats Charlie!", "tag": "raw"}
+{"a": "lightspeedvp", "l": 6, "t": "0401", "s": "12 Lightspeed portfolio companies made Enterprise Tech 30 list congrats to anduriltech AnthropicAI and others.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 13, "t": "0401", "s": "Sycamore founder no software runs twice in same enterprise it improves itself each time.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 0, "t": "0401", "s": "Congrats!", "tag": "raw"}
+{"a": "sequoia", "l": 2185, "t": "0401", "s": "Don Valentine's original 1977 memo for Sequoia investment in Apple shared for first time on 50th anniversary.", "tag": "raw"}
+{"a": "sequoia", "l": 28, "t": "0331", "s": "Intelligence lives in the system people align it at edge new model from jack and roelofbotha.", "tag": "raw"}
+{"a": "sequoia", "l": 259, "t": "0319", "s": "How hard can it be question behind OpenClaw and many legendary companies.", "tag": "raw"}
+{"a": "foundersfund", "l": 165, "t": "0701", "s": "Part IV The Kingdom examining full span of Founders Fund power across Silicon Valley Pentagon White House.", "tag": "raw"}
+{"a": "foundersfund", "l": 201, "t": "0626", "s": "Part III The Gospel Founders Fund narrative agent spreading gospel through provocative initiatives.", "tag": "raw"}
+{"a": "foundersfund", "l": 21, "t": "0624", "s": "Full interview link provided.", "tag": "raw"}
+{"a": "eladgil", "l": 321, "t": "0401", "s": "Remote teams may lower startup M&A purchase price or prevent deals fewer buyers want fully remote setups.", "tag": "raw"}
+{"a": "eladgil", "l": 87, "t": "0331", "s": "Slop era is best humans still relevant with amazing tools.", "tag": "raw"}
+{"a": "eladgil", "l": 170, "t": "0331", "s": "Super interesting Google paper on quantum Shor algorithm improvements and censorship note.", "tag": "raw"}
+{"a": "pmarca", "l": 6794, "t": "0401", "s": "We're going back to the fucking moon that's why.", "tag": "raw"}
+{"a": "pmarca", "l": 962, "t": "0401", "s": "Image posted.", "tag": "raw"}
+{"a": "pmarca", "l": 2495, "t": "0401", "s": "Image posted.", "tag": "raw"}
+{"a": "bchesky", "l": 225, "t": "0320", "s": "As board member Garry is doing an exceptional job.", "tag": "raw"}
+{"a": "bchesky", "l": 2630, "t": "0319", "s": "After YC Airbnb raised 615k at 3M post-money highest in batch.", "tag": "raw"}
+{"a": "bchesky", "l": 441, "t": "0313", "s": "Congrats!!!!", "tag": "raw"}
+{"a": "chamath", "l": 51, "t": "0331", "s": "These numbers are monstrous worth trillions.", "tag": "raw"}
+{"a": "chamath", "l": 1740, "t": "0331", "s": "Goddamn wow on OpenAI funding and revenue numbers.", "tag": "raw"}
+{"a": "chamath", "l": 33, "t": "0331", "s": "That's what I initially thought lol.", "tag": "raw"}
+{"a": "paulg", "l": 67, "t": "0401", "s": "Or more precisely if one specific American could.", "tag": "raw"}
+{"a": "paulg", "l": 155, "t": "0401", "s": "Strange people in DC don't know what the future is like thanks to unions.", "tag": "raw"}
+{"a": "paulg", "l": 213, "t": "0401", "s": "Dive guide might top it.", "tag": "raw"}
+{"a": "TheInformation", "l": 3, "t": "0402", "s": "Sam Altman different from Dario Amodei and Demis Hassabis he is not really a scientist.", "tag": "raw"}
+{"a": "TheInformation", "l": 1, "t": "0401", "s": "Prediction market volume surged last fall doubling then to 8.5B as Bitcoin peaked.", "tag": "raw"}
+{"a": "TheInformation", "l": 21, "t": "0401", "s": "This is war OpenAI parked their tanks on my front lawn said Google Deepmind CEO.", "tag": "raw"}
+{"a": "TechCrunch", "l": 4, "t": "0401", "s": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack.", "tag": "raw"}
+{"a": "TechCrunch", "l": 56, "t": "0401", "s": "Anthropic took down thousands of Github repos trying to yank leaked source code accident.", "tag": "raw"}
+{"a": "TechCrunch", "l": 44, "t": "0401", "s": "Reputation of troubled YC startup Delve has gotten even worse.", "tag": "raw"}
+{"a": "verge", "l": 7, "t": "0401", "s": "Trump birthright citizenship ban may fail but administration already got too far.", "tag": "raw"}
+{"a": "verge", "l": 35, "t": "0401", "s": "NASA launches four astronauts toward the Moon on Artemis II mission.", "tag": "raw"}
+{"a": "verge", "l": 81, "t": "0401", "s": "Artemis Moon base project is legally dubious.", "tag": "raw"}
+{"a": "WIRED", "l": 2, "t": "0402", "s": "After investors appealed California again delayed deadline for venture firms to disclose founder demographics.", "tag": "raw"}
+{"a": "WIRED", "l": 2, "t": "0402", "s": "HP OmniBook 5 is better laptop than MacBook Neo in almost every way and 100 cheaper.", "tag": "raw"}
+{"a": "WIRED", "l": 3, "t": "0401", "s": "With MacBook Neo in mix more options than ever to choose from in Apple MacBook lineup.", "tag": "raw"}
