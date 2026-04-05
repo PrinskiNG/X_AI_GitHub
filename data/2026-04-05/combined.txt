@@ -1,0 +1,122 @@
+{"a": "elonmusk", "l": 5315, "t": "0404", "s": "This is accurate and shares a Grok link.", "tag": "raw"}
+{"a": "elonmusk", "l": 2742, "t": "0404", "s": "Agree. This bs has gone too far.", "tag": "raw"}
+{"a": "elonmusk", "l": 2726, "t": "0404", "s": "Is there any other way?", "tag": "raw"}
+{"a": "sama", "l": 4799, "t": "0402", "s": "Offers free ChatGPT Pro account, tshirts, and to have max and me on the show to discuss weighlifting career.", "tag": "raw"}
+{"a": "sama", "l": 6287, "t": "0402", "s": "TBPN is favorite tech show. Wants them to continue and not go easy on us.", "tag": "raw"}
+{"a": "sama", "l": 2386, "t": "0330", "s": "This is a very good post about the state of AI safety in four fake graphs.", "tag": "raw"}
+{"a": "karpathy", "l": 878, "t": "0404", "s": "Comments on Farzapedia as a good example of personalization approach following Wiki LLM tweet.", "tag": "raw"}
+{"a": "karpathy", "l": 29, "t": "0404", "s": "Incredible work :D", "tag": "raw"}
+{"a": "karpathy", "l": 1536, "t": "0404", "s": "Bullish on people empowered by AI increasing government visibility, legibility and accountability.", "tag": "raw"}
+{"a": "demishassabis", "l": 11, "t": "0404", "s": "Thanks @beffjezos - glad you are enjoying it!!", "tag": "raw"}
+{"a": "demishassabis", "l": 405, "t": "0403", "s": "Gemma 4 has incredible capabilities for such small models.", "tag": "raw"}
+{"a": "demishassabis", "l": 2705, "t": "0403", "s": "Gemma 4 outperforms models over 10x their size!", "tag": "raw"}
+{"a": "darioamodei", "l": 6656, "t": "0126", "s": "Essay on AI risks to national security, economies and democracy and how to defend against them.", "tag": "raw"}
+{"a": "darioamodei", "l": 2362, "t": "0126", "s": "Companion to Machines of Loving Grace essay.", "tag": "raw"}
+{"a": "darioamodei", "l": 15322, "t": "0126", "s": "The Adolescence of Technology essay on AI risks and defense.", "tag": "raw"}
+{"a": "OpenAI", "l": 10786, "t": "0402", "s": "ChatGPT is now available in CarPlay with voice mode.", "tag": "raw"}
+{"a": "OpenAI", "l": 8396, "t": "0331", "s": "Closed latest funding round with $122 billion at $852B valuation.", "tag": "raw"}
+{"a": "OpenAI", "l": 132, "t": "0325", "s": "Listen to the OpenAI Podcast on Spotify, Apple, YouTube.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 158, "t": "0403", "s": "Research on model diffing from Anthropic Fellows program.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 136, "t": "0403", "s": "Technique for auditing AI models by focusing on differences.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 364, "t": "0403", "s": "Found CCP alignment feature in Qwen and American exceptionalism in Llama.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 648, "t": "0402", "s": "Start building with Gemma 4 now in Google AI Studio.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 797, "t": "0402", "s": "Build autonomous agents with native tool use.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1328, "t": "0402", "s": "Gemma 4 available in four sizes.", "tag": "raw"}
+{"a": "xAI", "l": 491, "t": "0403", "s": "Quality mode now available on web and mobile for Grok Imagine.", "tag": "raw"}
+{"a": "xAI", "l": 864, "t": "0403", "s": "Quality mode features deeper world knowledge.", "tag": "raw"}
+{"a": "xAI", "l": 926, "t": "0403", "s": "Quality mode stronger text rendering in many languages.", "tag": "raw"}
+{"a": "AIatMeta", "l": 20, "t": "0331", "s": "We're looking forward to it!", "tag": "raw"}
+{"a": "AIatMeta", "l": 158, "t": "0327", "s": "SAM 3.1 introduces object multiplexing for video processing efficiency.", "tag": "raw"}
+{"a": "AIatMeta", "l": 2228, "t": "0327", "s": "Releasing SAM 3.1 with object multiplexing.", "tag": "raw"}
+{"a": "GoogleAI", "l": 738, "t": "0403", "s": "Everything launched this week including Gemma 4 and Veo 3.1 Lite.", "tag": "raw"}
+{"a": "GoogleAI", "l": 86, "t": "0402", "s": "Read all about Gemma 4 in our blog.", "tag": "raw"}
+{"a": "GoogleAI", "l": 93, "t": "0402", "s": "What’s an open model? Explained.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 32, "t": "0401", "s": "ADeLe profiles AI models and predicts performance.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 29, "t": "0401", "s": "Atlas playbook for cross-cultural AI deployment.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 14, "t": "0331", "s": "Vibhasha playbook for multilingual AI tradeoffs.", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "Smash!!!", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "❤️❤️❤️❤️❤️", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "Mmmmmm cakes!!", "tag": "raw"}
+{"a": "GaryMarcus", "l": 36, "t": "0404", "s": "Please don’t be that guy with minimal AI skepticism.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 44, "t": "0404", "s": "The book of Genesis, 84% created by AI!", "tag": "raw"}
+{"a": "GaryMarcus", "l": 190, "t": "0404", "s": "Imagine if calculators had to carry this warning.", "tag": "raw"}
+{"a": "rowancheung", "l": 14, "t": "0403", "s": "Researchers taught a robot to play tennis from amateur clips.", "tag": "raw"}
+{"a": "rowancheung", "l": 124, "t": "0403", "s": "Robot learned tennis from clips of amateur players.", "tag": "raw"}
+{"a": "rowancheung", "l": 8, "t": "0324", "s": "Wouldn’t say audiences are fatigued but avatar has a ceiling.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "If you place a snapping turtle or horseshoe crab on the floor they stay put.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "I got this the other day from Saharah.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "OMG....that girl has the class of a groundhog.", "tag": "raw"}
+{"a": "bindureddy", "l": 175, "t": "0404", "s": "SeeDance 2.0 is insanely good - even better than Hollywood.", "tag": "raw"}
+{"a": "bindureddy", "l": 198, "t": "0404", "s": "Codex has been surprisingly good at solving problems Opus can’t solve.", "tag": "raw"}
+{"a": "bindureddy", "l": 418, "t": "0403", "s": "SPUD is coming. OpenAI's next model is 2 years of research.", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0404", "s": "-p 应该没问题", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0404", "s": "看截图，他链接里写的", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0404", "s": "什么是setup token？", "tag": "raw"}
+{"a": "oran_ge", "l": 2, "t": "0404", "s": "Manus on its product philosophy. Agent should not occupy person's computer.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0404", "s": "是啊", "tag": "raw"}
+{"a": "oran_ge", "l": 7, "t": "0404", "s": "今日份的恐怖 seeing the book after the post.", "tag": "raw"}
+{"a": "vista8", "l": 0, "t": "0405", "s": "不玩AI时，就和孩子一起看书。", "tag": "raw"}
+{"a": "vista8", "l": 44, "t": "0404", "s": "医生果然是最爱学习的群体之一，还聊到大模型投毒的黑帽GEO。", "tag": "raw"}
+{"a": "vista8", "l": 225, "t": "0404", "s": "昨天做手术，半麻后，医生护士不停提问AI相关问题。", "tag": "raw"}
+{"a": "Sxsyer", "l": 2, "t": "0404", "s": "Hi 👋", "tag": "raw"}
+{"a": "Sxsyer", "l": 0, "t": "0404", "s": "AI抢工作？更准确说：AI在抢“任务”。", "tag": "raw"}
+{"a": "Sxsyer", "l": 1, "t": "0404", "s": "Heeeey 👋", "tag": "raw"}
+{"a": "tualatrix", "l": 21, "t": "0404", "s": "First time changing baby's diaper in a public mother-infant room and setting up infant bed.", "tag": "raw"}
+{"a": "tualatrix", "l": 1, "t": "0404", "s": "Agree, typing lets me think and fix context while voice input can't, lowering efficiency.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0404", "s": "Just treat it as background music.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Complaining to Air China about sudden flight cancellation CA856 without email notice and asking for options.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11 o'clock lu", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Waiting someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Hello everyone", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "Northeast houses are huge... @ NHK education", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Twitter and 2chan each have their own thoughts", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "@takumiP @RocketNews24  No  Tra  Dam  Suuuuuh", "tag": "raw"}
+{"a": "mranti", "l": 1, "t": "0404", "s": "You're right, I should directly use Bailian Kimi2.5 for crawfish. No need for Ollama split since one Kimi handles it all.", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0404", "s": "Using cc-switch software to connect Kimi API subscription", "tag": "raw"}
+{"a": "mranti", "l": 1, "t": "0404", "s": "Yes, AI Studio key. Any provider works; using it for $300 credit.", "tag": "raw"}
+{"a": "nishuang", "l": 32, "t": "0409", "s": "App design game feel and gamification: CapWords turns language learning into Pokemon-like collection using curiosity, unlike Duolingo's dopamine rewards or Anki.", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "You still don't understand the obstacle. Capturing full screen and recognizing elements abandons CapWords' auto crop and recognition selling point.", "tag": "raw"}
+{"a": "nishuang", "l": 13, "t": "0409", "s": "Amie rebrand: from calendar/to-do/email all-in-one to AI meeting efficiency tool with redesigned site.", "tag": "raw"}
+{"a": "a16z", "l": 265, "t": "0404", "s": "Marc Andreessen: Never do diamonds in the rough. Only invest in obvious diamonds as smart VCs already find them; rough ones signal problems.", "tag": "raw"}
+{"a": "a16z", "l": 928, "t": "0403", "s": "Marc Andreessen: Grand unification of AI and crypto happening. AI agents need money and bank accounts; future is here but not distributed yet.", "tag": "raw"}
+{"a": "a16z", "l": 342, "t": "0403", "s": "Marc Andreessen: In 10 years, no salient concept of programming languages. Just tell AI what you need; it does it optimally.", "tag": "raw"}
+{"a": "ycombinator", "l": 5, "t": "0403", "s": "Complir: AI infrastructure automating product compliance for global retailers, mapping products to regs and generating docs.", "tag": "raw"}
+{"a": "ycombinator", "l": 163, "t": "0403", "s": "Complir builds AI for product compliance across markets; manages 100k+ products, growing 45% MoM.", "tag": "raw"}
+{"a": "ycombinator", "l": 22, "t": "0403", "s": "Congrats!", "tag": "raw"}
+{"a": "lightspeedvp", "l": 5, "t": "0403", "s": "Women in Leadership event hosted by Salesforce's Robin Washington with Lightspeed partners discussing AI evolution.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 14, "t": "0401", "s": "12 Lightspeed portfolio companies made this year's Enterprise Tech 30 list.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 17, "t": "0401", "s": "Sycamore Labs founder Sri Viswan on enterprise AI agents: software that improves itself every run.", "tag": "raw"}
+{"a": "sequoia", "l": 5789, "t": "0401", "s": "Don Valentine's original 1977 memo for Sequoia's investment into Apple Computer, shared for first time on Apple's 50th.", "tag": "raw"}
+{"a": "sequoia", "l": 31, "t": "0331", "s": "New piece from Jack and Roelof Botha on Blocks building alternative to hierarchical coordination with AI world model.", "tag": "raw"}
+{"a": "sequoia", "l": 259, "t": "0319", "s": "At OpenClaw meetup, Steipete on the question 'How hard can it be?' that led to many legendary companies.", "tag": "raw"}
+{"a": "foundersfund", "l": 165, "t": "0701", "s": "Part IV: The Kingdom - examining Founders Fund's power across Silicon Valley, Pentagon, and White House.", "tag": "raw"}
+{"a": "foundersfund", "l": 201, "t": "0626", "s": "Part III: The Gospel - Founders Fund as narrative agent spreading its gospel through provocative initiatives.", "tag": "raw"}
+{"a": "foundersfund", "l": 21, "t": "0624", "s": "Full interview link.", "tag": "raw"}
+{"a": "eladgil", "l": 35, "t": "0404", "s": "Comparing AI insights to X crowd: best Aperol Spritz in NYC?", "tag": "raw"}
+{"a": "eladgil", "l": 9, "t": "0403", "s": "AI Foundation Model for Atoms with Liam Fedus, CEO Periodic Labs, ex-VP Post Training OpenAI.", "tag": "raw"}
+{"a": "eladgil", "l": 972, "t": "0403", "s": "Staying power matters in careers like startups: better to stay and compound in right seat than keep jumping.", "tag": "raw"}
+{"a": "pmarca", "l": 180, "t": "0404", "s": "Many people are saying.", "tag": "raw"}
+{"a": "pmarca", "l": 10034, "t": "0403", "s": "Almost everything you think you know about history of technology and capitalism was warped by communist/luddite propaganda.", "tag": "raw"}
+{"a": "pmarca", "l": 599, "t": "0403", "s": "Venture capital is hard.", "tag": "raw"}
+{"a": "bchesky", "l": 110, "t": "0404", "s": "Idea behind combined product marketing/management role and CEO involvement: marketing must be at product conception.", "tag": "raw"}
+{"a": "bchesky", "l": 960, "t": "0403", "s": "We follow this model where product management and marketing are one job.", "tag": "raw"}
+{"a": "bchesky", "l": 226, "t": "0320", "s": "As board member, Garry is doing an exceptional job.", "tag": "raw"}
+{"a": "chamath", "l": 154, "t": "0404", "s": "Dealt with nonsense lawsuits; finally drew line, fought and won. Will never settle again, only fight.", "tag": "raw"}
+{"a": "chamath", "l": 505, "t": "0404", "s": "Mid 2010s Capital as a Service experiment funded 50+ companies with 2x DPI; legal blockers were issue.", "tag": "raw"}
+{"a": "chamath", "l": 8581, "t": "0404", "s": "California budget/taxes from laziness, incompetence, corruption - revealed by shutting 221 hospices.", "tag": "raw"}
+{"a": "paulg", "l": 1960, "t": "0404", "s": "Thai speakers seem to spend longer talking about things than expected.", "tag": "raw"}
+{"a": "paulg", "l": 73, "t": "0404", "s": "Reason for both optimism and pessimism on founders vs politicians; not sure which prevails.", "tag": "raw"}
+{"a": "paulg", "l": 105, "t": "0404", "s": "If Trump claims victory it may mean he's about to stop the exercise.", "tag": "raw"}
+{"a": "TheInformation", "l": 5, "t": "0404", "s": "DeepSeek preparing new model optimized for Huawei chips, driving surge in orders from Alibaba, Tencent, ByteDance.", "tag": "raw"}
+{"a": "TheInformation", "l": 2, "t": "0404", "s": "Tether racing to lock funding at $500B valuation amid investor skepticism.", "tag": "raw"}
+{"a": "TheInformation", "l": 2, "t": "0404", "s": "Startup routing developers to best AI models nearing $1.3B valuation on demand surge.", "tag": "raw"}
+{"a": "TechCrunch", "l": 16, "t": "0404", "s": "Unpacking Peter Thiel’s big bet on solar-powered cow collars.", "tag": "raw"}
+{"a": "TechCrunch", "l": 12, "t": "0404", "s": "Embattled startup Delve has ‘parted ways’ with Y Combinator.", "tag": "raw"}
+{"a": "TechCrunch", "l": 65, "t": "0404", "s": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw support.", "tag": "raw"}
+{"a": "verge", "l": 54, "t": "0404", "s": "Folk musician became target for AI fakes and copyright troll.", "tag": "raw"}
+{"a": "verge", "l": 15, "t": "0404", "s": "Buy two Nintendo Switch games, get $30 off at Target.", "tag": "raw"}
+{"a": "verge", "l": 13, "t": "0404", "s": "My dream pair of AR gaming glasses needs these nine features.", "tag": "raw"}
+{"a": "WIRED", "l": 5, "t": "0404", "s": "80,000 people gather in California desert for King of the Hammers off-road race with dirt bikes and trophy trucks.", "tag": "raw"}
+{"a": "WIRED", "l": 2, "t": "0404", "s": "New Sonos speaker with great sound and versatility may be their best.", "tag": "raw"}
+{"a": "WIRED", "l": 7, "t": "0404", "s": "Tried MAHA high-protein diet: chewy bacon cereal to office vomiting.", "tag": "raw"}
