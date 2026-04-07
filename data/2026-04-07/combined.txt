@@ -1,0 +1,75 @@
+{"a": "elonmusk", "l": 41869, "t": "0406", "s": "Questions why critics demand diversity in Irish teachers but ignore Africa or Asia.", "tag": "raw", "replies": [{"from": "libsoftiktok", "text": "Good question 🤔", "l": 1443}, {"from": "Dogetothemoon", "text": "Exactly", "l": 924}, {"from": "PlanetOfMemes", "text": "Hmm. 🤔", "l": 332}]}
+{"a": "elonmusk", "l": 9390, "t": "0406", "s": "Praises NASA's Artemis II mission reaching farther from Earth than any humans before.", "tag": "raw", "replies": [{"from": "AdamLowisz", "text": "What it feels like to be an American 😎🇺🇸", "l": 58}, {"from": "PlanetOfMemes", "text": "Next phase, moon base.", "l": 16}]}
+{"a": "elonmusk", "l": 1653, "t": "0406", "s": "Laughing reaction emoji.", "tag": "raw"}
+{"a": "elonmusk", "l": 61993, "t": "0406", "s": "Yes, agreeing woke mind virus is racist, sexist and evil while favoring meritocracy.", "tag": "raw", "qt": "@XFreeze: Elon nails why woke mind virus is racist/sexist/evil by ignoring skills for race/gender; meritocracy > identity politics"}
+{"a": "elonmusk", "l": 466, "t": "0406", "s": "Agrees with previous comment.", "tag": "raw"}
+{"a": "elonmusk", "l": 18440, "t": "0406", "s": "Highlights Tesla FSD safety stats showing 7x safer than average human drivers.", "tag": "raw", "qt": "@grok: Tesla FSD (Supervised) is 7x safer than US average; rates 8.5/10 with billions of miles of data"}
+{"a": "elonmusk", "l": 29899, "t": "0406", "s": "Agrees Tesla FSD will save lives and lower insurance premiums.", "tag": "raw", "qt": "@AdamLowisz: Tesla will save 99% of accident lives, fewer fatalities, lower insurance"}
+{"a": "elonmusk", "l": 53218, "t": "0406", "s": "Tesla self-driving saves lives per stats but will still face lawsuits; it's the right thing.", "tag": "raw", "qt": "@ElliotCohe74430: Tesla FSD saved two lives in fog/rain; grateful to Elon/Tesla"}
+{"a": "elonmusk", "l": 154938, "t": "0406", "s": "Strongly agrees with video of liberal waking up.", "tag": "raw", "qt": "@thewriterme: Watching a liberal slowly wake up (video)"}
+{"a": "elonmusk", "l": 10101, "t": "0406", "s": "Posts the term “Gaytarded”.", "tag": "raw"}
+{"a": "sama", "l": 4818, "t": "0402", "s": "Sam Altman jokingly offers free ChatGPT Pro account, OpenAI t-shirts, and joint show appearance to discuss weightlifting career failure.", "tag": "raw"}
+{"a": "sama", "l": 6333, "t": "0402", "s": "Sam Altman names TBPN his favorite tech show and welcomes their critical coverage while acknowledging his own mistakes.", "tag": "raw"}
+{"a": "sama", "l": 2406, "t": "0330", "s": "Sam Altman praises a blog post visualizing AI safety in four fake graphs.", "tag": "raw"}
+{"a": "karpathy", "l": 1170, "t": "0406", "s": "Karpathy explains using AI to process documents by reading summaries and opinions without skipping thinking, proving effective for filing info.", "tag": "raw"}
+{"a": "karpathy", "l": 259, "t": "0405", "s": "Karpathy supports making X legible for read-only agents, notes high costs and missing XMCP docs.", "tag": "raw"}
+{"a": "karpathy", "l": 2320, "t": "0405", "s": "Karpathy endorses read endpoints for X but criticizes excessive pricing and poor documentation for agents.", "tag": "raw"}
+{"a": "demishassabis", "l": 20, "t": "0406", "s": "Demis Hassabis looks forward to an event and thanks Y Combinator for the invitation.", "tag": "raw"}
+{"a": "demishassabis", "l": 16, "t": "0404", "s": "Demis Hassabis thanks Beff Jezos for enjoying his content.", "tag": "raw"}
+{"a": "demishassabis", "l": 422, "t": "0403", "s": "Demis Hassabis highlights Gemma 4 capabilities for small models and directs to follow @googlegemma.", "tag": "raw"}
+{"a": "darioamodei", "l": 6645, "t": "0126", "s": "Dario Amodei shares essay on AI risks to security, economies and democracy plus how to defend against them.", "tag": "raw"}
+{"a": "darioamodei", "l": 2364, "t": "0126", "s": "Dario Amodei notes new essay as companion to his earlier piece on positive AI outcomes.", "tag": "raw"}
+{"a": "darioamodei", "l": 15315, "t": "0126", "s": "Dario Amodei publishes essay 'The Adolescence of Technology' on powerful AI risks and defenses.", "tag": "raw"}
+{"a": "OpenAI", "l": 1721, "t": "0406", "s": "Introduces OpenAI Safety Fellowship for AI safety and alignment research.", "tag": "raw"}
+{"a": "OpenAI", "l": 10876, "t": "0402", "s": "ChatGPT now available in CarPlay with voice mode on iOS 26.4+.", "tag": "raw", "qt": "@gsferreira: ChatGPT voice mode should be available on Apple CarPlay"}
+{"a": "OpenAI", "l": 8421, "t": "0331", "s": "Closed $122B funding round at $852B valuation to scale AI benefits globally.", "tag": "raw", "replies": [{"from": "au_stin", "text": "nothing to see here", "l": 538}, {"from": "Sophty_", "text": "Lead? You’re coming in second", "l": 404}]}
+{"a": "OpenAI", "l": 135, "t": "0325", "s": "Links to OpenAI Podcast on Spotify, Apple, YouTube.", "tag": "raw"}
+{"a": "OpenAI", "l": 231, "t": "0325", "s": "Shares more on approach to the Model Spec.", "tag": "raw"}
+{"a": "OpenAI", "l": 1212, "t": "0325", "s": "Podcast episode on Model Spec with researcher @w01fe.", "tag": "raw"}
+{"a": "OpenAI", "l": 4743, "t": "0323", "s": "Easier file management in ChatGPT with recent files, Library tab.", "tag": "raw"}
+{"a": "OpenAI", "l": 4172, "t": "0318", "s": "Challenges users with Parameter Golf: https://openai.com/index/parameter-golf/.", "tag": "raw"}
+{"a": "OpenAI", "l": 704, "t": "0317", "s": "GPT-5.4 nano now available in API.", "tag": "raw"}
+{"a": "OpenAI", "l": 6414, "t": "0317", "s": "GPT-5.4 mini available in ChatGPT, Codex, API: optimized for coding, 2x faster.", "tag": "raw", "replies": [{"from": "Sophty_", "text": "4o is optimized for the rest of us", "l": 181}, {"from": "pallavmac", "text": "GPT-5.4 Mini is 3x the cost of GPT 5 Mini...", "l": 173}]}
+{"a": "AnthropicAI", "l": 1593, "t": "0406", "s": "Anthropic reports run-rate revenue over $30B, up from $9B, driven by Claude demand and new compute partnership.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 7654, "t": "0406", "s": "Anthropic signs Google-Broadcom deal for gigawatts of next-gen TPU capacity starting 2027 for Claude models.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 182, "t": "0403", "s": "Anthropic highlights research from Fellows program on paper at arxiv.org/abs/2602.11729.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 658, "t": "0402", "s": "Google DeepMind urges building with Gemma 4 in AI Studio and downloading weights from Hugging Face or Kaggle.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 815, "t": "0402", "s": "Google DeepMind showcases Gemma 4 native tool use for autonomous agents handling multi-step tasks and large context.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1339, "t": "0402", "s": "Google DeepMind releases Gemma 4 in four sizes for local reasoning, coding assistants and edge devices.", "tag": "raw"}
+{"a": "xAI", "l": 530, "t": "0403", "s": "xAI introduces Quality mode for image generation on web and mobile with improved features and invites feedback.", "tag": "raw"}
+{"a": "xAI", "l": 941, "t": "0403", "s": "xAI Quality mode offers deeper world knowledge and prompt understanding for complex scenes and cultural references.", "tag": "raw"}
+{"a": "xAI", "l": 1026, "t": "0403", "s": "xAI Quality mode improves text rendering accuracy across languages for designs and infographics.", "tag": "raw"}
+{"a": "AIatMeta", "l": 20, "t": "0331", "s": "AI at Meta expresses excitement about an upcoming event.", "tag": "raw"}
+{"a": "AIatMeta", "l": 159, "t": "0327", "s": "AI at Meta explains SAM 3.1 object multiplexing innovation doubling video processing speed.", "tag": "raw"}
+{"a": "AIatMeta", "l": 2231, "t": "0327", "s": "AI at Meta releases SAM 3.1 with object multiplexing for efficient multi-object video tracking and shares open model and code.", "tag": "raw"}
+{"a": "GoogleAI", "l": 831, "t": "0403", "s": "Google AI lists new launches: Gemma 4, Veo 3.1 Lite, Gemini API tiers, Focus mode and AI video features.", "tag": "raw"}
+{"a": "GoogleAI", "l": 91, "t": "0402", "s": "Google AI directs readers to blog post with full details on Gemma 4.", "tag": "raw"}
+{"a": "GoogleAI", "l": 95, "t": "0402", "s": "Google AI explains open models as publicly downloadable weights for local fine-tuning and private use.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 19, "t": "0406", "s": "Microsoft Research shares latest focus on LLM sentiment in cultural context, robot learning, AI agents, Rust code and CHI 2026.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 32, "t": "0401", "s": "Microsoft Research introduces ADeLe framework predicting AI model performance on unseen tasks, published in Nature.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 29, "t": "0401", "s": "Microsoft Research releases Atlas playbook for cross-cultural AI deployment.", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "Greg Brockman reacts with 'Smash!!!'.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "Greg Brockman posts five heart emojis.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "Greg Brockman expresses delight about cakes.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 0, "t": "0406", "s": "Gary Marcus announces he has muted someone as he has had enough.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 0, "t": "0406", "s": "Gary Marcus disputes claims about hallucination data while acknowledging reasoning improvements.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 3, "t": "0406", "s": "Gary Marcus stresses reading scientific literature over anecdotes for hallucination rates around 5%.", "tag": "raw"}
+{"a": "rowancheung", "l": 7, "t": "0406", "s": "Rowan Cheung shares live flood predictions on Google Flood Hub and promotes his AI newsletter.", "tag": "raw"}
+{"a": "rowancheung", "l": 110, "t": "0406", "s": "Rowan Cheung details Google's Gemini-powered AI predicting flash floods 24 hours ahead using news data and neural networks.", "tag": "raw"}
+{"a": "rowancheung", "l": 17, "t": "0403", "s": "Rowan Cheung posts source link and promotes his daily AI newsletter.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Carrie describes how snapping turtles and horseshoe crabs react when placed on the floor.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Carrie mentions receiving something from Saharah recently.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "Carrie criticizes someone's class by comparing to a groundhog.", "tag": "raw"}
+{"a": "bindureddy", "l": 31, "t": "0406", "s": "Bindu Reddy highlights open-source models like MiniMax, Qwen, GLM and Kimi delivering 75-80% performance at far lower cost.", "tag": "raw"}
+{"a": "bindureddy", "l": 49, "t": "0406", "s": "Bindu Reddy discusses DeepSeek v4 delay for Huawei chips and expected excellence in tool-use and agents.", "tag": "raw"}
+{"a": "bindureddy", "l": 144, "t": "0406", "s": "Bindu Reddy envisions future AI as agent swarms collaborating like expert teams for coding, testing and debugging.", "tag": "raw"}
+{"a": "dotey", "l": 158, "t": "0406", "s": "Dotey shares translated article arguing dismissing ideas adds no value and advocates protecting early ideas with balanced thinking.", "tag": "raw"}
+{"a": "dotey", "l": 134, "t": "0406", "s": "Dotey stresses learning AI requires personal practice rather than just following influencers.", "tag": "raw"}
+{"a": "dotey", "l": 217, "t": "0406", "s": "Dotey posts link to an article.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0406", "s": "Orange AI thanks followers for their likes.", "tag": "raw"}
+{"a": "oran_ge", "l": 6, "t": "0406", "s": "Orange AI finds learning with Cola magically insightful due to strong content connections.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0406", "s": "Orange AI notes inability to notice a difference.", "tag": "raw"}
+{"a": "vista8", "l": 14, "t": "0406", "s": "Vista8 questions whether AI profits most from selling GPUs like other tech waves.", "tag": "raw"}
+{"a": "vista8", "l": 37, "t": "0406", "s": "Vista8 praises and shares Tw93's high-quality open-source Waza tool for AI-era engineer skills.", "tag": "raw"}
+{"a": "vista8", "l": 52, "t": "0406", "s": "Vista8 announces completed Paul Graham essays ebook with open-source GitHub link.", "tag": "raw"}
+{"a": "Sxsyer", "l": 3, "t": "0406", "s": "Sxsyer posts a simple greeting 'hi'.", "tag": "raw"}
