@@ -1,0 +1,117 @@
+{"a": "elonmusk", "l": 408, "t": "0413", "s": "Elon Musk replies 'Good question' to an unspecified query.", "tag": "raw"}
+{"a": "elonmusk", "l": 15308, "t": "0413", "s": "Musk calls a video of a South African woman threatening white people with violence over colonialism 'Horrific,' drawing attention to anti-white racism and violence in South Africa.", "tag": "raw"}
+{"a": "elonmusk", "l": 4624, "t": "0413", "s": "Musk notes Grok-4.20 took #1 spot in Medicine & Healthcare on Text Arena, outperforming competitors and saving lives through better diagnosis.", "tag": "raw"}
+{"a": "sama", "l": 2522, "t": "0411", "s": "Sam Altman apologizes for poor word choice in a previous statement, attributing it to a tough day and unclear thinking.", "tag": "raw"}
+{"a": "sama", "l": 15524, "t": "0410", "s": "Sam Altman shares a blog post he wrote early in the morning after uncertainty about publishing it.", "tag": "raw"}
+{"a": "sama", "l": 11589, "t": "0409", "s": "Sam Altman announces a new $100 ChatGPT Pro tier due to popular demand and praises the love for Codex.", "tag": "raw"}
+{"a": "karpathy", "l": 96, "t": "0410", "s": "Andrej Karpathy clarifies that brain upload simulation involves companies conducting detailed in-person interviews for high-fidelity LLM training.", "tag": "raw"}
+{"a": "karpathy", "l": 138, "t": "0410", "s": "Karpathy argues LLM simulation path for brain upload is far more practical and faster than exotic neuroscience methods.", "tag": "raw"}
+{"a": "karpathy", "l": 3259, "t": "0410", "s": "Karpathy describes a near-future 'brain upload' startup using video interviews and LLM fine-tuning to create simulacra with API access, calling it lossy but feasible soon.", "tag": "raw"}
+{"a": "demishassabis", "l": 812, "t": "0408", "s": "Demis Hassabis thanks Harry Stebbings for a podcast discussion on the path to AGI, AI accelerating science and medicine, and UK deep tech talent.", "tag": "raw"}
+{"a": "demishassabis", "l": 1364, "t": "0408", "s": "Demis Hassabis thanks Cleo Abram for a conversation on AI advancing science, AlphaFold, drug discovery, and the future shaped by AI.", "tag": "raw"}
+{"a": "demishassabis", "l": 120, "t": "0406", "s": "Demis Hassabis looks forward to speaking at Y Combinator event invited by Garry Tan.", "tag": "raw"}
+{"a": "darioamodei", "l": 819, "t": "0407", "s": "Dario Amodei states cyber is the first clear danger from frontier AI but not the last, and solving it could blueprint future risks.", "tag": "raw"}
+{"a": "darioamodei", "l": 996, "t": "0407", "s": "Dario Amodei notes that getting AI-powered cyber right could create a more secure internet and world.", "tag": "raw"}
+{"a": "darioamodei", "l": 463, "t": "0407", "s": "Dario Amodei says Glasswing is the first step; securing global software will take months and years with broad cooperation.", "tag": "raw"}
+{"a": "OpenAI", "l": 326, "t": "0411", "s": "OpenAI emphasizes security and privacy priority, committing to transparency after an Axios developer tool compromise and sharing details.", "tag": "raw"}
+{"a": "OpenAI", "l": 152, "t": "0411", "s": "OpenAI shares link to Atlas.", "tag": "raw"}
+{"a": "OpenAI", "l": 123, "t": "0411", "s": "OpenAI shares link to Codex CLI.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 3551, "t": "0408", "s": "Anthropic announces new Engineering Blog post on building Managed Agents, solving design for unknown future programs.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 2449, "t": "0407", "s": "Anthropic releases Claude Mythos Preview system card PDF.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 1818, "t": "0407", "s": "Anthropic publishes technical report on software vulnerabilities and exploits found by Claude Mythos Preview.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 82, "t": "0409", "s": "Google DeepMind promotes starting to build with Gemma 4.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1684, "t": "0409", "s": "Google DeepMind highlights Gemma 4 outperforming larger models, with 10M+ downloads in first week.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 664, "t": "0402", "s": "Google DeepMind invites building with Gemma 4 in Google AI Studio and downloading from Hugging Face, Kaggle, or Ollama.", "tag": "raw"}
+{"a": "xAI", "l": 558, "t": "0403", "s": "xAI announces Quality mode available on web and mobile for Grok image generation; previous model remains in Speed mode.", "tag": "raw"}
+{"a": "xAI", "l": 1008, "t": "0403", "s": "xAI describes Quality mode with stronger world knowledge, prompt understanding, complex scenes, and specific references.", "tag": "raw"}
+{"a": "xAI", "l": 1034, "t": "0403", "s": "xAI highlights improved text rendering in Quality mode for brand designs, infographics, and real-world text.", "tag": "raw"}
+{"a": "AIatMeta", "l": 625, "t": "0410", "s": "AI at Meta replies '🔜' to announcement about Muse Spark API coming soon.", "tag": "raw"}
+{"a": "AIatMeta", "l": 26, "t": "0409", "s": "AI at Meta promotes trying Muse Spark via Meta AI app or website.", "tag": "raw"}
+{"a": "AIatMeta", "l": 22, "t": "0409", "s": "AI at Meta continues thread on Muse Spark capabilities with link.", "tag": "raw"}
+{"a": "GoogleAI", "l": 13, "t": "0413", "s": "Google AI suggests watching their YouTube video while scrolling comments.", "tag": "raw"}
+{"a": "GoogleAI", "l": 113, "t": "0413", "s": "Google AI demonstrates turning a hand-drawn doodle into working software using Google AI Studio and Nano Banana.", "tag": "raw"}
+{"a": "GoogleAI", "l": 269, "t": "0410", "s": "Google AI shares weekly updates including Notebooks in Gemini App, interactive visualizations, and new AI-powered Google Finance tool.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 14, "t": "0413", "s": "Microsoft Research highlights their work at CHI2026 focusing on whether AI works well for everyone.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 31, "t": "0410", "s": "Microsoft Research publishes new Optica paper on materials-screening framework for glass-based data storage using femtosecond laser writing.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 18, "t": "0409", "s": "Microsoft Research podcast discusses New Future of Work Report 2025 and ideal AI-driven working world.", "tag": "raw"}
+{"a": "gregbrockman", "l": 2, "t": "0308", "s": "G Brockman reacts 'Smash!!!' to a post.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "0118", "s": "G Brockman posts heart emojis.", "tag": "raw"}
+{"a": "gregbrockman", "l": 0, "t": "1230", "s": "G Brockman reacts 'Mmmmmm cakes!!' to a post.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 1, "t": "0413", "s": "Gary Marcus questions indifference to deaths and fighting liability in response to a post.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 1, "t": "0413", "s": "Gary Marcus asks if the critic read the whole tweet and notes it's not representative of his work.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 335, "t": "0413", "s": "Gary Marcus points out Nvidia flat for six months while Coreweave, Oracle, and Microsoft stocks have dropped significantly, signaling AI bubble deflation.", "tag": "raw"}
+{"a": "rowancheung", "l": 9, "t": "0413", "s": "Rowan Cheung shares research paper link on Microsoft's AI for cancer detection and promotes his AI newsletter.", "tag": "raw"}
+{"a": "rowancheung", "l": 256, "t": "0413", "s": "Rowan Cheung explains Microsoft's GigaTIME AI generates advanced imaging from cheap tissue slides to detect cancer immune responses, now open source.", "tag": "raw"}
+{"a": "rowancheung", "l": 13, "t": "0409", "s": "Rowan Cheung promotes his daily AI newsletter for keeping up with developments.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Carrie describes placing snapping turtle or horseshoe crab on floor and their reactions.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "Carrie mentions receiving something from Saharah recently.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0831", "s": "Carrie criticizes someone's class in a reply about responding kindly.", "tag": "raw"}
+{"a": "bindureddy", "l": 14, "t": "0413", "s": "Bindu Reddy outlines 'Vibe Code' process using Codex, Opus, critic, testing, and judge agents for AI-generated PRs approved to production.", "tag": "raw"}
+{"a": "bindureddy", "l": 69, "t": "0413", "s": "Bindu Reddy announces the Model Tsunami has begun with new stealth 100B instant model Elephant Alpha.", "tag": "raw"}
+{"a": "dotey", "l": 14, "t": "0413", "s": "Bao Yu recommends an article for further reading on the topic.", "tag": "raw"}
+{"a": "dotey", "l": 98, "t": "0413", "s": "Bao Yu shares Anthropic engineer Boris Cherny's detailed explanation of Claude Code prompt cache nuances, telemetry effects, and planned improvements.", "tag": "raw"}
+{"a": "dotey", "l": 0, "t": "0413", "s": "Bao Yu clarifies the telemetry option is off by default and issues may stem from bugs or config changes.", "tag": "raw"}
+{"a": "oran_ge", "l": 0, "t": "0413", "s": "Orange AI agrees with using agents to connect with real people and mentions their nearby Cola project.", "tag": "raw"}
+{"a": "oran_ge", "l": 4, "t": "0413", "s": "Orange AI criticizes severe dilution of Opus proxy stations, making real models scarce.", "tag": "raw"}
+{"a": "oran_ge", "l": 1, "t": "0413", "s": "Orange AI expresses love for a story and reposts it to followers.", "tag": "raw"}
+{"a": "vista8", "l": 117, "t": "0413", "s": "Vista8 finds the book on DeepMind increasingly engaging, highlighting financing stories, researcher innovations, and neuroscience ties.", "tag": "raw"}
+{"a": "vista8", "l": 263, "t": "0413", "s": "Vista8 expresses respect for DeepSeek's focus on AGI despite delays for domestic GPU adaptation and anticipates strong open-source v4 release.", "tag": "raw"}
+{"a": "vista8", "l": 15, "t": "0412", "s": "Vista8 shares GitHub link to AMAP-ML/SkillClaw.", "tag": "raw"}
+{"a": "tualatrix", "l": 24, "t": "0413", "s": "Laughing at the funniest tweet complaining about Claude AI getting dumber recently.", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0413", "s": "Saving this post for later reference.", "tag": "raw"}
+{"a": "tualatrix", "l": 37, "t": "0413", "s": "Three years ago registering a US company brings benefits like unrestricted AI service purchases via company card making it worthwhile to maintain.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Questioning Air China on sudden cancellation of flight CA856 without email notice and requesting refund or future seat options.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Posting the classic Hello World message.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Noting the time as 11 o'clock.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Waiting for someone.", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Greeting everyone.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "Commenting that houses in Tohoku are huge while watching NHK educational program.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Noting that Twitter and 2chan are full of personal thoughts.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "Exaggerated reaction mentioning Nostradamus in reply.", "tag": "raw"}
+{"a": "mranti", "l": 1, "t": "0413", "s": "After testing choosing this Claude service because sources from three channels are clearly marked.", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0413", "s": "Expressing disappointment that a good subscription plan has ended.", "tag": "raw"}
+{"a": "mranti", "l": 32, "t": "0413", "s": "Quoting X product manager announcement reducing aggregator payouts to curb clickbait and stolen reposts with future permanent deductions.", "tag": "raw"}
+{"a": "nishuang", "l": 32, "t": "0409", "s": "Discussing game-like design in apps versus gamification praising CapWords for fun language learning like collecting Pokemon.", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "Explaining that full screen capture abandons CapWords automatic cropping and recognition core features.", "tag": "raw"}
+{"a": "a16z", "l": 101, "t": "0413", "s": "Quoting Jesse Genet on AI reversing fertility decline by making parenthood more purposeful.", "tag": "raw"}
+{"a": "a16z", "l": 692, "t": "0413", "s": "Sharing podcast with Jesse Genet on agentic AI for homeschooling parenting and daily life improvement.", "tag": "raw"}
+{"a": "a16z", "l": 3922, "t": "0410", "s": "Stating that action produces information with accompanying image.", "tag": "raw"}
+{"a": "ycombinator", "l": 9, "t": "0409", "s": "Promoting YouTube Founder Firesides episode to tune in.", "tag": "raw"}
+{"a": "ycombinator", "l": 69, "t": "0409", "s": "Highlighting Luminai $38M Series B for AI agents automating hospital workflows and founder interview.", "tag": "raw"}
+{"a": "ycombinator", "l": 109, "t": "0408", "s": "Announcing Userlens launch as AI CSM predicting churn to make teams 100x better.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 7, "t": "0410", "s": "Hosting cybersecurity reception at RSA Conference with partners and portfolio companies.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 5, "t": "0410", "s": "Sharing Naboo co-founder insights on early team energy and reinventing corporate events.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 0, "t": "0409", "s": "Offering congratulations.", "tag": "raw"}
+{"a": "sequoia", "l": 5847, "t": "0401", "s": "Sharing Don Valentine 1977 memo for Sequoia Apple investment for first time honoring Apple 50 years.", "tag": "raw"}
+{"a": "sequoia", "l": 30, "t": "0331", "s": "Quoting on AI enabling new company information architecture beyond hierarchy.", "tag": "raw"}
+{"a": "sequoia", "l": 259, "t": "0319", "s": "Featuring discussion at OpenClaw meetup on how hard can it be question behind legendary companies.", "tag": "raw"}
+{"a": "foundersfund", "l": 164, "t": "0701", "s": "Sharing Part IV The Kingdom on Founders Fund power and performance.", "tag": "raw"}
+{"a": "foundersfund", "l": 201, "t": "0626", "s": "Sharing Part III The Gospel on Founders Fund as narrative agent influencing Silicon Valley.", "tag": "raw"}
+{"a": "foundersfund", "l": 21, "t": "0624", "s": "Linking to full interview video.", "tag": "raw"}
+{"a": "eladgil", "l": 258, "t": "0413", "s": "Praising Perplexity for reaching 500M revenue from 100M with minimal team growth.", "tag": "raw"}
+{"a": "eladgil", "l": 32, "t": "0413", "s": "Reacting positively to strong arguments against moon landing hoax.", "tag": "raw"}
+{"a": "eladgil", "l": 34, "t": "0409", "s": "Noting release of Muse Spark first model from Meta new AI stack.", "tag": "raw"}
+{"a": "pmarca", "l": 6483, "t": "0412", "s": "Sarcastically responding to idea of venture capital for really bad founders.", "tag": "raw"}
+{"a": "pmarca", "l": 730, "t": "0412", "s": "Agreeing productivity gains lead companies to expand hiring and markets not shrink.", "tag": "raw"}
+{"a": "pmarca", "l": 827, "t": "0412", "s": "Humorously asking if post claiming software is hard was written by Claude.", "tag": "raw"}
+{"a": "bchesky", "l": 198, "t": "0404", "s": "Explaining need for combined product management and marketing roles with CEO involvement from start.", "tag": "raw"}
+{"a": "bchesky", "l": 1010, "t": "0403", "s": "Confirming Airbnb follows integrated product management and marketing model.", "tag": "raw"}
+{"a": "bchesky", "l": 226, "t": "0320", "s": "Praising Garry exceptional performance as board member.", "tag": "raw"}
+{"a": "chamath", "l": 360, "t": "0413", "s": "Suggesting negative sign for foundation model companies with image.", "tag": "raw"}
+{"a": "chamath", "l": 13, "t": "0413", "s": "Exclaiming excitement with woot.", "tag": "raw"}
+{"a": "chamath", "l": 1, "t": "0413", "s": "Expressing desire to do something but lacking time.", "tag": "raw"}
+{"a": "paulg", "l": 26, "t": "0413", "s": "Affirming they not only can be but have been done.", "tag": "raw"}
+{"a": "paulg", "l": 1, "t": "0413", "s": "Simply agreeing with Yes.", "tag": "raw"}
+{"a": "paulg", "l": 59, "t": "0413", "s": "Suggesting starting company with one was even bigger mistake.", "tag": "raw"}
+{"a": "TheInformation", "l": 1, "t": "0413", "s": "Reporting Netflix growth reliance on ads and price hikes amid software stocks AI concerns.", "tag": "raw"}
+{"a": "TheInformation", "l": 3, "t": "0413", "s": "Noting Fleet startup talks to raise 50M at 750M valuation for AI training data.", "tag": "raw"}
+{"a": "TheInformation", "l": 2, "t": "0413", "s": "Advising SaaS to focus R&D on outcomes over new tools per Emergence Capital.", "tag": "raw"}
+{"a": "TechCrunch", "l": 50, "t": "0413", "s": "Announcing Uber and Nuro testing premium robotaxi service in San Francisco.", "tag": "raw"}
+{"a": "TechCrunch", "l": 41, "t": "0413", "s": "Reporting Microsoft killing Outlook Lite app next month.", "tag": "raw"}
+{"a": "TechCrunch", "l": 33, "t": "0413", "s": "Highlighting thousands of rare concert recordings landing on Internet Archive.", "tag": "raw"}
+{"a": "verge", "l": 15, "t": "0413", "s": "Detailing Mercedes EQS return with massive range and charging improvements.", "tag": "raw"}
+{"a": "verge", "l": 15, "t": "0413", "s": "Discussing Justin Bieber YouTube Coachella set and music ownership.", "tag": "raw"}
+{"a": "verge", "l": 20, "t": "0413", "s": "Covering RAM price increases affecting Microsoft Surface Pro and Laptop.", "tag": "raw"}
+{"a": "WIRED", "l": 0, "t": "0413", "s": "Introducing Unitree R1 humanoid robot with aerobatics entering international markets at entry price.", "tag": "raw"}
+{"a": "WIRED", "l": 5, "t": "0413", "s": "Describing Hasan Piker starter pack routine with espressos finasteride supplements and curios.", "tag": "raw"}
+{"a": "WIRED", "l": 8, "t": "0413", "s": "Warning Wayback Machine losing news sources access threatens digital history preservation.", "tag": "raw"}

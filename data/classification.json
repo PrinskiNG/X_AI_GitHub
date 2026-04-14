@@ -1,13 +1,13 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "classification": {
     "elonmusk": "S",
     "sama": "S",
-    "karpathy": "S",
+    "karpathy": "A",
     "demishassabis": "A",
-    "darioamodei": "S",
-    "OpenAI": "A",
-    "AnthropicAI": "S",
+    "darioamodei": "B",
+    "OpenAI": "B",
+    "AnthropicAI": "A",
     "GoogleDeepMind": "A",
     "xAI": "A",
     "AIatMeta": "B",
