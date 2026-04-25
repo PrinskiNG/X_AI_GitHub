@@ -1,0 +1,84 @@
+{"a": "elonmusk", "l": 97099, "t": "0425", "s": "https://t.co/BpmIpYrzqR", "tag": "raw"}
+{"a": "elonmusk", "l": 50003, "t": "0425", "s": "Exactly", "tag": "raw"}
+{"a": "elonmusk", "l": 35868, "t": "0425", "s": "https://t.co/CHhHyQSxjR", "tag": "raw"}
+{"a": "sama", "l": 6664, "t": "0425", "s": "we still get looksmaxxed on frontend a little but we IQmog hard now", "tag": "raw"}
+{"a": "sama", "l": 4559, "t": "0425", "s": "cold take", "tag": "raw"}
+{"a": "sama", "l": 378, "t": "0425", "s": "💀", "tag": "raw"}
+{"a": "karpathy", "l": 20408, "t": "0409", "s": "Judging by my tl there is a growing gap in understanding of AI capability.", "tag": "raw"}
+{"a": "karpathy", "l": 3271, "t": "0410", "s": "Yes it's the tractable form of brain upload.", "tag": "raw"}
+{"a": "karpathy", "l": 3764, "t": "0409", "s": "Someone recently suggested to me that the reason OpenClaw moment was so big...", "tag": "raw"}
+{"a": "demishassabis", "l": 13043, "t": "0414", "s": "Maybe tell your buddy to do some actual work and to stop spreading absolute nonsense. This post is completely false and just pure clickbait.", "tag": "raw"}
+{"a": "demishassabis", "l": 1981, "t": "0414", "s": "Great to see our collaboration w/ @BostonDynamics unlocking new capabilities!", "tag": "raw"}
+{"a": "demishassabis", "l": 1500, "t": "0416", "s": "Our most expressive and steerable TTS model yet!", "tag": "raw"}
+{"a": "DarioAmodei", "l": 12096, "t": "0407", "s": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing...", "tag": "raw"}
+{"a": "DarioAmodei", "l": 15354, "t": "0126", "s": "The Adolescence of Technology: an essay on the risks posed by powerful AI...", "tag": "raw"}
+{"a": "DarioAmodei", "l": 6656, "t": "0126", "s": "I've been working on this essay for a while...", "tag": "raw"}
+{"a": "OpenAI", "l": 51294, "t": "0423", "s": "Introducing GPT-5.5 A new class of intelligence for real work and powering agents...", "tag": "raw"}
+{"a": "OpenAI", "l": 5768, "t": "0424", "s": "Update: GPT-5.5 and GPT-5.5 Pro are now available in the API.", "tag": "raw"}
+{"a": "OpenAI", "l": 4986, "t": "0423", "s": "GPT-5.5 delivers this step up in intelligence without compromising on speed.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 922, "t": "0424", "s": "Our experiment had a few quirks. One of our colleagues told Claude it could purchase something for itself. It chose to acquire 19 ping-pong balls.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 596, "t": "0424", "s": "We’re interested in how AI models could affect commercial exchange.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 541, "t": "0424", "s": "Claude interviewed 69 of our colleagues about what they wanted to buy and sell.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1369, "t": "0422", "s": "We’re launching Gemini Enterprise Agent Platform with @GoogleCloud...", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1204, "t": "0423", "s": "This is Decoupled DiLoCo: our new resilient and flexible way to train advanced AI models across multiple data centres.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 707, "t": "0424", "s": "For @DemisHassabis, the path to AGI started in 1988 with an Amiga 500 and a game of Othello.", "tag": "raw"}
+{"a": "xAI", "l": 21331, "t": "0403", "s": "Introducing Quality mode on Grok Imagine – powered by our most advanced image generation model.", "tag": "raw"}
+{"a": "xAI", "l": 9413, "t": "0423", "s": "Introducing Grok Voice Think Fast 1.0 A state-of-the-art voice model...", "tag": "raw"}
+{"a": "xAI", "l": 2797, "t": "0418", "s": "Grok's Speech to Text API is now available.", "tag": "raw"}
+{"a": "tualatrix", "l": 11, "t": "0425", "s": "这个娃啊，在我大腿上都睡得这么香。", "tag": "raw"}
+{"a": "tualatrix", "l": 1, "t": "0425", "s": "良渚土著的日常哈哈", "tag": "raw"}
+{"a": "tualatrix", "l": 1, "t": "0425", "s": "是第一个孩子。可能是老婆准备工作做得好😎", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "@airchina why is CA856 suddenly cancelled? I haven't received any email updates from you, just found out from @HeathrowAirport that the flight today is cancelled.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11點lu", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "waiting someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "hello everyone", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "東北の人家でけぇ……@ NHK教育", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "つぃったも2ちゃんも おもいおもい", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "@takumiP @RocketNews24  ﾉｽ  ﾄﾗ   ﾀﾞﾑ  ｽｩｩｩｩｩｩｩｩｩｯｯ", "tag": "raw"}
+{"a": "mranti", "l": 7, "t": "0425", "s": "我做了一个开源游戏，模拟了这个摩尔斯密码训练器。https://github.com/mranti/morsecodegame", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0425", "s": "也许以后加上脑机接口的人发展出多线程工作。", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0425", "s": "目前的代码肯定需要调整才能解决此类问题，但不难。唯一的麻烦是，这人物一般都有几百个，看了图其实也很难记。", "tag": "raw"}
+{"a": "nishuang", "l": 34, "t": "0409", "s": "APP 设计里的游戏感和游戏化 #迷你设计课 好久没黑多邻国和 Anki 了，今天继续 CapWords 学外语、背单词的方式，特别像玩“宝可梦”游戏搜集宝贝，它利用了每个人都有的好奇心，以及搜集好东西的本能", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "看来你还是没理解障碍是什么 如果这么操作，每次都得先捕捉整个画面、识别里面所有的视觉元素，这就放弃了 CapWords 自动抠图、自动识别这个主要卖点😂", "tag": "raw"}
+{"a": "a16z", "l": 388, "t": "0424", "s": "ZYN sales go negative More charts: https://www.a16z.news/p/charts-of-the-week-software-ate-the", "tag": "raw"}
+{"a": "a16z", "l": 93, "t": "0424", "s": "Distrust in media is higher than trust More charts: https://www.a16z.news/p/charts-of-the-week-software-ate-the", "tag": "raw"}
+{"a": "a16z", "l": 64, "t": "0424", "s": "The generational divide in media trust More charts: https://www.a16z.news/p/charts-of-the-week-software-ate-the", "tag": "raw"}
+{"a": "ycombinator", "l": 293, "t": "0424", "s": "Grateful to have @demishassabis and @GoogleDeepMind stop by YC today and hang with founders!", "tag": "raw"}
+{"a": "ycombinator", "l": 141, "t": "0425", "s": "Replit is the leading no-code app builder for consumers and enterprise, letting anyone with an idea build real, deployed software using natural language. The company just raised a $400 million Series D at a $9 billion valuation.", "tag": "raw"}
+{"a": "ycombinator", "l": 7, "t": "0425", "s": "Tune in: https://www.youtube.com/watch?v=kMYeTRqzAfc&feature=youtu.be", "tag": "raw"}
+{"a": "lightspeedvp", "l": 12, "t": "0423", "s": "The race to artificial superintelligence is no longer a theory. It’s an evolving story of global strategy, capital, and talent. It also may be the defining story of our time. In his new book, The Infinity Machine, @scmallaby chronicles the rise of @demishassabis and @GoogleDeepMind", "tag": "raw"}
+{"a": "lightspeedvp", "l": 10, "t": "0424", "s": "“Is there anything you regret, or wish you’d done sooner?” At our Ideas Move at Lightspeed Retreat, innovative founders came together to have these kinds of conversations.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 0, "t": "0423", "s": "You can join the waitlist for the event and find more information here: https://events.lsvp.com/lightspeed/rsvp/register?e=the-infinity-machine-an-evening-with-sebastian-mallaby", "tag": "raw"}
+{"a": "sequoia", "l": 5897, "t": "0401", "s": "In honor of 50 years of Apple, we're sharing - for the first time ever - Don Valentine's original 1977 memo for Sequoia's investment into Apple Computer. #Apple50", "tag": "raw"}
+{"a": "sequoia", "l": 30, "t": "0331", "s": "“In a conventional company, the intelligence lives in the people and the hierarchy routes it. In this new model, the intelligence lives in the system and the people are the edge constantly aligning it.” New piece from @jack and @roelofbotha", "tag": "raw"}
+{"a": "sequoia", "l": 20, "t": "0422", "s": "Thanks to our community for making this the best AI Ascent yet. Stay tuned for content coming next week", "tag": "raw"}
+{"a": "foundersfund", "l": 200, "t": "0626", "s": "Part III: The Gospel", "tag": "raw"}
+{"a": "foundersfund", "l": 163, "t": "0701", "s": "Part IV: The Kingdom", "tag": "raw"}
+{"a": "foundersfund", "l": 20, "t": "0624", "s": "Full interview: https://www.youtube.com/watch?v=wP2zcESIpOo", "tag": "raw"}
+{"a": "eladgil", "l": 1, "t": "0424", "s": "Oh good one", "tag": "raw"}
+{"a": "eladgil", "l": 0, "t": "0424", "s": "ha", "tag": "raw"}
+{"a": "pmarca", "l": 493, "t": "0425", "s": "I’m so old, I remember when the socialists wanted relief from drudgery through labor saving devices.", "tag": "raw"}
+{"a": "pmarca", "l": 18, "t": "0425", "s": "👀", "tag": "raw"}
+{"a": "pmarca", "l": 9, "t": "0425", "s": "👀", "tag": "raw"}
+{"a": "bchesky", "l": 1024, "t": "0403", "s": "We follow this model", "tag": "raw"}
+{"a": "bchesky", "l": 201, "t": "0404", "s": "That’s the idea behind the product marketing/product management combined role, as well as making sure the CEO is involved in both functions. The biggest shortfall is when marketing is not at the conception of the product.", "tag": "raw"}
+{"a": "bchesky", "l": 7, "t": "0417", "s": "Congrats on all the progress", "tag": "raw"}
+{"a": "chamath", "l": 10548, "t": "0425", "s": "On page twenty-six of “The Billionaire Tax” proposal in California, it explains how the state legislature can convert from a Billionaire Tax to an Everyone Tax without voter approval.", "tag": "raw"}
+{"a": "chamath", "l": 201, "t": "0425", "s": "Probable.", "tag": "raw"}
+{"a": "chamath", "l": 5013, "t": "0425", "s": "The Billionaire Tax is actually an Everyone Tax. The Billionaire Tax is a new tax proposal written by four professors who don't believe in the American dream.", "tag": "raw"}
+{"a": "paulg", "l": 811, "t": "0425", "s": "Edith and Shahed from Noora Health came to visit. They've saved over 75,000 lives so far. A small city of people.", "tag": "raw"}
+{"a": "paulg", "l": 3, "t": "0425", "s": "I'd rather look like that than think the things he does.", "tag": "raw"}
+{"a": "paulg", "l": 1, "t": "0425", "s": "There have been two so far that were irreparable. But both were fine watches; they were just damaged.", "tag": "raw"}
+{"a": "TheInformation", "l": 1, "t": "0425", "s": "Exclusive: AI startups are facing higher prices and months-long wait times to access Nvidia GPUs as cloud providers reserve supply for OpenAI, Anthropic and internal use.", "tag": "raw"}
+{"a": "TheInformation", "l": 0, "t": "0425", "s": "Mark Zuckerberg’s warning that AI models would be hard to contain is gaining traction after new security lapses at top labs.", "tag": "raw"}
+{"a": "TheInformation", "l": 0, "t": "0425", "s": "Former Intel CEO Pat Gelsinger has resurfaced to push a different mission: selling AI tools built around Christian values through Gloo.", "tag": "raw"}
+{"a": "TechCrunch", "l": 20, "t": "0425", "s": "Anthropic created a test marketplace for agent-on-agent commerce https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/?utm_source=dlvr.it&utm_medium=twitter", "tag": "raw"}
+{"a": "TechCrunch", "l": 16, "t": "0425", "s": "Maine’s governor vetoes data center moratorium https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/?utm_source=dlvr.it&utm_medium=twitter", "tag": "raw"}
+{"a": "TechCrunch", "l": 13, "t": "0425", "s": "If you’re on the fence about Startup Battlefield, you have nothing to lose but a couple of minutes, and the upside is a global launchpad for your startup.", "tag": "raw"}
+{"a": "verge", "l": 993, "t": "0425", "s": "Trump fires the entire National Science Board https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board", "tag": "raw"}
+{"a": "verge", "l": 23, "t": "0425", "s": "An influx of used EVs could drive down prices https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices", "tag": "raw"}
+{"a": "verge", "l": 21, "t": "0425", "s": "Researchers say we’re talking less than ever https://www.theverge.com/science/918753/researchers-talking-less", "tag": "raw"}
+{"a": "WIRED", "l": 8, "t": "0425", "s": "A longitudinal study found that loneliness is closely linked to lapses in immediate and delayed recall. https://www.wired.com/story/theres-new-evidence-for-how-loneliness-affects-memory-in-old-age/", "tag": "raw"}
+{"a": "WIRED", "l": 6, "t": "0425", "s": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone. https://www.wired.com/story/ai-generated-maga-girls/", "tag": "raw"}
+{"a": "WIRED", "l": 5, "t": "0425", "s": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era. https://www.wired.com/story/apple-tim-cook-subscription-business/", "tag": "raw"}
