@@ -1,0 +1,92 @@
+{"a": "elonmusk", "l": 40414, "t": "0426", "s": "Accurate", "tag": "raw"}
+{"a": "elonmusk", "l": 334712, "t": "0426", "s": "If they’re willing to die to assassinate, imagine what they will do if they gain political power", "tag": "raw"}
+{"a": "elonmusk", "l": 27017, "t": "0426", "s": "This imbecile clearly doesn’t have the faintest clue what actual Nazis would be like", "tag": "raw"}
+{"a": "sama", "l": 18363, "t": "0425", "s": "we still get looksmaxxed on frontend a little but we IQmog hard now", "tag": "raw"}
+{"a": "sama", "l": 8693, "t": "0426", "s": "feels like a good time to seriously rethink how operating systems and user interfaces are designed", "tag": "raw"}
+{"a": "sama", "l": 7894, "t": "0426", "s": "post-AGI, no one is going to work and the economy is going to collapse", "tag": "raw"}
+{"a": "karpathy", "l": 20473, "t": "0409", "s": "Judging by my tl there is a growing gap in understanding of AI capability.", "tag": "raw"}
+{"a": "karpathy", "l": 3273, "t": "0410", "s": "Yes it's the tractable form of brain upload.", "tag": "raw"}
+{"a": "karpathy", "l": 3787, "t": "0409", "s": "Someone recently suggested to me that the reason OpenClaw moment was so big", "tag": "raw"}
+{"a": "demishassabis", "l": 13037, "t": "0414", "s": "Maybe tell your buddy to do some actual work and to stop spreading absolute nonsense.", "tag": "raw"}
+{"a": "demishassabis", "l": 1982, "t": "0414", "s": "Great to see our collaboration w/ @BostonDynamics unlocking new capabilities!", "tag": "raw"}
+{"a": "demishassabis", "l": 1502, "t": "0416", "s": "Our most expressive and steerable TTS model yet!", "tag": "raw"}
+{"a": "DarioAmodei", "l": 12103, "t": "0407", "s": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing", "tag": "raw"}
+{"a": "DarioAmodei", "l": 15365, "t": "0126", "s": "The Adolescence of Technology: an essay on the risks posed by powerful AI", "tag": "raw"}
+{"a": "DarioAmodei", "l": 6658, "t": "0126", "s": "I've been working on this essay for a while", "tag": "raw"}
+{"a": "OpenAI", "l": 51513, "t": "0423", "s": "Introducing GPT-5.5", "tag": "raw"}
+{"a": "OpenAI", "l": 6252, "t": "0424", "s": "Update: GPT-5.5 and GPT-5.5 Pro are now available in the API.", "tag": "raw"}
+{"a": "OpenAI", "l": 4993, "t": "0423", "s": "GPT-5.5 delivers this step up in intelligence without compromising on speed.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 949, "t": "0424", "s": "Our experiment had a few quirks.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 643, "t": "0424", "s": "We’re interested in how AI models could affect commercial exchange.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 434, "t": "0424", "s": "To our amazement, another Claude agent modeled its human’s preferences", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1371, "t": "0422", "s": "We’re launching Gemini Enterprise Agent Platform with @GoogleCloud", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1214, "t": "0423", "s": "This is Decoupled DiLoCo: our new resilient and flexible way to train advanced AI models", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 743, "t": "0424", "s": "For @DemisHassabis, the path to AGI started in 1988 with an Amiga 500", "tag": "raw"}
+{"a": "xai", "l": 21688, "t": "0403", "s": "Introducing Quality mode on Grok Imagine – powered by our most advanced image generation model.", "tag": "raw"}
+{"a": "xai", "l": 11982, "t": "0423", "s": "Introducing Grok Voice Think Fast 1.0", "tag": "raw"}
+{"a": "xai", "l": 2808, "t": "0418", "s": "Grok's Speech to Text API is now available.", "tag": "raw"}
+{"a": "AIatMeta", "l": 1187, "t": "0424", "s": "Today we’re announcing an agreement with Amazon Web Services", "tag": "raw"}
+{"a": "AIatMeta", "l": 642, "t": "0410", "s": "Check out some cool ways the community has been putting Muse Spark to work", "tag": "raw"}
+{"a": "AIatMeta", "l": 313, "t": "0409", "s": "Check out some cool ways the community has been putting Muse Spark to work (and play)", "tag": "raw"}
+{"a": "GoogleAI", "l": 2277, "t": "0415", "s": "Today we launched Gemini 3.1 Flash TTS, our most expressive and controllable text-to-speech model yet.", "tag": "raw"}
+{"a": "GoogleAI", "l": 1473, "t": "0420", "s": "Calling all builders 🛠️📣 Google AI Pro and Ultra subscribers", "tag": "raw"}
+{"a": "GoogleAI", "l": 1329, "t": "0420", "s": "Beyond generating high-fidelity visuals", "tag": "raw"}
+{"a": "MSFTResearch", "l": 297, "t": "0423", "s": "Congratulations to Philippe Laban, Jennifer Neville, and collaborators on their Best Paper Award at ICLR 2026", "tag": "raw"}
+{"a": "MSFTResearch", "l": 79, "t": "0420", "s": "LLMs that get lost in conversation. Robots that learn zero-shot.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 76, "t": "0416", "s": "A new perspective from Microsoft Research published in Cell", "tag": "raw"}
+{"a": "GregBrockman", "l": 2, "t": "0308", "s": "Smash!!!", "tag": "raw"}
+{"a": "GregBrockman", "l": 0, "t": "0118", "s": "❤️❤️❤️❤️❤️", "tag": "raw"}
+{"a": "GregBrockman", "l": 0, "t": "1230", "s": "Mmmmmm cakes!!", "tag": "raw"}
+{"a": "GaryMarcus", "l": 63, "t": "0426", "s": "A deranged shooter racing through a hotel to shoot the President is a real wake-up call", "tag": "raw"}
+{"a": "GaryMarcus", "l": 48, "t": "0426", "s": "All your jobs are belong to us", "tag": "raw"}
+{"a": "GaryMarcus", "l": 18, "t": "0426", "s": "getting so much phishing email in my X DMs.", "tag": "raw"}
+{"a": "rowancheung", "l": 1358, "t": "0422", "s": "MIT researchers just replicated human muscles with AI-controlled fibers.", "tag": "raw"}
+{"a": "rowancheung", "l": 342, "t": "0420", "s": "Boston Dynamics just gave its robot dog a brain that reasons about the physical world.", "tag": "raw"}
+{"a": "rowancheung", "l": 409, "t": "0413", "s": "This robot can be torn apart and still keeps moving.", "tag": "raw"}
+{"a": "clmcleod", "l": 1, "t": "0822", "s": "Thanks for these Britney!! I haven't laughed this hard since this whole pandemic began.", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "if you place a snapping turtle or a horseshoe crab on the floor they stay put with no container..lol...touch the crab he rolls over..touch the turtle and he hisses at you", "tag": "raw"}
+{"a": "clmcleod", "l": 0, "t": "0913", "s": "I got this the other day from Saharah", "tag": "raw"}
+{"a": "bindureddy", "l": 266, "t": "0426", "s": "GPT 5.5 is more astounding than you can imagine", "tag": "raw"}
+{"a": "bindureddy", "l": 219, "t": "0426", "s": "We are our own biggest customer and it's totally going out of control....", "tag": "raw"}
+{"a": "bindureddy", "l": 176, "t": "0426", "s": "Where is Google in the midst of all this drama?", "tag": "raw"}
+{"a": "dotey", "l": 702, "t": "0426", "s": "作者画的这图效果挺好，不过好像没提供提示词，我仿照着写了一个 GPT Image 2 的提示词模板：", "tag": "raw"}
+{"a": "dotey", "l": 517, "t": "0425", "s": "https://x.com/i/article/2048134795494875136", "tag": "raw"}
+{"a": "dotey", "l": 96, "t": "0426", "s": "写 PRD（产品需求文档，Product Requirements Document）要写一版给 Agent 的吗？", "tag": "raw"}
+{"a": "oran_ge", "l": 4, "t": "0426", "s": "昨天开放麦遇到刘小排 @bourneliu66", "tag": "raw"}
+{"a": "oran_ge", "l": 5, "t": "0426", "s": "昨天参加开放麦，听到最好笑的分享：", "tag": "raw"}
+{"a": "oran_ge", "l": 1, "t": "0426", "s": "这是 ColaOS 画的，ChatGPT 应该也可以，你的提示词有图，他就画了图，你试试跟他说emmm 能用 html 画一个动态的吗", "tag": "raw"}
+{"a": "vista8", "l": 38, "t": "0426", "s": "前些天OpenAI发布了GPT5.5，仔细读了官方文章，AI重写学习，有一些信息值得关注：", "tag": "raw"}
+{"a": "vista8", "l": 34, "t": "0425", "s": "一晃三年过去，WayToAGI从一个飞书文档成长为全国最大的AI交流社区。", "tag": "raw"}
+{"a": "vista8", "l": 16, "t": "0426", "s": "从人认知带宽角度看。", "tag": "raw"}
+{"a": "tualatrix", "l": 165, "t": "0426", "s": "老婆：「你知道为啥带娃很累吗？」我：「？」老婆：「因为娃的所有需求都是P0的需求，就像老板不停的来给你布置紧急任务。」", "tag": "raw"}
+{"a": "tualatrix", "l": 109, "t": "0425", "s": "带娃来户外极简露营，结果一群老登在附近一边打牌一边抽烟，烟都飘过来了，于是换了个水景区域继续让娃呼呼大睡。", "tag": "raw"}
+{"a": "tualatrix", "l": 74, "t": "0426", "s": "为什么你应该关注我 @tualatrix 而不是 AI KOL：1. 我靠卖 App 赚钱 2. 最近转型育儿博主了 3. 十年真人头像", "tag": "raw"}
+{"a": "mranti", "l": 118, "t": "0426", "s": "刚和一个在伊朗的好友聊，他解释在德黑兰的自由伊朗知识分子这次怎么看美国的伊朗战争：“知识分子跟政府的矛盾是怎么生活的矛盾，美国过来都不让他们活了，这就是主要的区别。”", "tag": "raw"}
+{"a": "mranti", "l": 41, "t": "0426", "s": "我在用Claude Code接Deepseek V4 Pro，刚刚开始试，手感是 Kimi 2.6 > Deepseek V4 Pro > Kimi 2.5。不知道大家有没同感？", "tag": "raw"}
+{"a": "mranti", "l": 31, "t": "0425", "s": "因为一直测试Grok Image的敏感性（which我大概是真专家了），搞得我的时间线常有美女清凉图，老婆上次和我讨论事情，看我推特时间线，问我想干嘛，我只能说这是马斯克干的，不是我。", "tag": "raw"}
+{"a": "nishuang", "l": 34, "t": "0409", "s": "APP 设计里的游戏感和游戏化 #迷你设计课 好久没黑多邻国和 Anki 了，今天继续 CapWords 学外语、背单词的方式，特别像玩“宝可梦”游戏搜集宝贝...", "tag": "raw"}
+{"a": "nishuang", "l": 37, "t": "0409", "s": "新闻说 3 月底苹果包了 5 架飞机，装满了 iPhone 紧急空运到美国，以此来避免关税大战而新增的成本 新闻还说苹果在美国的 iPhone 库存够卖几个月", "tag": "raw"}
+{"a": "nishuang", "l": 31, "t": "0409", "s": "为什么苹果要搞“没必要”的创新 不管是难用的 iOS 18 相册，还是十年用不上一次的卫星通信，或者 iPhone 17 Pro “前后摄像头同时拍摄”的传闻功能…这些“没必要”创新背后都有充分理由", "tag": "raw"}
+{"a": "a16z", "l": 854, "t": "0424", "s": "Changing of the guard More charts: https://www.a16z.news/p/charts-of-the-week-software-ate-the", "tag": "raw"}
+{"a": "a16z", "l": 931, "t": "0424", "s": "In the industrial era, no sector has ever been quite as big a deal as railroads. More charts: https://www.a16z.news/p/charts-of-the-week-software-ate-the", "tag": "raw"}
+{"a": "a16z", "l": 418, "t": "0424", "s": "ZYN sales go negative More charts: https://www.a16z.news/p/charts-of-the-week-software-ate-the", "tag": "raw"}
+{"a": "ycombinator", "l": 612, "t": "0426", "s": "“The biggest startup ideas are terrifying. And not just because they'd be a lot of work. The biggest ideas seem to threaten your identity: you wonder if you'd have enough ambition to carry them through.” https://paulgraham.com/ambitious.html", "tag": "raw"}
+{"a": "ycombinator", "l": 427, "t": "0424", "s": "OpenWork (@getopenwork) is the open source alternative to Claude Cowork. Roll out AI compliantly across your non-technical org at scale...", "tag": "raw"}
+{"a": "ycombinator", "l": 337, "t": "0424", "s": "AI isn't just making teams more productive. It's changing how companies should be built. In this episode of Startup School, YC Partner @sdianahu explains what it means to build an AI-native company...", "tag": "raw"}
+{"a": "lightspeedvp", "l": 17, "t": "0420", "s": "The @Forbes AI 50 list recognizes some of the most promising AI companies in the world, and we’re proud to see 12 Lightspeed portfolio companies recognized on this year’s list.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 12, "t": "0423", "s": "The race to artificial superintelligence is no longer a theory. It’s an evolving story of global strategy, capital, and talent...", "tag": "raw"}
+{"a": "lightspeedvp", "l": 11, "t": "0424", "s": "“Is there anything you regret, or wish you’d done sooner?” At our Ideas Move at Lightspeed Retreat, innovative founders came together to have these kinds of conversations.", "tag": "raw"}
+{"a": "sequoia", "l": 5901, "t": "0401", "s": "In honor of 50 years of Apple, we're sharing - for the first time ever - Don Valentine's original 1977 memo for Sequoia's investment into Apple Computer. #Apple50", "tag": "raw"}
+{"a": "sequoia", "l": 261, "t": "0319", "s": "At our @OpenClaw meetup, @steipete talked with @LucianaLix about the question that led to the creation of OpenClaw – the same question behind the founding of many now-legendary companies: “How hard can it be?”", "tag": "raw"}
+{"a": "sequoia", "l": 55, "t": "0313", "s": "“The token factory is all about turning – through software – capital spend into ROIC. That’s the job.” @satyanadella on @Microsoft CapEx for the AI data center buildout.", "tag": "raw"}
+{"a": "foundersfund", "l": 645, "t": "0612", "s": "Part I: The Prophet", "tag": "raw"}
+{"a": "foundersfund", "l": 200, "t": "0626", "s": "Part III: The Gospel", "tag": "raw"}
+{"a": "eladgil", "l": 26, "t": "0426", "s": "Saturday song https://www.youtube.com/watch?si=yRsm9viuy3NYvnJ0&v=D8MoLNxLE98&feature=youtu.be", "tag": "raw"}
+{"a": "eladgil", "l": 5, "t": "0424", "s": "I freeze all my clothes", "tag": "raw"}
+{"a": "eladgil", "l": 3, "t": "0424", "s": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥", "tag": "raw"}
+{"a": "pmarca", "l": 2438, "t": "0426", "s": "When something becomes abundant and cheap, someone else becomes scarce and valuable.", "tag": "raw"}
+{"a": "pmarca", "l": 2111, "t": "0426", "s": "1985 was glorious. PC goes vertical. NES launches. Cable TV takes off. Back To The Future, Real Genius, Weird Science, DARYL. Top Gun filming. We Are The World, New Coke, Madonna, Wrestlemania. NSFNet. And constant looming threat of nuclear annihilation for adrenalinemaxxing.", "tag": "raw"}
+{"a": "pmarca", "l": 943, "t": "0426", "s": "When something becomes abundant and cheap, someone else becomes scarce and valuable. [quoted post about AI agents burnout]", "tag": "raw"}
+{"a": "bchesky", "l": 2645, "t": "0319", "s": "As one of the other board members, I can say that Garry is doing an exceptional job. [quoted post]", "tag": "raw"}
+{"a": "bchesky", "l": 1025, "t": "0403", "s": "We follow this model [quoted post about product management and product marketing being one job]", "tag": "raw"}
+{"a": "bchesky", "l": 440, "t": "0313", "s": "Congrats!!!!", "tag": "raw"}
