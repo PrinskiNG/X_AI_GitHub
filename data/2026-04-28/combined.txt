@@ -1,0 +1,81 @@
+{"a": "elonmusk", "l": 12702, "t": "0427", "s": "😑", "tag": "raw"}
+{"a": "elonmusk", "l": 15054, "t": "0427", "s": "They stole a nonprofit. It’s not right.", "tag": "raw"}
+{"a": "elonmusk", "l": 15501, "t": "0427", "s": "Long list", "tag": "raw"}
+{"a": "sama", "l": 440, "t": "0427", "s": "we love our users", "tag": "raw"}
+{"a": "sama", "l": 11908, "t": "0427", "s": "we have updated our partnership with microsoft.", "tag": "raw"}
+{"a": "sama", "l": 2078, "t": "0427", "s": "this is so good: https://paulgraham.com/kids.html", "tag": "raw"}
+{"a": "karpathy", "l": 1189, "t": "0420", "s": "Yeah I've seen it a few times now, all the Enneagram type fives get one shotted into AI psychosis when they discover LLM knowledge bases :)", "tag": "raw"}
+{"a": "karpathy", "l": 3274, "t": "0410", "s": "Yes it's the tractable form of brain upload.", "tag": "raw"}
+{"a": "karpathy", "l": 20507, "t": "0409", "s": "Judging by my tl there is a growing gap in understanding of AI capability.", "tag": "raw"}
+{"a": "demishassabis", "l": 1190, "t": "0425", "s": "Thanks for inviting me @garrytan, was awesome to chat and loved the inspirational space! Great to see so many startups building with @googlegemma models!", "tag": "raw"}
+{"a": "demishassabis", "l": 1502, "t": "0416", "s": "Our most expressive and steerable TTS model yet!", "tag": "raw"}
+{"a": "demishassabis", "l": 1980, "t": "0414", "s": "Great to see our collaboration w/ @BostonDynamics unlocking new capabilities!", "tag": "raw"}
+{"a": "darioamodei", "l": 855, "t": "0407", "s": "Cyber is the first clear and present danger from frontier AI models, but it won’t be the last.", "tag": "raw"}
+{"a": "darioamodei", "l": 1033, "t": "0407", "s": "The dangers of getting this wrong are obvious, but if we get it right, there is a real opportunity to create a fundamentally more secure internet and world than we had before the advent of AI-powered cyber capabilities.", "tag": "raw"}
+{"a": "darioamodei", "l": 12119, "t": "0407", "s": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing to confront the cyber threat posed by increasingly capable AI systems head-on.", "tag": "raw"}
+{"a": "OpenAI", "l": 6327, "t": "0424", "s": "Update: GPT-5.5 and GPT-5.5 Pro are now available in the API.", "tag": "raw"}
+{"a": "OpenAI", "l": 4998, "t": "0423", "s": "GPT-5.5 delivers this step up in intelligence without compromising on speed.", "tag": "raw"}
+{"a": "OpenAI", "l": 51667, "t": "0423", "s": "Introducing GPT-5.5", "tag": "raw"}
+{"a": "AnthropicAI", "l": 367, "t": "0424", "s": "To read our write-up in full, see here: https://www.anthropic.com/features/project-deal", "tag": "raw"}
+{"a": "AnthropicAI", "l": 953, "t": "0424", "s": "Our experiment had a few quirks.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 650, "t": "0424", "s": "We’re interested in how AI models could affect commercial exchange.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 641, "t": "0427", "s": "A decade ago in Korea, AlphaGo showed AI’s potential.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 747, "t": "0424", "s": "For @DemisHassabis, the path to AGI started in 1988 with an Amiga 500 and a game of Othello.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1229, "t": "0423", "s": "This is Decoupled DiLoCo: our new resilient and flexible way to train advanced AI models across multiple data centres.", "tag": "raw"}
+{"a": "xAI", "l": 1078, "t": "0423", "s": "Try it now for free: https://console.x.ai/playground/voice/agent", "tag": "raw"}
+{"a": "xAI", "l": 14235, "t": "0423", "s": "Introducing Grok Voice Think Fast 1.0", "tag": "raw"}
+{"a": "xAI", "l": 2822, "t": "0418", "s": "Grok's Speech to Text API is now available.", "tag": "raw"}
+{"a": "tualatrix", "l": 2, "t": "0427", "s": "用来做窗口管理器倒是不错…", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0427", "s": "这是要调用私有 API 吗？", "tag": "raw"}
+{"a": "tualatrix", "l": 0, "t": "0427", "s": "行，那我就不浪费钱买这种配件了", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "@airchina why is CA856 suddenly cancelled? I haven't received any email updates from you, just found out from @HeathrowAirport that the flight today is cancelled. Can you please let me know what is the option? Will you provide seat for future flights or provide the full refund?", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11點lu", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "waiting someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "hello everyone", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "東北の人家でけぇ……@ NHK教育", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "つぃったも2ちゃんも おもいおもい", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "@takumiP @RocketNews24  ﾉｽ  ﾄﾗ   ﾀﾞﾑ  ｽｩｩｩｩｩｩｩｩｩｯｯ", "tag": "raw"}
+{"a": "mranti", "l": 7, "t": "0427", "s": "这个太怪了，重庆人成为越南的屈原啊！", "tag": "raw"}
+{"a": "mranti", "l": 3, "t": "0427", "s": "Seedance明显更自然啊。", "tag": "raw"}
+{"a": "mranti", "l": 0, "t": "0427", "s": "远见！", "tag": "raw"}
+{"a": "nishuang", "l": 34, "t": "0409", "s": "APP 设计里的游戏感和游戏化 #迷你设计课 好久没黑多邻国和 Anki 了，今天继续 CapWords 学外语、背单词的方式，特别像玩“宝可梦”游戏搜集宝贝，它利用了每个人都有的好奇心，以及搜集好东西的本能 每天都能拍到意想不到的照片、学到意想不到的单词，别说是小朋友喜欢玩这个“学单词”的游戏，成年人也能很愉快地积累单词量 这种采集和收获过程，最终能激发你的内啡肽，让你产生发自内心的成就感和愉悦感，让你还想一直玩下去 现在越来越多的产品设计也像 CapWords 这样，引入了游戏的手感和游戏的体验，这种设计方法一般叫做 游戏感 / Game-like design，最典型的例子还有 not boring 出的有趣天气预报 app 相反，多邻国背单词的方式，性质和小时候父母说“英语考95分以上，就奖励你100块！”很相似，当时很刺激，但现在你既不记得当时考试里的单词、也不记得 100 块拿来买什么好东西了 多邻国刺激的是多巴胺，当时的确也很爽，但多邻国带来的这一点点刺激，很快就不足以抵消重复背单词的无聊和痛苦 多邻国这种设计方法，就是 游戏化 / Gamification，它创造一个奖励系统来骗你干苦力活 现在的用户越来越聪明，普通的“游戏化”越来越难打动用户。这时候就体现出了“游戏感”的好处，谁不喜欢玩啊？！ 至于 Anki，它只适合特定的人", "tag": "raw"}
+{"a": "nishuang", "l": 1, "t": "0409", "s": "看来你还是没理解障碍是什么 如果这么操作，每次都得先捕捉整个画面、识别里面所有的视觉元素，这就放弃了 CapWords 自动抠图、自动识别这个主要卖点😂", "tag": "raw"}
+{"a": "a16z", "l": 128, "t": "0427", "s": ".@pmarca on picking the right industry", "tag": "raw"}
+{"a": "a16z", "l": 22, "t": "0427", "s": ".@bhorowitz explains why moats like code and UI may not work in the AI era...", "tag": "raw"}
+{"a": "ycombinator", "l": 95, "t": "0427", "s": "Dynamic Software Interfaces @agupta Before AI, every user of a piece of software got the same interface. Coding agents are now good enough to let users become their own forward-deployed engineers. We think software companies will soon ship shared primitives with the full expectation that users will radically customize the final product themselves.", "tag": "raw"}
+{"a": "ycombinator", "l": 44, "t": "0427", "s": "Production AI agents fail the same way every day – loops, dead ends, wasted tokens. @reasonblocksinc is the new runtime that catches failures mid-run and learns from every one. 42% more accurate, 52% cheaper on SWE-Bench Pro. Congrats on the launch, @sajeevmagesh and @rohankvij!", "tag": "raw"}
+{"a": "ycombinator", "l": 27, "t": "0427", "s": "If you’re interested in working on any of these ideas, you should apply to YC. The deadline for applying to the Summer batch is May 4th at 8pm PT: https://www.ycombinator.com/apply", "tag": "raw"}
+{"a": "lightspeedvp", "l": 13, "t": "0427", "s": "Every leading AI model so far learns from humans. The next frontier might not depend on human input at all. That’s why we’re excited to announce that we co-led Ineffable Intelligence’s $1.1B seed round alongside @sequoia. Founded by reinforcement learning authority David Silver...", "tag": "raw"}
+{"a": "lightspeedvp", "l": 1, "t": "0427", "s": "You can find a link to the exclusive with @willknight at @WIRED here: https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/", "tag": "raw"}
+{"a": "lightspeedvp", "l": 0, "t": "0427", "s": "Read about our full story of the raise here: https://lsvp.com/stories/move-37-ten-years-on-partnering-with-ineffable-intelligence/", "tag": "raw"}
+{"a": "sequoia", "l": 5907, "t": "0401", "s": "In honor of 50 years of Apple, we're sharing - for the first time ever - Don Valentine's original 1977 memo for Sequoia's investment into Apple Computer. #Apple50", "tag": "raw"}
+{"a": "sequoia", "l": 27, "t": "0427", "s": "AI Ascent videos out starting tomorrow 👀", "tag": "raw"}
+{"a": "sequoia", "l": 21, "t": "0422", "s": "Thanks to our community for making this the best AI Ascent yet. Stay tuned for content coming next week", "tag": "raw"}
+{"a": "foundersfund", "l": 200, "t": "0626", "s": "Part III: The Gospel", "tag": "raw"}
+{"a": "foundersfund", "l": 163, "t": "0701", "s": "Part IV: The Kingdom", "tag": "raw"}
+{"a": "foundersfund", "l": 20, "t": "0624", "s": "Full interview: https://www.youtube.com/watch?v=wP2zcESIpOo", "tag": "raw"}
+{"a": "eladgil", "l": 2, "t": "0427", "s": "Mon afternoon song 2 (remix much better then original) https://www.youtube.com/watch?v=fLdTlfK_5KQ&list=RDGMEMWO-g6DgCWEqKlDtKbJA1Gw&start_radio=1&rv=dvQJIgjlR3I", "tag": "raw"}
+{"a": "eladgil", "l": 2, "t": "0427", "s": "Mon afternoon song https://www.youtube.com/watch?v=dvQJIgjlR3I", "tag": "raw"}
+{"a": "eladgil", "l": 1, "t": "0424", "s": "Oh good one", "tag": "raw"}
+{"a": "pmarca", "l": 292, "t": "0427", "s": "😳", "tag": "raw"}
+{"a": "pmarca", "l": 122, "t": "0427", "s": "cc @BrendanEich", "tag": "raw"}
+{"a": "pmarca", "l": 87, "t": "0427", "s": "😍", "tag": "raw"}
+{"a": "bchesky", "l": 1026, "t": "0403", "s": "We follow this model", "tag": "raw"}
+{"a": "bchesky", "l": 201, "t": "0404", "s": "That’s the idea behind the product marketing/product management combined role, as well as making sure the CEO is involved in both functions. The biggest shortfall is when marketing is not at the conception of the product.", "tag": "raw"}
+{"a": "bchesky", "l": 6, "t": "0417", "s": "Congrats on all the progress", "tag": "raw"}
+{"a": "chamath", "l": 595, "t": "0427", "s": "the maintenance era is ending. the rewrite era is starting. an insurer we worked with replaced an $8M/year legacy vendor with a purpose-built system. $21M saved over four years. if we can hep, please ping us sales@8090.ai", "tag": "raw"}
+{"a": "chamath", "l": 373, "t": "0427", "s": "This is the way. The past 50 years of computing was about inventing form factors to interact with information... AI is about interacting with knowledge... So instead of trying to jam AI into old form factors, its time to imagine a new form factor. From scratch. From first principles.", "tag": "raw"}
+{"a": "paulg", "l": 533, "t": "0427", "s": "If you skip some or all of college to start a startup, it's on you to develop your mind the way college would have. And that's not something that happens by default in most startups.", "tag": "raw"}
+{"a": "paulg", "l": 1, "t": "0427", "s": "Wow, good eye.", "tag": "raw"}
+{"a": "paulg", "l": 0, "t": "0427", "s": "Second child, and he was 3.", "tag": "raw"}
+{"a": "TheInformation", "l": 1, "t": "0427", "s": "GPUs are the new binding constraint of global power. Glenn Hutchins, Silver Lake Co-founder & North Island Chairman, explains why access to compute is now a matter of national security...", "tag": "raw"}
+{"a": "TechCrunch", "l": 45, "t": "0427", "s": "OpenAI ends Microsoft legal peril over its $50B Amazon deal https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/?utm_source=dlvr.it&utm_medium=twitter", "tag": "raw"}
+{"a": "TechCrunch", "l": 14, "t": "0427", "s": "Letterboxd, the social platform for film buffs, reportedly looking for new owner https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/?utm_source=dlvr.it&utm_medium=twitter", "tag": "raw"}
+{"a": "TechCrunch", "l": 13, "t": "0427", "s": "Consumers lost $2.1 billion to social media scams in 2025, FTC reports https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/?utm_source=dlvr.it&utm_medium=twitter", "tag": "raw"}
+{"a": "verge", "l": 30, "t": "0427", "s": "Google employees ask Sundar Pichai to say no to classified military AI use https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter", "tag": "raw"}
+{"a": "verge", "l": 29, "t": "0427", "s": "Trump demands ABC to fire Jimmy Kimmel https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc", "tag": "raw"}
+{"a": "verge", "l": 18, "t": "0427", "s": "Canonical lays out a plan for AI in Ubuntu Linux https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features", "tag": "raw"}
+{"a": "WIRED", "l": 3, "t": "0427", "s": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland. https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev", "tag": "raw"}
+{"a": "WIRED", "l": 2, "t": "0427", "s": "Despite launching less than two months ago, the M5 MacBook Air has dropped back down to its lowest price since launching. https://www.wired.com/story/m5-macbook-air-never-been-cheaper/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev", "tag": "raw"}
+{"a": "WIRED", "l": 0, "t": "0427", "s": "VMax's new electric scooter has a secret menu that lets you unlock the top speed and engage cruise control. https://www.wired.com/review/vmax-new-vx4-electric-scooter/?utm_brand=wired&utm_social-type=owned&utm_source=twitter&utm_medium=social&utm_campaign=aud-dev", "tag": "raw"}
