@@ -1,0 +1,66 @@
+{"a": "Scobleizer", "l": 1, "t": "0428", "s": "Nah the screens are at distance. But will be watching that as I use them more", "tag": "raw"}
+{"a": "Scobleizer", "l": 3, "t": "0428", "s": "Great tip", "tag": "raw"}
+{"a": "Scobleizer", "l": 0, "t": "0428", "s": "It can read the signs and labels around the produce. And check the farmer out for whether the farmer is organic. So yes", "tag": "raw"}
+{"a": "bentossell", "l": 6, "t": "0428", "s": "yapping to agents all the time", "tag": "raw"}
+{"a": "bentossell", "l": 1, "t": "0428", "s": "vibe reviews", "tag": "raw"}
+{"a": "bentossell", "l": 0, "t": "0428", "s": "yup", "tag": "raw"}
+{"a": "HuggingFace", "l": 2, "t": "0428", "s": "🤗 🇹🇷", "tag": "raw"}
+{"a": "HuggingFace", "l": 19, "t": "0427", "s": "congrats, 1000 times deserved!", "tag": "raw"}
+{"a": "HuggingFace", "l": 1774, "t": "0424", "s": "🐳 is back!", "tag": "raw"}
+{"a": "MistralAI", "l": 51, "t": "0428", "s": "📚 Learn more here https://mistral.ai/news/workflows", "tag": "raw"}
+{"a": "MistralAI", "l": 79, "t": "0428", "s": "Hear from our team:", "tag": "raw"}
+{"a": "MistralAI", "l": 1427, "t": "0428", "s": "🆕 Today, we're releasing the public preview of Workflows, the orchestration layer for enterprise AI.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1266, "t": "0424", "s": "GPT-5.5 is now available on Perplexity for Max subscribers.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 1513, "t": "0423", "s": "Kimi K2.6, the new state-of-the-art open-weight model from Moonshot, is now available for Pro and Max subscribers.", "tag": "raw"}
+{"a": "Perplexity_AI", "l": 109, "t": "0422", "s": "This pipeline is why the same base model produces more accurate, better-cited, and more efficient answers inside Perplexity than out of the box.", "tag": "raw"}
+{"a": "GroqInc", "l": 329, "t": "0218", "s": "Happy Ramadan!", "tag": "raw"}
+{"a": "GroqInc", "l": 7, "t": "0216", "s": "Learn more: https://groq.com/blog/groqcloud-expanding-to-meet-demand", "tag": "raw"}
+{"a": "GroqInc", "l": 45, "t": "0216", "s": "GroqCloud is scaling fast.", "tag": "raw"}
+{"a": "magicleap", "l": 5, "t": "0420", "s": "Great waveguides start with great machines. Here’s how our teams design and build the equipment behind our waveguide manufacturing process.", "tag": "raw"}
+{"a": "magicleap", "l": 4, "t": "0413", "s": "The difference between good and great waveguides often comes down to the machines behind them. Explore the mix of machines we use in our waveguide manufacturing process.", "tag": "raw"}
+{"a": "magicleap", "l": 10, "t": "0407", "s": "Commercial software cannot fully model, measure, or test the complexity of AR waveguides. So we’ve made our own. Our expert waveguide designers use in-house simulation tools.", "tag": "raw"}
+{"a": "NathieVR", "l": 1, "t": "0428", "s": "so satisfying", "tag": "raw"}
+{"a": "NathieVR", "l": 1, "t": "0428", "s": "Check the source with full discussion here: https://www.reddit.com/r/OculusQuest/comments/1sxonzf/steam_vs_quest_users_in_a_nutshell/", "tag": "raw"}
+{"a": "NathieVR", "l": 132, "t": "0428", "s": "Steam vs Quest users in a nutshell", "tag": "raw"}
+{"a": "PalmerLuckey", "l": 6007, "t": "0428", "s": "https://t.co/B4vYQZXL1f", "tag": "raw"}
+{"a": "PalmerLuckey", "l": 31, "t": "0428", "s": "If you were actually correct, that Americans paid $50/hr would be one-quarter as productive as unskilled labor from abroad, then that proves my point.", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 17, "t": "0428", "s": "Are explosives an option? 😀", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 56, "t": "0427", "s": "It is perfectly fine, and possibly beneficial, to have an animation happen AROUND an instantly displayed piece of information. It is bad to have an animation happen BEFORE displaying a piece of information.", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 21, "t": "0427", "s": "I found it impressive in many ways, but I'm no cruise expert.", "tag": "raw"}
+{"a": "boz", "l": 0, "t": "0305", "s": "The law already requires that only citizens vote.  Really?", "tag": "raw"}
+{"a": "boz", "l": 0, "t": "0305", "s": "One day what?", "tag": "raw"}
+{"a": "boz", "l": 0, "t": "0126", "s": "Wow...bad optics for our military standing behind that goon.", "tag": "raw"}
+{"a": "rabovitz", "l": 4, "t": "0419", "s": "https://t.co/px7yeE3WHD", "tag": "raw"}
+{"a": "rabovitz", "l": 0, "t": "0417", "s": "🙏🏽", "tag": "raw"}
+{"a": "rabovitz", "l": 3, "t": "0416", "s": "nice 🤙🏽", "tag": "raw"}
+{"a": "htcvive", "l": 6, "t": "0428", "s": "Immersive storytelling belongs on the world stage. We’re proud to see Playing with Fire: An Immersive Odyssey with Yuja Wang selected for the 2026 Festival de Cannes Immersive Competition.", "tag": "raw"}
+{"a": "htcvive", "l": 31, "t": "0422", "s": "A huge moment for VIVE Eagle, recognised with two prestigious Red Dot Awards for Product Design and Packaging Design.", "tag": "raw"}
+{"a": "htcvive", "l": 1, "t": "0421", "s": "Some works of art carry a history far beyond the canvas. The Metamorphoses of Guernica, now open at Musée national Picasso-Paris, invites visitors into the story behind one of modern art’s most significant works through a new VIVE-powered VR experience.", "tag": "raw"}
+{"a": "XREAL_Global", "l": 13, "t": "0428", "s": "This is what the One Pro + Beam Pro + XREAL Eye combo unlocks. 🎸 @𝑳𝑶𝑹𝑬𝑵𝒁𝑶 𝑪𝑰𝑪𝑬𝑹𝑪𝑯𝑰𝑨 reads the score, controls his DAW, and captures the solo. All from inside the glasses.", "tag": "raw"}
+{"a": "XREAL_Global", "l": 3, "t": "0424", "s": "Kah knows gear!!", "tag": "raw"}
+{"a": "XREAL_Global", "l": 35, "t": "0423", "s": "Another update has rolled out for XREAL One / One S / One Pro, focused on bug fixes and improved audio stability across devices.", "tag": "raw"}
+{"a": "MetaQuestVR", "l": 73, "t": "0423", "s": "Same great TV. Whole new dimension. @DIRECTV × Meta Quest 🤝 Now streaming.", "tag": "raw"}
+{"a": "MetaQuestVR", "l": 153, "t": "0421", "s": "I don’t know if I’ve ever heard a more beautiful singing voice 🥹", "tag": "raw"}
+{"a": "MetaQuestVR", "l": 86, "t": "0413", "s": "Grab the flag. Sprint for the exit. Try not to get wiped. Flag Games — VR's fastest co-op campaign shooter — is out now on Meta Quest 🏁", "tag": "raw"}
+{"a": "PatrickMoorhead", "l": 6, "t": "0428", "s": "Get the battery nd the right cable for it, and you'll never have to come back to civilization again. (Except to recharge the battery.)", "tag": "raw"}
+{"a": "PatrickMoorhead", "l": 17, "t": "0428", "s": "I enjoyed this wide-ranging conversation with @googlecloud's head of AI Infra, Mark Lohmeyer, and I think you will too.  We talk TPUs, NVIDIA GPUs and relationship, managed Lustre 10T, and agentic-focused GKE.", "tag": "raw"}
+{"a": "PatrickMoorhead", "l": 1, "t": "0428", "s": "This is no minor decision here as they have been part of this for decades. I think it demonstrates a real fracturing of the region. Those who pick progress versus those who don’t", "tag": "raw"}
+{"a": "jeffdean", "l": 107, "t": "0428", "s": "Google Translate is turning 20! 🎉. There are 20 fun facts and tips in the thread below. Translate is one of my favorite Google products because it brings us all closer together!", "tag": "raw"}
+{"a": "jeffdean", "l": 10, "t": "0427", "s": "Thanks for the great conversation!", "tag": "raw"}
+{"a": "jeffdean", "l": 161, "t": "0427", "s": "The video of my conversation with Amin Vahdat, @gilbert, and @djrosent at Cloud Next last week is now up.", "tag": "raw"}
+{"a": "chrmanning", "l": 0, "t": "0427", "s": "💯", "tag": "raw"}
+{"a": "chrmanning", "l": 36, "t": "0425", "s": "The people at @SFOMuseum really deserve a medal or something – they always produce such quirky but interesting bite-sized exhibits. It really enriches the @flySFO travel experience!", "tag": "raw"}
+{"a": "chrmanning", "l": 272, "t": "0422", "s": "I think more is still needed for a good neural memory, but, nevertheless, this is a pretty cool step one!", "tag": "raw"}
+{"a": "hardmaru", "l": 13, "t": "0428", "s": "Learning to Orchestrate Agents in Natural Language with the Conductor Fugu Blog: https://sakana.ai/fugu-beta/ Paper: https://arxiv.org/abs/2512.04388 🐡", "tag": "raw"}
+{"a": "hardmaru", "l": 3, "t": "0427", "s": "Thanks!", "tag": "raw"}
+{"a": "hardmaru", "l": 1316, "t": "0427", "s": "For the past few years, humans have been doing “prompt engineering” to coax the best performance out of different LLMs. In this work, we explored what happens if we train an AI to do that job instead.", "tag": "raw"}
+{"a": "goodfellow_ian", "l": 290, "t": "0409", "s": "My former Brain colleague @AndrewDai just launched @ElorianAI", "tag": "raw"}
+{"a": "goodfellow_ian", "l": 1, "t": "0313", "s": "To be clear this includes proposals for how to drive adoption, not just proposals for scientific work. We do already do AI-assisted public health comms.", "tag": "raw"}
+{"a": "goodfellow_ian", "l": 45, "t": "0312", "s": "In Public Health Action Network we’re about to go through an internal expert review process to choose how to focus our efforts over the next few years.", "tag": "raw"}
+{"a": "feifeili", "l": 3, "t": "1130", "s": "thinking......", "tag": "raw"}
+{"a": "_akhaliq", "l": 2, "t": "0428", "s": "gradio app: https://huggingface.co/spaces/akhaliq/Nemotron-3-Nano-Omni", "tag": "raw"}
+{"a": "_akhaliq", "l": 16, "t": "0428", "s": "Nvidia released Nemotron 3 Nano Omni made a gradio app for it on Hugging Face", "tag": "raw"}
+{"a": "_akhaliq", "l": 131, "t": "0428", "s": "Meta presents Tuna-2 Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation paper: https://huggingface.co/papers/2604.24763", "tag": "raw"}
+{"a": "AI_News_Tech", "l": 0, "t": "0130", "s": "経営者", "tag": "raw"}
+{"a": "AI_News_Tech", "l": 0, "t": "0119", "s": "【4/4】 これ、もはや「ツール」以上の存在。AIが教育の常識を書き換える時代へ。詳報👇 https://www.excite.co.jp/news/article/Kyodo_1386095609297912055/", "tag": "raw"}
+{"a": "AI_News_Tech", "l": 0, "t": "0119", "s": "【3/4】 教育×AIが急加速へ。学習支援、模擬試験、弱点分析、解答根拠の提示までAIで可能に。学生だけでなく塾・予備校のスタイルも変わる兆し💡", "tag": "raw"}

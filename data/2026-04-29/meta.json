@@ -1,0 +1,152 @@
+{
+  "Scobleizer": {
+    "total": 10,
+    "max_l": 1,
+    "latest": "0428"
+  },
+  "bentossell": {
+    "total": 10,
+    "max_l": 14,
+    "latest": "0428"
+  },
+  "HuggingFace": {
+    "total": 10,
+    "max_l": 1774,
+    "latest": "0428"
+  },
+  "MistralAI": {
+    "total": 10,
+    "max_l": 4620,
+    "latest": "0428"
+  },
+  "Perplexity_AI": {
+    "total": 10,
+    "max_l": 1797,
+    "latest": "0424"
+  },
+  "GroqInc": {
+    "total": 10,
+    "max_l": 2404,
+    "latest": "0218"
+  },
+  "tsmc": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "magicleap": {
+    "total": 3,
+    "max_l": 10,
+    "latest": "0420"
+  },
+  "NathieVR": {
+    "total": 3,
+    "max_l": 132,
+    "latest": "0428"
+  },
+  "PalmerLuckey": {
+    "total": 3,
+    "max_l": 6854,
+    "latest": "0428"
+  },
+  "ID_AA_Carmack": {
+    "total": 3,
+    "max_l": 56,
+    "latest": "0428"
+  },
+  "boz": {
+    "total": 3,
+    "max_l": 0,
+    "latest": "0305"
+  },
+  "rabovitz": {
+    "total": 3,
+    "max_l": 4,
+    "latest": "0419"
+  },
+  "htcvive": {
+    "total": 3,
+    "max_l": 31,
+    "latest": "0428"
+  },
+  "XREAL_Global": {
+    "total": 3,
+    "max_l": 35,
+    "latest": "0428"
+  },
+  "RayBan": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "MetaQuestVR": {
+    "total": 3,
+    "max_l": 153,
+    "latest": "0423"
+  },
+  "PatrickMoorhead": {
+    "total": 3,
+    "max_l": 17,
+    "latest": "0428"
+  },
+  "jeffdean": {
+    "total": 3,
+    "max_l": 161,
+    "latest": "0428"
+  },
+  "chrmanning": {
+    "total": 3,
+    "max_l": 272,
+    "latest": "0425"
+  },
+  "hardmaru": {
+    "total": 3,
+    "max_l": 1316,
+    "latest": "0428"
+  },
+  "goodfellow_ian": {
+    "total": 3,
+    "max_l": 290,
+    "latest": "0409"
+  },
+  "feifeili": {
+    "total": 1,
+    "max_l": 3,
+    "latest": "1130"
+  },
+  "_akhaliq": {
+    "total": 3,
+    "max_l": 131,
+    "latest": "0428"
+  },
+  "promptengineer": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AI_News_Tech": {
+    "total": 3,
+    "max_l": 0,
+    "latest": "0130"
+  },
+  "siliconvalley": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "aithread": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "aibreakdown": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "aiexplained": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  }
+}
