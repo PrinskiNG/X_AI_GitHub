@@ -1,0 +1,38 @@
+{"a": "elonmusk", "l": 24161, "t": "0430", "s": "Starlink in Gibraltar! 🇬🇮", "tag": "raw"}
+{"a": "elonmusk", "l": 6138, "t": "0430", "s": "Wow", "tag": "raw"}
+{"a": "elonmusk", "l": 3197, "t": "0430", "s": "!!", "tag": "raw"}
+{"a": "sama", "l": 5275, "t": "0430", "s": "big upgrade for codex today! try it for non-coding computer work.", "tag": "raw"}
+{"a": "sama", "l": 2212, "t": "0430", "s": "lisan say more mean things about us you're being too nice", "tag": "raw"}
+{"a": "sama", "l": 11318, "t": "0430", "s": "we're starting rollout of GPT-5.5-Cyber, a frontier cybersecurity model, to critical cyber defenders in the next few days.", "tag": "raw"}
+{"a": "karpathy", "l": 21522, "t": "0430", "s": "This is the the quote I've been citing a lot recently.", "tag": "raw"}
+{"a": "karpathy", "l": 2130, "t": "0430", "s": "Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights:", "tag": "raw"}
+{"a": "karpathy", "l": 2190, "t": "0430", "s": "Haha yeah I call it cozy coding :)", "tag": "raw"}
+{"a": "demishassabis", "l": 2247, "t": "0430", "s": "Not bad at all… 😀🚀", "tag": "raw"}
+{"a": "demishassabis", "l": 2134, "t": "0429", "s": "It was a huge honour to meet with President @Jaemyung_Lee in Seoul.", "tag": "raw"}
+{"a": "demishassabis", "l": 1505, "t": "0416", "s": "Our most expressive and steerable TTS model yet!", "tag": "raw"}
+{"a": "DarioAmodei", "l": 12138, "t": "0407", "s": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing", "tag": "raw"}
+{"a": "DarioAmodei", "l": 15371, "t": "0126", "s": "The Adolescence of Technology: an essay on the risks posed by powerful AI", "tag": "raw"}
+{"a": "DarioAmodei", "l": 862, "t": "0407", "s": "Cyber is the first clear and present danger from frontier AI models", "tag": "raw"}
+{"a": "OpenAI", "l": 3169, "t": "0430", "s": "It's never been easier to do everyday work with Codex.", "tag": "raw"}
+{"a": "OpenAI", "l": 1612, "t": "0430", "s": "Now available for ChatGPT accounts: Advanced Account Security", "tag": "raw"}
+{"a": "OpenAI", "l": 998, "t": "0430", "s": "We solved the goblin mystery—with the help of Codex.", "tag": "raw"}
+{"a": "tualatrix", "l": 67, "t": "0430", "s": "娃已经到了随时会吃手、并且吃得香喷喷的月龄了。", "tag": "raw"}
+{"a": "tualatrix", "l": 46, "t": "0430", "s": "看着这位村民打磨了这款产品整整两年，到今天终于上架了！👏", "tag": "raw"}
+{"a": "tualatrix", "l": 27, "t": "0430", "s": "你好，夢想小鎮。", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "@airchina why is CA856 suddenly cancelled? I haven't received any email updates from you, just found out from @HeathrowAirport that the flight today is cancelled.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11點lu", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "waiting someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "hello everyone", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "東北の人家でけぇ……@ NHK教育", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "つぃったも2ちゃんも おもいおもい", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "ﾉｽ  ﾄﾗ   ﾀﾞﾑ  ｽｩｩｩｩｩｩｩｩｩｯｯ", "tag": "raw"}
+{"a": "mranti", "l": 63, "t": "0429", "s": "感谢，收到了小米赠送的2亿Token，我测试下，和Deepseek V4 Pro对比对比。", "tag": "raw"}
+{"a": "mranti", "l": 24, "t": "0429", "s": "这不是宇树G1吗？1.35万美元一台。能武术、自然搬东西不会有问题。", "tag": "raw"}
+{"a": "mranti", "l": 1, "t": "0429", "s": "开始是拿不到邀请码，后来是不肯先花钱。", "tag": "raw"}
+{"a": "nishuang", "l": 37, "t": "0409", "s": "为什么苹果要搞“没必要”的创新...感知淘汰（Perceived Obsolescence）", "tag": "raw"}
+{"a": "nishuang", "l": 34, "t": "0409", "s": "APP 设计里的游戏感和游戏化... CapWords 学外语、背单词的方式，特别像玩“宝可梦”游戏", "tag": "raw"}
+{"a": "nishuang", "l": 31, "t": "0409", "s": "新闻说 3 月底苹果包了 5 架飞机，装满了 iPhone 紧急空运到美国，以此来避免关税大战", "tag": "raw"}
+{"a": "a16z", "l": 692, "t": "0429", "s": ".@pmarca on the 5 key traits of a real innovator: open to new ideas, willingness to defer gratification, ornery, smart, not too neurotic.", "tag": "raw"}
+{"a": "a16z", "l": 639, "t": "0428", "s": "Workday is arguably the most important and least loved product in enterprise software... HCM is the last large enterprise software category without a serious AI-native challenger.", "tag": "raw"}
+{"a": "a16z", "l": 317, "t": "0430", "s": ".@pmarca says AI is the biggest technological revolution of his life: bigger than the internet. Comps are microprocessor, steam engine, and electricity.", "tag": "raw"}
