@@ -1,0 +1,107 @@
+{
+  "tsmc": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "magicleap": {
+    "total": 10,
+    "max_l": 19,
+    "latest": "0429"
+  },
+  "NathieVR": {
+    "total": 10,
+    "max_l": 57,
+    "latest": "0501"
+  },
+  "PalmerLuckey": {
+    "total": 10,
+    "max_l": 2105,
+    "latest": "0501"
+  },
+  "ID_AA_Carmack": {
+    "total": 10,
+    "max_l": 1289,
+    "latest": "0429"
+  },
+  "boz": {
+    "total": 10,
+    "max_l": 1,
+    "latest": "0305"
+  },
+  "rabovitz": {
+    "total": 10,
+    "max_l": 5,
+    "latest": "0430"
+  },
+  "htcvive": {
+    "total": 10,
+    "max_l": 31,
+    "latest": "0428"
+  },
+  "XREAL_Global": {
+    "total": 10,
+    "max_l": 35,
+    "latest": "0430"
+  },
+  "RayBan": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "MetaQuestVR": {
+    "total": 10,
+    "max_l": 1289,
+    "latest": "0430"
+  },
+  "PatrickMoorhead": {
+    "total": 10,
+    "max_l": 44,
+    "latest": "0501"
+  },
+  "jeffdean": {
+    "total": 10,
+    "max_l": 516,
+    "latest": "0428"
+  },
+  "chrmanning": {
+    "total": 10,
+    "max_l": 272,
+    "latest": "0430"
+  },
+  "hardmaru": {
+    "total": 10,
+    "max_l": 1429,
+    "latest": "0501"
+  },
+  "goodfellow_ian": {
+    "total": 10,
+    "max_l": 2664,
+    "latest": "0409"
+  },
+  "feifeili": {
+    "total": 1,
+    "max_l": 3,
+    "latest": "1130"
+  },
+  "_akhaliq": {
+    "total": 10,
+    "max_l": 287,
+    "latest": "0501"
+  },
+  "promptengineer": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AI_News_Tech": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0130"
+  },
+  "siliconvalley": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  }
+}

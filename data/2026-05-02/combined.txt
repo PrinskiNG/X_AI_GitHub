@@ -1,0 +1,47 @@
+{"a": "magicleap", "l": 5, "t": "0429", "s": "Waveguide design is all about balancing constraints, tradeoffs, and risks. Learn about our approach to waveguide design.", "tag": "raw"}
+{"a": "magicleap", "l": 5, "t": "0420", "s": "Great waveguides start with great machines. Here’s how our teams design and build the equipment behind our waveguide manufacturing process.", "tag": "raw"}
+{"a": "magicleap", "l": 4, "t": "0413", "s": "The difference between good and great waveguides often comes down to the machines behind them. Explore the mix of machines we use.", "tag": "raw"}
+{"a": "NathieVR", "l": 30, "t": "0501", "s": "For something people keep calling “a flop” Apple Vision Pro sure does keep generating articles.", "tag": "raw"}
+{"a": "NathieVR", "l": 57, "t": "0501", "s": "This Quest app lets you capture real-world textures with your phone and use them instantly in mixed reality. App: @Canvastique3D", "tag": "raw"}
+{"a": "PalmerLuckey", "l": 2105, "t": "0501", "s": "Dumb tweet. Toto has been fabricating advanced ceramics for semiconductor manufacturing for many years, they make more money from that than toilets.", "tag": "raw"}
+{"a": "PalmerLuckey", "l": 1039, "t": "0501", "s": "Even dumber tweet", "tag": "raw"}
+{"a": "PalmerLuckey", "l": 377, "t": "0430", "s": "Finally, it only took 13 years of convincing.", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 1289, "t": "0427", "s": "I was on a cruise ship last week... they had pods of 10 elevators... Addressing my normal pet peeve of interaction feedback latency would have helped.", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 580, "t": "0429", "s": "GPU library performance can be very notchy -- runtime of batched torch.linalg.solve_ex() went up by over 10x going from 511x511 matrices to 512x512.", "tag": "raw"}
+{"a": "ID_AA_Carmack", "l": 353, "t": "0429", "s": "New @BeatSaber music pack is out, and I must be one of the first to play, landing a top-10 score.", "tag": "raw"}
+{"a": "boz", "l": 0, "t": "0305", "s": "The law already requires that only citizens vote. Really?", "tag": "raw"}
+{"a": "boz", "l": 0, "t": "0305", "s": "One day what?", "tag": "raw"}
+{"a": "boz", "l": 0, "t": "0126", "s": "Wow...bad optics for our military standing behind that goon.", "tag": "raw"}
+{"a": "rabovitz", "l": 5, "t": "0430", "s": "🤙🏽🎸", "tag": "raw"}
+{"a": "rabovitz", "l": 4, "t": "0419", "s": "World's First Fully Robot-Assisted In-Human Cataract Procedure", "tag": "raw"}
+{"a": "rabovitz", "l": 3, "t": "0416", "s": "nice 🤙🏽", "tag": "raw"}
+{"a": "htcvive", "l": 31, "t": "0422", "s": "A huge moment for VIVE Eagle, recognised with two prestigious Red Dot Awards for Product Design and Packaging Design.", "tag": "raw"}
+{"a": "htcvive", "l": 11, "t": "0428", "s": "Immersive storytelling belongs on the world stage. Playing with Fire: An Immersive Odyssey with Yuja Wang selected for the 2026 Festival de Cannes.", "tag": "raw"}
+{"a": "htcvive", "l": 10, "t": "0415", "s": "2 million people worldwide have travelled through ancient Egypt in a shared VR experience.", "tag": "raw"}
+{"a": "XREAL_Global", "l": 35, "t": "0423", "s": "Another update has rolled out for XREAL One / One S / One Pro, focused on bug fixes and improved audio stability.", "tag": "raw"}
+{"a": "XREAL_Global", "l": 32, "t": "0422", "s": "Enjoying my pre-flight Demon Slayer binge", "tag": "raw"}
+{"a": "XREAL_Global", "l": 31, "t": "0430", "s": "We're excited to share that we've officially partnered with Best Buy Canada!", "tag": "raw"}
+{"a": "MetaQuestVR", "l": 111, "t": "0430", "s": "A world without Shredder sounds like a dream come true for the Turtles – but what comes next might be a nightmare. Teenage Mutant Ninja Turtles: Empire City.", "tag": "raw"}
+{"a": "MetaQuestVR", "l": 153, "t": "0421", "s": "Same great TV. Whole new dimension. @DIRECTV × Meta Quest 🤝 Now streaming.", "tag": "raw"}
+{"a": "MetaQuestVR", "l": 143, "t": "0410", "s": "Old-school FPS energy. Fast, brutal, and built for VR. WRATH: Aeon of Ruin VR - Brutal Edition is out now.", "tag": "raw"}
+{"a": "PatrickMoorhead", "l": 44, "t": "0501", "s": "Shots fired. “We are committed to crushing everybody at everything”. “Test it for yourself”. Uhh….. that’s bold.", "tag": "raw"}
+{"a": "PatrickMoorhead", "l": 13, "t": "0501", "s": "And TT Deploy begins… I lied, there’s a whole lot of architecture and deep tech descriptions.", "tag": "raw"}
+{"a": "PatrickMoorhead", "l": 3, "t": "0501", "s": "Anthropic deserves the grief. They nerfed their models, lied about it, then admitted they did it and then now pulling price gyrations.", "tag": "raw"}
+{"a": "jeffdean", "l": 450, "t": "0428", "s": "Google Translate is turning 20! ... I've been involved with a couple of things over the years...", "tag": "raw"}
+{"a": "jeffdean", "l": 516, "t": "0423", "s": "I had a good time discussing yesterday's Google TPU v8t and v8i announcement...", "tag": "raw"}
+{"a": "jeffdean", "l": 163, "t": "0427", "s": "The video of my conversation with Amin Vahdat... is now up.", "tag": "raw"}
+{"a": "chrmanning", "l": 207, "t": "0429", "s": "It’s long been amazing what skilled people can produce in Blender … but it sure ain’t easy... The solution is a Blender computer use agent, @moonlake’s 3D Agent.", "tag": "raw"}
+{"a": "chrmanning", "l": 272, "t": "0422", "s": "The people at @SFOMuseum really deserve a medal... They always produce such quirky but interesting bite-sized exhibits.", "tag": "raw"}
+{"a": "chrmanning", "l": 20, "t": "0430", "s": "Really excited to moderate a panel hosted by @aixventureshq and @AnthropicAI discussing how AI-enabled services will rebuild businesses...", "tag": "raw"}
+{"a": "hardmaru", "l": 579, "t": "0429", "s": "For years, voice AI has been stuck in a rigid loop... In our new #ICASSP2026 work, we built a tandem architecture... KAME", "tag": "raw"}
+{"a": "hardmaru", "l": 1429, "t": "0427", "s": "For the past few years, humans have been doing “prompt engineering”... we explored what happens if we train an AI to do that job instead. Conductor model.", "tag": "raw"}
+{"a": "hardmaru", "l": 129, "t": "0430", "s": "Two Heads Are Better Than One: Async Knowledge Injection for Speech AI with Tandem Architecture", "tag": "raw"}
+{"a": "goodfellow_ian", "l": 2664, "t": "0223", "s": "I'd like to thank @daniel_rossett for his help in my recovery from the POTS version of Long COVID... I'm back to full exercise...", "tag": "raw"}
+{"a": "goodfellow_ian", "l": 1084, "t": "0306", "s": "An article from Moonlake about why they’re building what they’re building. (I’m an advisor)", "tag": "raw"}
+{"a": "goodfellow_ian", "l": 292, "t": "0409", "s": "My former Brain colleague @AndrewDai just launched @ElorianAI", "tag": "raw"}
+{"a": "_akhaliq", "l": 287, "t": "0428", "s": "Meta presents Tuna-2 Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation", "tag": "raw"}
+{"a": "_akhaliq", "l": 159, "t": "0428", "s": "Apple presents Stochastic KV Routing Enabling Adaptive Depth-Wise Cache Sharing", "tag": "raw"}
+{"a": "_akhaliq", "l": 113, "t": "0501", "s": "Recursive Multi-Agent Systems paper", "tag": "raw"}
+{"a": "AI_News_Tech", "l": 0, "t": "0130", "s": "経営者", "tag": "raw"}
+{"a": "AI_News_Tech", "l": 0, "t": "0119", "s": "速報！対話型AI「ChatGPT」の最新モデルが、大学入学共通テスト６科目で満点を達成", "tag": "raw"}
+{"a": "AI_News_Tech", "l": 0, "t": "0118", "s": "GoogleがAIアシスタント「Gemini」にパーソナライズ機能を搭載", "tag": "raw"}
