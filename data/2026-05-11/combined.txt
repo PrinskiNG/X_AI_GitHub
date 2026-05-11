@@ -1,0 +1,63 @@
+{"a": "elonmusk", "l": 1512, "t": "0510", "s": "It’s come a long way", "tag": "raw"}
+{"a": "elonmusk", "l": 870, "t": "0510", "s": "💯", "tag": "raw"}
+{"a": "elonmusk", "l": 636, "t": "0510", "s": "Grok analysis", "tag": "raw"}
+{"a": "sama", "l": 578, "t": "0510", "s": "as i get older and wiser, so do i", "tag": "raw"}
+{"a": "sama", "l": 1868, "t": "0510", "s": "interesting", "tag": "raw"}
+{"a": "karpathy", "l": 40, "t": "0501", "s": "Very tempting due to how well this works though I still find that some slop leaks through in the concept space", "tag": "raw"}
+{"a": "karpathy", "l": 389, "t": "0430", "s": "VPT blew my mind back in 2022 so I was very excited to see SI scale up the idea with FDM1", "tag": "raw"}
+{"a": "karpathy", "l": 44113, "t": "0430", "s": "This is the the quote I've been citing a lot recently.", "tag": "raw"}
+{"a": "tualatrix", "l": 53, "t": "0510", "s": "Upgraded to a big tent for camping with kid, who was a bit overwhelmed. Also discussed Google Guangzhou, Xcode Codex update, and full 2TB hard drive needing upgrade to 4TB for future M6 Max Mac.", "tag": "raw"}
+{"a": "tualatrix", "l": 22, "t": "0510", "s": "Google is coming to Guangzhou soon.", "tag": "raw"}
+{"a": "tualatrix", "l": 21, "t": "0510", "s": "2TB hard drive is full, planning to buy 4TB for next Mac. Waiting for M6 Max in 2027.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Complained about Air China flight cancellation without notice.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "Old tweets from 2007 about daily life, waiting, hello, etc.", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "Old Japanese tweets from 2010-2011 about daily life, travel, disasters.", "tag": "raw"}
+{"a": "mranti", "l": 61, "t": "0509", "s": "Discussed hantavirus name sounding sci-fi, Baidu issues, AI and exams, MDX vs HTML.", "tag": "raw"}
+{"a": "mranti", "l": 28, "t": "0509", "s": "AI cannot replace kids in exams unless the whole system reforms.", "tag": "raw"}
+{"a": "mranti", "l": 25, "t": "0509", "s": "Comments on Baidu's marketing and API registration difficulties.", "tag": "raw"}
+{"a": "nishuang", "l": 37, "t": "0409", "s": "Why Apple pursues unnecessary innovations like perceived obsolescence to drive iPhone upgrades.", "tag": "raw"}
+{"a": "nishuang", "l": 34, "t": "0409", "s": "Game-like design in apps like CapWords for language learning vs gamification.", "tag": "raw"}
+{"a": "nishuang", "l": 32, "t": "0409", "s": "Apple flew 5 planes of iPhones to avoid tariffs.", "tag": "raw"}
+{"a": "a16z", "l": 2469, "t": "0506", "s": "Narrative violations: demand for software engineers rising, AI exposed industries wage growth, etc. AI job apocalypse myth.", "tag": "raw"}
+{"a": "a16z", "l": 1299, "t": "0506", "s": "Majority of new jobs since 1940 didn't exist then. No lump of labor.", "tag": "raw"}
+{"a": "a16z", "l": 507, "t": "0508", "s": "Tech is now 55% of all business investment in the US.", "tag": "raw"}
+{"a": "ycombinator", "l": 763, "t": "0508", "s": "Ardent lets you clone Postgres DB fast for coding agents.", "tag": "raw"}
+{"a": "ycombinator", "l": 571, "t": "0508", "s": "Startup School coming to Paris.", "tag": "raw"}
+{"a": "ycombinator", "l": 434, "t": "0508", "s": "Conductor Mac app for running multiple coding agents.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 25, "t": "0509", "s": "Congrats to Odyssey_tx joining Nasdaq.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 17, "t": "0501", "s": "Humans in the Loop event with ForerunnerVC on consumer AI.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 14, "t": "0504", "s": "Video quote on market, product, team from Profound.", "tag": "raw"}
+{"a": "sequoia", "l": 35, "t": "0506", "s": "Talk on data efficiency for AI from Flappy Airplanes founders.", "tag": "raw"}
+{"a": "sequoia", "l": 29, "t": "0430", "s": "Thanks to Karpathy for talk at AI Ascent.", "tag": "raw"}
+{"a": "sequoia", "l": 25, "t": "0508", "s": "Quote on robotics from DrJimFan.", "tag": "raw"}
+{"a": "foundersfund", "l": 644, "t": "0612", "s": "Part I of No Rivals series on Founders Fund.", "tag": "raw"}
+{"a": "foundersfund", "l": 283, "t": "0624", "s": "Interview clip on investing in anti-category.", "tag": "raw"}
+{"a": "foundersfund", "l": 200, "t": "0626", "s": "Part III The Gospel of No Rivals series.", "tag": "raw"}
+{"a": "eladgil", "l": 4565, "t": "0509", "s": "AI progress: labs ahead of SV, SV ahead of NY, NY ahead of world. Future not equally distributed.", "tag": "raw"}
+{"a": "eladgil", "l": 209, "t": "0509", "s": "Mythos and Spud examples.", "tag": "raw"}
+{"a": "eladgil", "l": 48, "t": "0510", "s": "Response about being ahead.", "tag": "raw"}
+{"a": "pmarca", "l": 745, "t": "0510", "s": "Shared animation video love.", "tag": "raw"}
+{"a": "pmarca", "l": 350, "t": "0510", "s": "Dana White as builder ignoring critics.", "tag": "raw"}
+{"a": "pmarca", "l": 154, "t": "0510", "s": "Love for stop motion animation clip.", "tag": "raw"}
+{"a": "bchesky", "l": 2672, "t": "0319", "s": "Airbnb followed combined PM/marketing role model.", "tag": "raw"}
+{"a": "bchesky", "l": 1059, "t": "0403", "s": "ChatGPT interface doesn’t work for this.", "tag": "raw"}
+{"a": "bchesky", "l": 561, "t": "0509", "s": "Future Airbnb interface conversational but visually richer.", "tag": "raw"}
+{"a": "chamath", "l": 19707, "t": "0507", "s": "Spencer Pratt coherent, would make great LA mayor.", "tag": "raw"}
+{"a": "chamath", "l": 9062, "t": "0510", "s": "Political candidates should record full interviews themselves.", "tag": "raw"}
+{"a": "chamath", "l": 5625, "t": "0509", "s": "All-In Pod link.", "tag": "raw"}
+{"a": "paulg", "l": 4230, "t": "0509", "s": "Encouraged by shift in view on billionaires earning honestly.", "tag": "raw"}
+{"a": "paulg", "l": 3913, "t": "0509", "s": "Billionaires like Taylor Swift and Beyoncé earned money?", "tag": "raw"}
+{"a": "paulg", "l": 2456, "t": "0510", "s": "Hobbyist motivation keeps founders going.", "tag": "raw"}
+{"a": "TheInformation", "l": 99, "t": "0509", "s": "xAI facing layoffs, Cursor staff in offices amid acquisition uncertainty.", "tag": "raw"}
+{"a": "TheInformation", "l": 38, "t": "0510", "s": "Musk v OpenAI trial, Anthropic benefits.", "tag": "raw"}
+{"a": "TheInformation", "l": 22, "t": "0509", "s": "Meta building AI shopping agent for Instagram.", "tag": "raw"}
+{"a": "TechCrunch", "l": 85, "t": "0510", "s": "Hottest place for startup deals: F1 paddock.", "tag": "raw"}
+{"a": "TechCrunch", "l": 55, "t": "0509", "s": "Voice AI in India hard, Wispr Flow betting on it.", "tag": "raw"}
+{"a": "TechCrunch", "l": 36, "t": "0510", "s": "Cynical about xAI deal with Anthropic.", "tag": "raw"}
+{"a": "verge", "l": 41, "t": "0510", "s": "Vivo X300 Ultra has best phone cameras.", "tag": "raw"}
+{"a": "verge", "l": 24, "t": "0510", "s": "Writers fleeing Substack Tax.", "tag": "raw"}
+{"a": "verge", "l": 19, "t": "0510", "s": "Cricut craft machine helped feel creative.", "tag": "raw"}
+{"a": "WIRED", "l": 80, "t": "0509", "s": "Reliance on AI assistants negatively impacts thinking and problem solving.", "tag": "raw"}
+{"a": "WIRED", "l": 70, "t": "0509", "s": "Sony $785M PlayStation settlement payouts.", "tag": "raw"}
+{"a": "WIRED", "l": 26, "t": "0510", "s": "Handheld translators for immersive travel experience.", "tag": "raw"}

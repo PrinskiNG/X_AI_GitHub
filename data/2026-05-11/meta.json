@@ -1,0 +1,137 @@
+{
+  "elonmusk": {
+    "total": 10,
+    "max_l": 196864,
+    "latest": "0510"
+  },
+  "sama": {
+    "total": 10,
+    "max_l": 7603,
+    "latest": "0510"
+  },
+  "karpathy": {
+    "total": 10,
+    "max_l": 44113,
+    "latest": "0501"
+  },
+  "tualatrix": {
+    "total": 10,
+    "max_l": 53,
+    "latest": "0510"
+  },
+  "linyunqiu": {
+    "total": 2,
+    "max_l": 0,
+    "latest": "0329"
+  },
+  "garywong": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0415"
+  },
+  "web3buidl": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AI_Era": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "AIGC_News": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "jiangjiang": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "hw_star": {
+    "total": 10,
+    "max_l": 0,
+    "latest": "0316"
+  },
+  "mranti": {
+    "total": 10,
+    "max_l": 61,
+    "latest": "0510"
+  },
+  "nishuang": {
+    "total": 8,
+    "max_l": 37,
+    "latest": "0409"
+  },
+  "a16z": {
+    "total": 10,
+    "max_l": 2469,
+    "latest": "0508"
+  },
+  "ycombinator": {
+    "total": 10,
+    "max_l": 763,
+    "latest": "0509"
+  },
+  "lightspeedvp": {
+    "total": 10,
+    "max_l": 25,
+    "latest": "0509"
+  },
+  "sequoia": {
+    "total": 10,
+    "max_l": 35,
+    "latest": "0508"
+  },
+  "foundersfund": {
+    "total": 10,
+    "max_l": 644,
+    "latest": "0701"
+  },
+  "eladgil": {
+    "total": 7,
+    "max_l": 4565,
+    "latest": "0510"
+  },
+  "pmarca": {
+    "total": 10,
+    "max_l": 745,
+    "latest": "0510"
+  },
+  "bchesky": {
+    "total": 10,
+    "max_l": 2672,
+    "latest": "0510"
+  },
+  "chamath": {
+    "total": 10,
+    "max_l": 19707,
+    "latest": "0510"
+  },
+  "paulg": {
+    "total": 10,
+    "max_l": 4230,
+    "latest": "0510"
+  },
+  "TheInformation": {
+    "total": 10,
+    "max_l": 99,
+    "latest": "0510"
+  },
+  "TechCrunch": {
+    "total": 10,
+    "max_l": 85,
+    "latest": "0510"
+  },
+  "verge": {
+    "total": 10,
+    "max_l": 41,
+    "latest": "0510"
+  },
+  "WIRED": {
+    "total": 10,
+    "max_l": 80,
+    "latest": "0510"
+  }
+}
