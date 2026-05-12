@@ -1,9 +1,12 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "classification": {
     "elonmusk": "S",
-    "sama": "A",
-    "karpathy": "A",
+    "sama": "S",
+    "karpathy": "S",
+    "demishassabis": "A",
+    "DarioAmodei": "inactive",
+    "OpenAI": "A",
     "tualatrix": "B",
     "linyunqiu": "inactive",
     "garywong": "B",
@@ -20,13 +23,10 @@
     "sequoia": "B",
     "foundersfund": "inactive",
     "eladgil": "A",
-    "pmarca": "B",
+    "pmarca": "A",
     "bchesky": "A",
     "chamath": "S",
     "paulg": "A",
-    "TheInformation": "B",
-    "TechCrunch": "B",
-    "verge": "B",
-    "WIRED": "B"
+    "TheInformation": "B"
   }
 }
