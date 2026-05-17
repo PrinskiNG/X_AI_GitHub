@@ -1,0 +1,95 @@
+{"a": "elonmusk", "l": 190391, "t": "0516", "s": "A glaringly obvious double-standard", "tag": "raw"}
+{"a": "elonmusk", "l": 84682, "t": "0516", "s": "More people are arrested for speech offenses in the UK than any other country. This is insane.", "tag": "raw"}
+{"a": "elonmusk", "l": 92320, "t": "0516", "s": "Exactly", "tag": "raw"}
+{"a": "sama", "l": 9978, "t": "0514", "s": "Codex in the ChatGPT mobile app!", "tag": "raw"}
+{"a": "sama", "l": 21304, "t": "0513", "s": "codex is the best AI coding product and we want to make it easy to try.", "tag": "raw"}
+{"a": "sama", "l": 6954, "t": "0514", "s": "being a dad is the thing that has most exceeded already-high-expectations in my whole life", "tag": "raw"}
+{"a": "karpathy", "l": 17357, "t": "0511", "s": "This works really well btw... hot tip try ask for HTML.", "tag": "raw"}
+{"a": "karpathy", "l": 44536, "t": "0430", "s": "This is the quote I've been citing a lot recently.", "tag": "raw"}
+{"a": "karpathy", "l": 5681, "t": "0430", "s": "Fireside chat at Sequoia Ascent 2026... agentic engineering raises the ceiling.", "tag": "raw"}
+{"a": "demishassabis", "l": 19214, "t": "0512", "s": "I’ve always believed the No.1 application of AI should be to improve human health... $2.1B in new funding.", "tag": "raw"}
+{"a": "demishassabis", "l": 2035, "t": "0512", "s": "Really cool work from the team reimagining the mouse pointer to be intelligent!", "tag": "raw"}
+{"a": "demishassabis", "l": 3455, "t": "0509", "s": "Hard to believe it’s been 10 years since AlphaGo!", "tag": "raw"}
+{"a": "DarioAmodei", "l": 12246, "t": "0407", "s": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing...", "tag": "raw"}
+{"a": "DarioAmodei", "l": 15370, "t": "0126", "s": "The Adolescence of Technology: an essay on the risks posed by powerful AI...", "tag": "raw"}
+{"a": "DarioAmodei", "l": 6658, "t": "0126", "s": "I've been working on this essay for a while...", "tag": "raw"}
+{"a": "OpenAI", "l": 21524, "t": "0514", "s": "You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app.", "tag": "raw"}
+{"a": "OpenAI", "l": 11408, "t": "0511", "s": "Introducing Daybreak: frontier AI for cyber defenders.", "tag": "raw"}
+{"a": "OpenAI", "l": 11419, "t": "0511", "s": "Today we’re launching the OpenAI Deployment Company to help businesses build and deploy AI.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 5580, "t": "0514", "s": "We've published a paper that explains our views on AI competition between the US and China.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 5080, "t": "0508", "s": "We started by investigating why Claude chose to blackmail...", "tag": "raw"}
+{"a": "AnthropicAI", "l": 2940, "t": "0511", "s": "Claude's Constitution is now an audiobook...", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 8514, "t": "0512", "s": "We’re reimagining a 50-year-old interface - the mouse pointer - with AI.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1444, "t": "0507", "s": "Algorithms are part of nearly every aspect of life... AlphaEvolve", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1903, "t": "0506", "s": "We’re partnering with the developers of EVE Online...", "tag": "raw"}
+{"a": "xai", "l": 10088, "t": "0514", "s": "An early beta of Grok Build, an agentic CLI for coding...", "tag": "raw"}
+{"a": "xai", "l": 25292, "t": "0506", "s": "SpaceXAI will provide AnthropicAI with access to Colossus 1...", "tag": "raw"}
+{"a": "xai", "l": 5132, "t": "0507", "s": "Your customer support needs a voice agent built for the real world.", "tag": "raw"}
+{"a": "AIatMeta", "l": 1204, "t": "0424", "s": "Today we’re announcing an agreement with Amazon Web Services to bring tens of millions of AWS Graviton cores...", "tag": "raw"}
+{"a": "AIatMeta", "l": 646, "t": "0410", "s": "🔜", "tag": "raw"}
+{"a": "AIatMeta", "l": 39, "t": "0501", "s": "Welcome to the team! 🚀", "tag": "raw"}
+{"a": "GoogleAI", "l": 2550, "t": "0430", "s": "Gemini Embedding 2... universal translator...", "tag": "raw"}
+{"a": "GoogleAI", "l": 668, "t": "0501", "s": "I/O is less than 3 weeks away... countdown", "tag": "raw"}
+{"a": "GoogleAI", "l": 679, "t": "0508", "s": "Happy Friday! ... updates this week", "tag": "raw"}
+{"a": "MSFTResearch", "l": 129, "t": "0513", "s": "Introducing GridSFM, a small foundation model...", "tag": "raw"}
+{"a": "MSFTResearch", "l": 112, "t": "0512", "s": "MatterSim is expanding what AI can do for materials science...", "tag": "raw"}
+{"a": "MSFTResearch", "l": 81, "t": "0514", "s": "New releases from Microsoft Research...", "tag": "raw"}
+{"a": "tualatrix", "l": 70, "t": "0516", "s": "I now use AI to write code slower because I make it review multiple times until no P3+ issues found.", "tag": "raw"}
+{"a": "tualatrix", "l": 39, "t": "0516", "s": "AI reply was scary, almost identical word count. Happier after limiting replies to social circle.", "tag": "raw"}
+{"a": "tualatrix", "l": 21, "t": "0516", "s": "Video of car voice saying speed OK, no speeding.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "0329", "s": "Complaint about Air China flight cancellation without notice.", "tag": "raw"}
+{"a": "linyunqiu", "l": 0, "t": "1028", "s": "Hello World", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "11點lu", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "waiting someone", "tag": "raw"}
+{"a": "garywong", "l": 0, "t": "0415", "s": "hello everyone", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0316", "s": "東北の人家でけぇ……@ NHK教育", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "つぃったも2ちゃんも おもいおもい", "tag": "raw"}
+{"a": "hw_star", "l": 0, "t": "0315", "s": "ﾉｽ  ﾄﾗ   ﾀﾞﾑ  ｽｩｩｩｩｩｩｩｩｩｯｯ", "tag": "raw"}
+{"a": "mranti", "l": 260, "t": "0515", "s": "You don't live in China? Such a stupid statement that doesn't match facts.", "tag": "raw"}
+{"a": "mranti", "l": 166, "t": "0515", "s": "Why Musk son's clothes edited to look like hanbok in photos today. Video shows clearly.", "tag": "raw"}
+{"a": "mranti", "l": 131, "t": "0515", "s": "How does it bring more benefits to Chinese people? Do you think Chinese people are idiots?", "tag": "raw"}
+{"a": "nishuang", "l": 37, "t": "0409", "s": "Why Apple does unnecessary innovations: perceived obsolescence to make old iPhones feel outdated.", "tag": "raw"}
+{"a": "nishuang", "l": 33, "t": "0409", "s": "APP design game feel vs gamification. CapWords makes learning words fun like collecting Pokemon.", "tag": "raw"}
+{"a": "nishuang", "l": 31, "t": "0409", "s": "Apple flew 5 planes of iPhones to US to avoid tariffs. Inventory enough for months.", "tag": "raw"}
+{"a": "a16z", "l": 1362, "t": "0514", "s": "From System of Record to System of Intelligence in agentic world.", "tag": "raw"}
+{"a": "a16z", "l": 1067, "t": "0513", "s": "Salesforce opening APIs, headless bet on data layer value.", "tag": "raw"}
+{"a": "a16z", "l": 588, "t": "0513", "s": "Stitch raised $25M Series A led by a16z for financial institutions OS.", "tag": "raw"}
+{"a": "ycombinator", "l": 904, "t": "0515", "s": "Clicky is simplest interface to spawn agents that see screen, answer questions, make docs etc.", "tag": "raw"}
+{"a": "ycombinator", "l": 409, "t": "0516", "s": "Thanks for a great time, India.", "tag": "raw"}
+{"a": "ycombinator", "l": 317, "t": "0515", "s": "AgentPhone rebuilds telecom for AI agents with phone numbers.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 101, "t": "0515", "s": "Invested in Luel, marketplace for multimodal AI training data.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 22, "t": "0515", "s": "Discussion on Demis Hassabis book The Infinity Machine.", "tag": "raw"}
+{"a": "lightspeedvp", "l": 15, "t": "0514", "s": "Invested in Flick, AI-native toolkit for filmmakers.", "tag": "raw"}
+{"a": "sequoia", "l": 35, "t": "0506", "s": "Flappy Airplanes talk on data efficiency for AI at AI Ascent.", "tag": "raw"}
+{"a": "sequoia", "l": 30, "t": "0430", "s": "Thanks Karpathy for talk at AI Ascent.", "tag": "raw"}
+{"a": "sequoia", "l": 29, "t": "0508", "s": "Jim Fan quote on robotics timing.", "tag": "raw"}
+{"a": "foundersfund", "l": 644, "t": "0612", "s": "No Rivals Part I: The Prophet about Founders Fund.", "tag": "raw"}
+{"a": "foundersfund", "l": 284, "t": "0624", "s": "Scott Nolan interview on anti-category investing.", "tag": "raw"}
+{"a": "foundersfund", "l": 200, "t": "0626", "s": "No Rivals Part III: The Gospel.", "tag": "raw"}
+{"a": "eladgil", "l": 399, "t": "0512", "s": "Long Lake did first AI-driven take private of $6.3B Amex Global Business Travel.", "tag": "raw"}
+{"a": "eladgil", "l": 128, "t": "0512", "s": "Congrats to Demis Hassabis and Isomorphic Labs on $2.1B funding.", "tag": "raw"}
+{"a": "eladgil", "l": 112, "t": "0511", "s": "Colossus piece on Scott Wu of Cognition AI is so good.", "tag": "raw"}
+{"a": "pmarca", "l": 1597, "t": "0516", "s": "Too old for YC, too unpedigreed for Sequoia, too straight for Founders Fund. Found our niche!", "tag": "raw"}
+{"a": "pmarca", "l": 1366, "t": "0516", "s": "Nuclear power plants ultra-safe, total deaths round to zero.", "tag": "raw"}
+{"a": "pmarca", "l": 159, "t": "0516", "s": "Co-sign Ken Griffin on AI productivity step change.", "tag": "raw"}
+{"a": "bchesky", "l": 1088, "t": "0509", "s": "ChatGPT interface doesn’t work for Airbnb. Future should be conversational but visually richer.", "tag": "raw"}
+{"a": "bchesky", "l": 636, "t": "0509", "s": "$100B goes through app yearly. Redesigning AI-native flow without killing conversion is hard.", "tag": "raw"}
+{"a": "bchesky", "l": 524, "t": "0510", "s": "I’m not saying current interface optimal for AI. It isn’t.", "tag": "raw"}
+{"a": "chamath", "l": 3634, "t": "0516", "s": "Anthropic needs to solve computer/power or be Friendster of AI. Claude refused stock screening prompt.", "tag": "raw"}
+{"a": "chamath", "l": 1562, "t": "0515", "s": "Framework for AI stack: Infrastructure, Chips, Data, Models, Execution, Application.", "tag": "raw"}
+{"a": "chamath", "l": 1413, "t": "0515", "s": "Social Capital led Series A 13 years ago for company now doing mine sweeping for US Navy.", "tag": "raw"}
+{"a": "paulg", "l": 2181, "t": "0516", "s": "If Steve Jobs alive, moral authority to solve phone business problem.", "tag": "raw"}
+{"a": "paulg", "l": 995, "t": "0516", "s": "No investor right to push acquisition if founders don't want.", "tag": "raw"}
+{"a": "paulg", "l": 313, "t": "0516", "s": "Bought expensive books after Viaweb money, always browsed by subject.", "tag": "raw"}
+{"a": "TheInformation", "l": 39, "t": "0516", "s": "Anthropic revenue surging, customers accept unpredictable bills for Claude.", "tag": "raw"}
+{"a": "TheInformation", "l": 26, "t": "0516", "s": "OpenAI hired from Apple hardware, frustrated with partnership.", "tag": "raw"}
+{"a": "TheInformation", "l": 17, "t": "0516", "s": "Companies struggle predicting Anthropic Claude costs due to lack of telemetry.", "tag": "raw"}
+{"a": "TechCrunch", "l": 56, "t": "0516", "s": "OpenAI co-founder Greg Brockman takes charge of product strategy.", "tag": "raw"}
+{"a": "TechCrunch", "l": 43, "t": "0515", "s": "RJ Scaringe raised $12B+ across startups, investors want more.", "tag": "raw"}
+{"a": "TechCrunch", "l": 41, "t": "0516", "s": "The haves and have nots of the AI gold rush.", "tag": "raw"}
+{"a": "verge", "l": 427, "t": "0515", "s": "Xbox is now XBOX.", "tag": "raw"}
+{"a": "verge", "l": 47, "t": "0516", "s": "Ford and GM back away from EVs, pivot to battery storage for AI.", "tag": "raw"}
+{"a": "verge", "l": 36, "t": "0516", "s": "40 favorite deals from REI Anniversary Sale.", "tag": "raw"}
+{"a": "WIRED", "l": 19, "t": "0516", "s": "Men obsessed with AI. Many wives hate it—and them.", "tag": "raw"}
+{"a": "WIRED", "l": 19, "t": "0516", "s": "More accurate cholesterol risk measure exists. Why don't more doctors use it?", "tag": "raw"}
+{"a": "WIRED", "l": 15, "t": "0516", "s": "Cuddly AI companions for kids could disrupt play, some lawmakers want ban.", "tag": "raw"}
