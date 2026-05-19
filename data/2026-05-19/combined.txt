@@ -1,0 +1,51 @@
+{"a": "elonmusk", "l": 60082, "t": "0518", "s": "Insane. Quoting a post about UK primary schools teaching 7-year-olds about white privilege, calling it child abuse and indoctrination.", "tag": "raw"}
+{"a": "elonmusk", "l": 68467, "t": "0518", "s": "Regarding OpenAI case, judge ruled on technicality not merits. Altman & Brockman stole from charity. Will appeal to protect charitable giving.", "tag": "raw"}
+{"a": "elonmusk", "l": 43799, "t": "0518", "s": "Please define precisely what is a woman. XX chromosomes?", "tag": "raw"}
+{"a": "sama", "l": 10696, "t": "0518", "s": "chatgpt has gotten soooo much better with the latest update. really proud of the team for this one.", "tag": "raw"}
+{"a": "sama", "l": 9904, "t": "0518", "s": "ChatGPT Images 2.0 💚 India. Already more than 1 billion images created there.", "tag": "raw"}
+{"a": "sama", "l": 10052, "t": "0514", "s": "Codex in the ChatGPT mobile app!", "tag": "raw"}
+{"a": "karpathy", "l": 1918, "t": "0518", "s": "Comment on nanochat video recording and booting 8XH100 hardware.", "tag": "raw"}
+{"a": "karpathy", "l": 17535, "t": "0511", "s": "Discussion on using HTML output from LLMs for better presentation, vision as preferred AI output, future of interactive neural videos.", "tag": "raw"}
+{"a": "karpathy", "l": 44631, "t": "0430", "s": "Quoting: you can outsource your thinking but you cannot outsource your understanding.", "tag": "raw"}
+{"a": "demishassabis", "l": 19425, "t": "0512", "s": "Announcing $2.1B funding for Isomorphic Labs to reimagine drug discovery and solve disease with AI.", "tag": "raw"}
+{"a": "demishassabis", "l": 2049, "t": "0512", "s": "Really cool work reimagining the mouse pointer with AI.", "tag": "raw"}
+{"a": "demishassabis", "l": 3466, "t": "0509", "s": "10 years since AlphaGo win. Reminiscing with Lee Sedol.", "tag": "raw"}
+{"a": "DarioAmodei", "l": 12254, "t": "0407", "s": "Proud of Project Glasswing with Claude Mythos Preview to secure software against AI cyber threats.", "tag": "raw"}
+{"a": "DarioAmodei", "l": 15368, "t": "0126", "s": "Essay on risks from powerful AI to security, economies, democracy.", "tag": "raw"}
+{"a": "DarioAmodei", "l": 905, "t": "0407", "s": "Cyber is first clear danger from frontier AI.", "tag": "raw"}
+{"a": "OpenAI", "l": 21798, "t": "0514", "s": "Codex in the ChatGPT mobile app. Start work, review outputs on mobile.", "tag": "raw"}
+{"a": "OpenAI", "l": 11406, "t": "0511", "s": "Introducing Daybreak: frontier AI for cyber defenders.", "tag": "raw"}
+{"a": "OpenAI", "l": 11427, "t": "0511", "s": "Launching OpenAI Deployment Company to help businesses deploy AI.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 2073, "t": "0518", "s": "Acquiring stainlessapi, SDK platform powering Anthropic SDKs.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 5793, "t": "0514", "s": "Paper on AI competition between US and China.", "tag": "raw"}
+{"a": "AnthropicAI", "l": 2961, "t": "0511", "s": "Claude's Constitution now an audiobook.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 8585, "t": "0512", "s": "Reimagining the mouse pointer with AI using motion, speech.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 466, "t": "0518", "s": "Promo for Google I/O tomorrow.", "tag": "raw"}
+{"a": "GoogleDeepMind", "l": 1447, "t": "0507", "s": "AlphaEvolve accelerating progress in quantum, biotech, etc.", "tag": "raw"}
+{"a": "xai", "l": 7969, "t": "0516", "s": "Grok subscription in Hermes Agent, now searches X posts.", "tag": "raw"}
+{"a": "xai", "l": 10164, "t": "0514", "s": "Early beta of Grok Build, agentic CLI for coding.", "tag": "raw"}
+{"a": "xai", "l": 25327, "t": "0506", "s": "SpaceXAI providing Colossus access to Anthropic.", "tag": "raw"}
+{"a": "AIatMeta", "l": 1211, "t": "0424", "s": "Agreement with AWS for Graviton cores to scale AI infrastructure.", "tag": "raw"}
+{"a": "AIatMeta", "l": 649, "t": "0410", "s": "Muse Spark coming soon.", "tag": "raw"}
+{"a": "AIatMeta", "l": 39, "t": "0501", "s": "Welcome to the team.", "tag": "raw"}
+{"a": "GoogleAI", "l": 684, "t": "0508", "s": "Weekly updates including health coach, MTP in Gemma, etc.", "tag": "raw"}
+{"a": "GoogleAI", "l": 2569, "t": "0430", "s": "Gemini Embedding 2 explanation and uses.", "tag": "raw"}
+{"a": "GoogleAI", "l": 670, "t": "0501", "s": "Call for creative countdown projects for I/O using AI tools.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 130, "t": "0513", "s": "New tools and papers on AI agents, verification.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 110, "t": "0515", "s": "New releases including MagenticLite, agentic workflows.", "tag": "raw"}
+{"a": "MSFTResearch", "l": 24, "t": "0518", "s": "Research Focus on cloud efficiency, agents, etc.", "tag": "raw"}
+{"a": "GregBrockman", "l": 2, "t": "0308", "s": "Smash!!!", "tag": "raw"}
+{"a": "GregBrockman", "l": 0, "t": "0118", "s": "❤️❤️❤️❤️❤️", "tag": "raw"}
+{"a": "GregBrockman", "l": 0, "t": "1230", "s": "Mmmmmm cakes!!", "tag": "raw"}
+{"a": "GaryMarcus", "l": 63, "t": "0518", "s": "Americans more comfortable near nuclear plant than AI data center. Critique of AI oligarchs.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 33, "t": "0518", "s": "On AI methods leveraging human knowledge.", "tag": "raw"}
+{"a": "GaryMarcus", "l": 27, "t": "0518", "s": "On Dario and AI scary card.", "tag": "raw"}
+{"a": "lexfridman", "l": 14687, "t": "0514", "s": "I'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks of life.", "tag": "raw"}
+{"a": "lexfridman", "l": 4753, "t": "0506", "s": "Here's my conversation all about @FFmpeg, the legendary open-source software powering most video on the Internet. In the episode, I talk with Jean-Baptiste Kempf and Kieran Kunhya.", "tag": "raw"}
+{"a": "lexfridman", "l": 13568, "t": "0407", "s": "This life is fucking amazing. I'm so grateful to be alive, with all of you on this miracle of a planet. Oh and I'm sorry if I fuck things up sometimes.", "tag": "raw"}
+{"a": "hubermanlab", "l": 214, "t": "0518", "s": "Train legs properly in your upper strength range & you’ll likely be walking this one back… or rather, not walking. Try the rock carry with Cam Hanes.", "tag": "raw"}
+{"a": "hubermanlab", "l": 248, "t": "0518", "s": "Happiness & wellbeing are like a leaky tire. You have to keep pumping them up. Because we adapt. Thinking about these as moments & not some larger trait reframes everything in beneficial ways.", "tag": "raw"}
+{"a": "hubermanlab", "l": 297, "t": "0518", "s": "The new Huberman Lab episode is out: How to Overcome Social Anxiety | Dr. Nick Epley", "tag": "raw"}
+{"a": "swyx", "l": 34, "t": "0518", "s": "wordcels feel like they are winning extremely hard rn but it is because they cannot reason beyond 3 dimensions the way tensor rotators can. ignorance is bliss.", "tag": "raw"}
+{"a": "swyx", "l": 120, "t": "0518", "s": "this seems quite doable in the space of a single 2-3 hour workshop — any brave soul want to try to livecode this for people as a learning exercise?", "tag": "raw"}
+{"a": "swyx", "l": 2, "t": "0518", "s": "great to hang out! this was my show btw https://www.youtube.com/watch?v=_2o45F3BhCs", "tag": "raw"}

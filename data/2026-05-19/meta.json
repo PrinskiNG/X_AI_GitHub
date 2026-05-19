@@ -1,0 +1,142 @@
+{
+  "elonmusk": {
+    "total": 10,
+    "max_l": 68467,
+    "latest": "0518"
+  },
+  "sama": {
+    "total": 10,
+    "max_l": 21354,
+    "latest": "0518"
+  },
+  "karpathy": {
+    "total": 10,
+    "max_l": 44631,
+    "latest": "0518"
+  },
+  "demishassabis": {
+    "total": 10,
+    "max_l": 19425,
+    "latest": "0513"
+  },
+  "DarioAmodei": {
+    "total": 10,
+    "max_l": 15368,
+    "latest": "0407"
+  },
+  "OpenAI": {
+    "total": 10,
+    "max_l": 21798,
+    "latest": "0514"
+  },
+  "AnthropicAI": {
+    "total": 10,
+    "max_l": 5793,
+    "latest": "0518"
+  },
+  "GoogleDeepMind": {
+    "total": 10,
+    "max_l": 8585,
+    "latest": "0518"
+  },
+  "xai": {
+    "total": 10,
+    "max_l": 25327,
+    "latest": "0516"
+  },
+  "AIatMeta": {
+    "total": 10,
+    "max_l": 1211,
+    "latest": "0501"
+  },
+  "GoogleAI": {
+    "total": 10,
+    "max_l": 2569,
+    "latest": "0508"
+  },
+  "MSFTResearch": {
+    "total": 10,
+    "max_l": 130,
+    "latest": "0518"
+  },
+  "IlyaSutskever": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "GregBrockman": {
+    "total": 10,
+    "max_l": 2,
+    "latest": "0308"
+  },
+  "GaryMarcus": {
+    "total": 10,
+    "max_l": 63,
+    "latest": "0518"
+  },
+  "rowancheung": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "clmcleod": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "bindureddy": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "dotey": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "oran_ge": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "vista8": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "imxiaohu": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "Sxsyer": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "K_O_D_A_D_A": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "aipubcast": {
+    "total": 0,
+    "max_l": 0,
+    "latest": "NA"
+  },
+  "lexfridman": {
+    "total": 10,
+    "max_l": 14687,
+    "latest": "0514"
+  },
+  "hubermanlab": {
+    "total": 10,
+    "max_l": 297,
+    "latest": "0518"
+  },
+  "swyx": {
+    "total": 10,
+    "max_l": 120,
+    "latest": "0518"
+  }
+}
